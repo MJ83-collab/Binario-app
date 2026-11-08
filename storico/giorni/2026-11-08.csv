@@ -22,8 +22,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10056;REG;Varese Nord;S01933;Saronno;16:00;3;0;0;15:38;RFI
 2026-11-08;10059;REG;Milano Cadorna;S01933;Saronno;16:58;0;0;0;16:35;RFI
 2026-11-08;10060;REG;Varese Nord;S01933;Saronno;17:00;3;0;0;16:35;RFI
-2026-11-08;10065;REG;Milano Cadorna;S01933;Saronno;17:58;0;0;0;16:35;RFI
-2026-11-08;10066;REG;Varese Nord;S01933;Saronno;18:00;0;0;0;16:35;RFI
+2026-11-08;10065;REG;Milano Cadorna;S01933;Saronno;17:58;0;0;0;17:38;RFI
+2026-11-08;10066;REG;Varese Nord;S01933;Saronno;18:00;4;0;0;17:38;RFI
+2026-11-08;10072;REG;Varese Nord;S01933;Saronno;19:00;0;0;0;17:38;RFI
+2026-11-08;10073;REG;Milano Cadorna;S01933;Saronno;18:58;0;0;0;17:38;RFI
 2026-11-08;10110;REG;Brescia;S01529;Bergamo;06:16;4;0;0;05:51;RFI
 2026-11-08;10112;REG;Brescia;S01529;Bergamo;06:54;2;0;0;06:48;RFI
 2026-11-08;10114;REG;Brescia;S01529;Bergamo;07:54;-1;0;1;07:55;RFI
@@ -46,16 +48,20 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10131;REG;Bergamo;S01717;Brescia;15:03;8;0;0;14:49;RFI
 2026-11-08;10132;REG;Brescia;S01529;Bergamo;16:54;3;0;0;16:35;RFI
 2026-11-08;10133;REG;Bergamo;S01717;Brescia;16:03;6;0;0;15:38;RFI
-2026-11-08;10134;REG;Brescia;S01529;Bergamo;17:54;0;0;0;16:35;RFI
+2026-11-08;10134;REG;Brescia;S01529;Bergamo;17:54;3;0;0;17:38;RFI
 2026-11-08;10135;REG;Bergamo;S01717;Brescia;17:03;2;0;0;16:35;RFI
-2026-11-08;10137;REG;Bergamo;S01717;Brescia;18:03;0;0;0;16:35;RFI
+2026-11-08;10136;REG;Brescia;S01529;Bergamo;18:54;0;0;0;17:38;RFI
+2026-11-08;10137;REG;Bergamo;S01717;Brescia;18:03;2;0;0;17:38;RFI
+2026-11-08;10139;REG;Bergamo;S01717;Brescia;19:03;0;0;0;17:38;RFI
 2026-11-08;10198;REG;Milano Porta Garibaldi;S01322;Monza;07:37;2;0;1;07:55;RFI
 2026-11-08;10198;REG;Milano Porta Garibaldi;S01520;Lecco;08:14;2;0;0;07:55;RFI
 2026-11-08;10300;REG;Milano Porta Garibaldi;S01322;Monza;08:37;0;0;0;07:55;RFI
 2026-11-08;10300;REG;Milano Porta Garibaldi;S01520;Lecco;09:14;6;0;0;08:58;RFI
-2026-11-08;10301;REG;Sondrio;S01520;Lecco;17:45;15;0;0;16:35;RFI
+2026-11-08;10301;REG;Sondrio;S01322;Monza;18:21;3;0;0;17:38;RFI
+2026-11-08;10301;REG;Sondrio;S01520;Lecco;17:45;3;0;0;17:38;RFI
 2026-11-08;10302;REG;Milano Porta Garibaldi;S01322;Monza;09:37;6;0;1;09:49;RFI
 2026-11-08;10302;REG;Milano Porta Garibaldi;S01520;Lecco;10:14;6;0;0;09:49;RFI
+2026-11-08;10303;REG;Sondrio;S01520;Lecco;18:45;12;0;0;17:38;RFI
 2026-11-08;10353;REG;Sondrio;S01322;Monza;08:21;1;0;0;07:55;RFI
 2026-11-08;10353;REG;Sondrio;S01520;Lecco;07:45;1;0;1;07:55;RFI
 2026-11-08;10355;REG;Sondrio;S01322;Monza;09:21;0;0;0;08:58;RFI
@@ -86,8 +92,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10371;REG;Sondrio;S01520;Lecco;16:45;5;0;0;16:35;RFI
 2026-11-08;10372;REG;Milano Porta Garibaldi;S01322;Monza;16:37;1;0;0;16:35;RFI
 2026-11-08;10372;REG;Milano Porta Garibaldi;S01520;Lecco;17:14;1;0;0;16:35;RFI
-2026-11-08;10374;REG;Milano Porta Garibaldi;S01322;Monza;17:37;0;0;0;16:35;RFI
-2026-11-08;10374;REG;Milano Porta Garibaldi;S01520;Lecco;18:14;0;0;0;16:35;RFI
+2026-11-08;10374;REG;Milano Porta Garibaldi;S01322;Monza;17:37;3;0;0;17:38;RFI
+2026-11-08;10374;REG;Milano Porta Garibaldi;S01520;Lecco;18:14;3;0;0;17:38;RFI
+2026-11-08;10376;REG;Milano Porta Garibaldi;S01322;Monza;18:37;0;0;0;17:38;RFI
+2026-11-08;10376;REG;Milano Porta Garibaldi;S01520;Lecco;19:14;0;0;0;17:38;RFI
 2026-11-08;10452;REG;Piacenza;S01820;Milano Rogoredo;07:09;0;0;0;06:48;RFI
 2026-11-08;10452;REG;Piacenza;S01860;Pavia;06:51;0;0;0;06:48;RFI
 2026-11-08;10454;REG;Piacenza;S01820;Milano Rogoredo;08:09;0;1;0;07:55;RFI
@@ -116,12 +124,16 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10472;REG;Stradella;S01860;Pavia;16:51;0;0;0;16:35;RFI
 2026-11-08;10473;REG;Milano Porta Garibaldi;S01820;Milano Rogoredo;15:50;-2;0;0;15:38;RFI
 2026-11-08;10473;REG;Milano Porta Garibaldi;S01860;Pavia;16:08;-2;0;0;15:38;RFI
-2026-11-08;10474;REG;Stradella;S01820;Milano Rogoredo;18:09;0;0;0;16:35;RFI
-2026-11-08;10474;REG;Stradella;S01860;Pavia;17:51;0;0;0;16:35;RFI
+2026-11-08;10474;REG;Stradella;S01820;Milano Rogoredo;18:09;6;0;0;17:38;RFI
+2026-11-08;10474;REG;Stradella;S01860;Pavia;17:51;6;0;0;17:38;RFI
 2026-11-08;10475;REG;Milano Porta Garibaldi;S01820;Milano Rogoredo;16:50;-4;0;0;16:35;RFI
 2026-11-08;10475;REG;Milano Porta Garibaldi;S01860;Pavia;17:08;-4;0;0;16:35;RFI
-2026-11-08;10477;REG;Milano Porta Garibaldi;S01820;Milano Rogoredo;17:50;0;0;0;16:35;RFI
-2026-11-08;10477;REG;Milano Porta Garibaldi;S01860;Pavia;18:08;0;0;0;16:35;RFI
+2026-11-08;10476;REG;Stradella;S01820;Milano Rogoredo;19:09;0;0;0;17:38;RFI
+2026-11-08;10476;REG;Stradella;S01860;Pavia;18:51;0;0;0;17:38;RFI
+2026-11-08;10477;REG;Milano Porta Garibaldi;S01820;Milano Rogoredo;17:50;-4;0;0;17:38;RFI
+2026-11-08;10477;REG;Milano Porta Garibaldi;S01860;Pavia;18:08;-4;0;0;17:38;RFI
+2026-11-08;10479;REG;Milano Porta Garibaldi;S01820;Milano Rogoredo;18:50;0;0;0;17:38;RFI
+2026-11-08;10479;REG;Milano Porta Garibaldi;S01860;Pavia;19:08;0;0;0;17:38;RFI
 2026-11-08;10501;REG;Bergamo;S01717;Brescia;07:38;2;0;0;06:48;RFI
 2026-11-08;10514;REG;Cremona;S01717;Brescia;07:22;1;0;0;06:48;RFI
 2026-11-08;10518;REG;Cremona;S01717;Brescia;09:22;1;0;0;08:58;RFI
@@ -131,18 +143,20 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10528;REG;Cremona;S01717;Brescia;14:22;1;0;0;13:47;RFI
 2026-11-08;10530;REG;Cremona;S01717;Brescia;15:22;5;0;1;15:38;RFI
 2026-11-08;10532;REG;Cremona;S01717;Brescia;16:22;2;0;1;16:35;RFI
-2026-11-08;10534;REG;Cremona;S01717;Brescia;17:22;0;0;0;16:35;RFI
+2026-11-08;10534;REG;Cremona;S01717;Brescia;17:22;3;0;1;17:38;RFI
+2026-11-08;10536;REG;Cremona;S01717;Brescia;18:22;1;0;0;17:38;RFI
 2026-11-08;10564;REG;Alessandria;S01860;Pavia;07:55;2;0;0;07:55;RFI
 2026-11-08;10566;REG;Alessandria;S01860;Pavia;08:55;1;0;1;08:58;RFI
 2026-11-08;10568;REG;Alessandria;S01860;Pavia;09:55;1;0;0;09:49;RFI
 2026-11-08;10574;REG;Alessandria;S01860;Pavia;12:55;0;0;0;12:37;RFI
 2026-11-08;10578;REG;Alessandria;S01860;Pavia;14:55;5;0;0;14:49;RFI
 2026-11-08;10582;REG;Alessandria;S01860;Pavia;16:55;1;0;0;16:35;RFI
+2026-11-08;10586;REG;Alessandria;S01860;Pavia;18:55;0;0;0;17:38;RFI
 2026-11-08;10663;REG;Vercelli;S01860;Pavia;07:28;3;0;0;06:48;RFI
 2026-11-08;10667;REG;Vercelli;S01860;Pavia;09:28;-1;0;0;08:58;RFI
 2026-11-08;10675;REG;Vercelli;S01860;Pavia;13:28;4;0;0;12:37;RFI
 2026-11-08;10679;REG;Vercelli;S01860;Pavia;15:28;4;0;1;15:38;RFI
-2026-11-08;10683;REG;Vercelli;S01860;Pavia;17:28;2;0;0;16:35;RFI
+2026-11-08;10683;REG;Vercelli;S01860;Pavia;17:28;-1;0;1;17:38;RFI
 2026-11-08;10716;REG;Ponte S.Pietro;S01520;Lecco;07:40;-1;0;1;07:55;RFI
 2026-11-08;10718;REG;Ponte S.Pietro;S01520;Lecco;08:49;-2;0;1;08:58;RFI
 2026-11-08;10720;REG;Ponte S.Pietro;S01520;Lecco;09:49;-2;0;1;09:49;RFI
@@ -153,14 +167,16 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10730;REG;Ponte S.Pietro;S01520;Lecco;14:49;-3;0;1;14:49;RFI
 2026-11-08;10732;REG;Ponte S.Pietro;S01520;Lecco;15:49;2;0;0;15:38;RFI
 2026-11-08;10734;REG;Ponte S.Pietro;S01520;Lecco;16:49;2;0;0;16:35;RFI
-2026-11-08;10736;REG;Ponte S.Pietro;S01520;Lecco;17:49;0;0;0;16:35;RFI
+2026-11-08;10736;REG;Ponte S.Pietro;S01520;Lecco;17:49;3;0;0;17:38;RFI
+2026-11-08;10738;REG;Ponte S.Pietro;S01520;Lecco;18:49;0;0;0;17:38;RFI
 2026-11-08;10756;REG;Codogno;S01860;Pavia;07:54;-2;0;1;07:55;RFI
 2026-11-08;10758;REG;Cremona;S01860;Pavia;08:54;-1;0;1;08:58;RFI
 2026-11-08;10766;REG;Codogno;S01860;Pavia;12:54;1;0;0;12:37;RFI
 2026-11-08;10768;REG;Codogno;S01860;Pavia;13:54;0;0;0;13:47;RFI
 2026-11-08;10770;REG;Codogno;S01860;Pavia;14:54;0;0;0;14:49;RFI
 2026-11-08;10774;REG;Codogno;S01860;Pavia;16:54;1;0;0;16:35;RFI
-2026-11-08;10776;REG;Codogno;S01860;Pavia;17:54;0;0;0;16:35;RFI
+2026-11-08;10776;REG;Codogno;S01860;Pavia;17:54;1;0;0;17:38;RFI
+2026-11-08;10778;REG;Codogno;S01860;Pavia;18:54;0;0;0;17:38;RFI
 2026-11-08;10814;REG;Parma;S01717;Brescia;08:07;4;0;0;07:55;RFI
 2026-11-08;10818;REG;Parma;S01717;Brescia;10:07;-1;0;0;09:49;RFI
 2026-11-08;10822;REG;Parma;S01717;Brescia;12:07;2;0;0;11:41;RFI
@@ -168,7 +184,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10828;REG;Parma;S01717;Brescia;15:07;2;0;0;14:49;RFI
 2026-11-08;10830;REG;Parma;S01717;Brescia;16:07;1;0;0;15:38;RFI
 2026-11-08;10832;REG;Parma;S01717;Brescia;17:07;2;0;0;16:35;RFI
-2026-11-08;10834;REG;Parma;S01717;Brescia;18:07;0;0;0;16:35;RFI
+2026-11-08;10834;REG;Parma;S01717;Brescia;18:07;3;0;0;17:38;RFI
+2026-11-08;10836;REG;Parma;S01717;Brescia;19:05;8;0;0;17:38;RFI
 2026-11-08;10853;REG;Milano Greco Pirelli;S01820;Milano Rogoredo;05:59;0;0;0;05:51;RFI
 2026-11-08;10854;REG;Piacenza;S01820;Milano Rogoredo;06:59;5;0;0;06:48;RFI
 2026-11-08;10856;REG;Codogno;S01820;Milano Rogoredo;07:59;1;0;0;07:55;RFI
@@ -187,8 +204,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10873;REG;Milano Greco Pirelli;S01820;Milano Rogoredo;15:59;0;0;0;15:38;RFI
 2026-11-08;10874;REG;Piacenza;S01820;Milano Rogoredo;16:59;1;0;0;16:35;RFI
 2026-11-08;10875;REG;Milano Greco Pirelli;S01820;Milano Rogoredo;16:59;0;0;0;16:35;RFI
-2026-11-08;10876;REG;Piacenza;S01820;Milano Rogoredo;17:59;0;0;0;16:35;RFI
-2026-11-08;10877;REG;Milano Greco Pirelli;S01820;Milano Rogoredo;17:59;0;0;0;16:35;RFI
+2026-11-08;10876;REG;Piacenza;S01820;Milano Rogoredo;17:59;1;0;0;17:38;RFI
+2026-11-08;10877;REG;Milano Greco Pirelli;S01820;Milano Rogoredo;17:59;0;0;0;17:38;RFI
+2026-11-08;10878;REG;Piacenza;S01820;Milano Rogoredo;18:59;0;0;0;17:38;RFI
+2026-11-08;10879;REG;Milano Greco Pirelli;S01820;Milano Rogoredo;18:59;0;0;0;17:38;RFI
 2026-11-08;10896;REG;Piacenza;S01820;Milano Rogoredo;09:29;1;0;0;08:58;RFI
 2026-11-08;10911;REG;Milano Centrale;S01717;Brescia;01:35;-5;0;1;01:58;RFI
 2026-11-08;10913;REG;Milano Greco Pirelli;S01717;Brescia;07:13;2;0;0;06:48;RFI
@@ -199,7 +218,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;10929;REG;Milano Greco Pirelli;S01717;Brescia;15:13;1;0;0;14:49;RFI
 2026-11-08;10931;REG;Milano Greco Pirelli;S01717;Brescia;16:13;3;0;0;15:38;RFI
 2026-11-08;10933;REG;Milano Greco Pirelli;S01717;Brescia;17:13;2;0;0;16:35;RFI
-2026-11-08;10935;REG;Milano Greco Pirelli;S01717;Brescia;18:13;0;0;0;16:35;RFI
+2026-11-08;10935;REG;Milano Greco Pirelli;S01717;Brescia;18:13;3;0;0;17:38;RFI
+2026-11-08;10937;REG;Milano Greco Pirelli;S01717;Brescia;19:13;0;0;0;17:38;RFI
 2026-11-08;11;EC;Chiasso;S01307;Como S. Giovanni;09:08;0;0;0;08:58;RFI
 2026-11-08;11;EC;Chiasso;S01700;Milano Centrale;09:53;-6;0;1;09:49;RFI
 2026-11-08;110;REG;Como Lago;S01933;Saronno;05:56;1;0;0;05:51;RFI
@@ -218,8 +238,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;12052;REG;Genova Brignole;S04700;Genova Piazza Principe;15:26;1;0;1;15:38;RFI
 2026-11-08;12053;REG;Arquata Scrivia;S04700;Genova Piazza Principe;15:57;-3;0;0;15:38;RFI
 2026-11-08;12056;REG;Genova Brignole;S04700;Genova Piazza Principe;16:26;-1;0;1;16:35;RFI
-2026-11-08;12061;REG;Arquata Scrivia;S04700;Genova Piazza Principe;17:57;0;0;0;16:35;RFI
-2026-11-08;12076;REG;Genova Brignole;S04700;Genova Piazza Principe;17:26;0;0;0;16:35;RFI
+2026-11-08;12061;REG;Arquata Scrivia;S04700;Genova Piazza Principe;17:57;-3;0;0;17:38;RFI
+2026-11-08;12064;REG;Genova Brignole;S04700;Genova Piazza Principe;18:26;0;0;0;17:38;RFI
+2026-11-08;12065;REG;Arquata Scrivia;S04700;Genova Piazza Principe;18:57;0;0;0;17:38;RFI
+2026-11-08;12076;REG;Genova Brignole;S04700;Genova Piazza Principe;17:26;3;0;1;17:38;RFI
 2026-11-08;12115;REG;Acqui Terme;S04700;Genova Piazza Principe;07:27;2;0;0;06:48;RFI
 2026-11-08;12116;REG;Genova Brignole;S04700;Genova Piazza Principe;07:12;0;0;0;06:48;RFI
 2026-11-08;12120;REG;Genova Brignole;S04700;Genova Piazza Principe;09:19;0;0;0;08:58;RFI
@@ -230,10 +252,12 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;12128;REG;Genova Brignole;S04700;Genova Piazza Principe;13:19;0;0;0;12:37;RFI
 2026-11-08;12129;REG;Acqui Terme;S04700;Genova Piazza Principe;14:43;0;0;1;14:49;RFI
 2026-11-08;12134;REG;Genova Brignole;S04700;Genova Piazza Principe;16:19;0;0;0;15:38;RFI
-2026-11-08;12135;REG;Acqui Terme;S04700;Genova Piazza Principe;17:43;-1;0;0;16:35;RFI
+2026-11-08;12135;REG;Acqui Terme;S04700;Genova Piazza Principe;17:43;1;0;0;17:38;RFI
+2026-11-08;12138;REG;Genova Brignole;S04700;Genova Piazza Principe;18:19;0;0;0;17:38;RFI
 2026-11-08;122;REG;Como Lago;S01933;Saronno;07:56;3;0;0;07:55;RFI
 2026-11-08;12216;REG;La Spezia Centrale;S04700;Genova Piazza Principe;09:04;1;0;0;08:58;RFI
-2026-11-08;123;EC;Chiasso;S01307;Como S. Giovanni;18:08;0;0;0;16:35;RFI
+2026-11-08;123;EC;Chiasso;S01307;Como S. Giovanni;18:08;0;0;0;17:38;RFI
+2026-11-08;123;EC;Chiasso;S01700;Milano Centrale;18:53;0;0;0;17:38;RFI
 2026-11-08;123;REG;Milano Cadorna;S01933;Saronno;09:02;-1;0;0;08:58;RFI
 2026-11-08;12306;REG;Genova Brignole;S04700;Genova Piazza Principe;06:21;0;0;0;05:51;RFI
 2026-11-08;12307;REG;Savona;S04700;Genova Piazza Principe;05:38;-2;0;1;05:51;RFI
@@ -259,9 +283,11 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;12403;REG;Savona;S04700;Genova Piazza Principe;15:11;2;0;0;14:49;RFI
 2026-11-08;12412;REG;Sestri Levante;S04700;Genova Piazza Principe;16:46;3;0;0;16:35;RFI
 2026-11-08;12413;REG;Savona;S04700;Genova Piazza Principe;16:08;0;0;0;15:38;RFI
-2026-11-08;12422;REG;Sestri Levante;S04700;Genova Piazza Principe;17:46;0;0;0;16:35;RFI
+2026-11-08;12422;REG;Sestri Levante;S04700;Genova Piazza Principe;17:46;6;0;0;17:38;RFI
 2026-11-08;12423;REG;Savona;S04700;Genova Piazza Principe;17:06;1;0;0;16:35;RFI
-2026-11-08;12433;REG;Savona;S04700;Genova Piazza Principe;18:09;0;0;0;16:35;RFI
+2026-11-08;12432;REG;Sestri Levante;S04700;Genova Piazza Principe;18:46;5;0;0;17:38;RFI
+2026-11-08;12433;REG;Savona;S04700;Genova Piazza Principe;18:09;-1;0;0;17:38;RFI
+2026-11-08;12443;REG;Savona;S04700;Genova Piazza Principe;19:03;0;0;0;17:38;RFI
 2026-11-08;12490;REG;Genova Brignole;S04700;Genova Piazza Principe;00:41;0;0;0;00:09;RFI
 2026-11-08;12505;REG;Civitavecchia;S08409;Roma Termini;07:18;1;0;0;06:48;RFI
 2026-11-08;12511;REG;Civitavecchia;S08409;Roma Termini;08:18;3;0;0;07:55;RFI
@@ -269,6 +295,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;12525;REG;Civitavecchia;S08409;Roma Termini;10:50;4;0;0;10:45;RFI
 2026-11-08;12545;REG;Civitavecchia;S08409;Roma Termini;14:18;19;0;0;13:47;RFI
 2026-11-08;12551;REG;Civitavecchia;S08409;Roma Termini;16:18;-1;0;1;16:35;RFI
+2026-11-08;12555;REG;Civitavecchia;S08409;Roma Termini;18:18;15;0;0;17:38;RFI
 2026-11-08;12594;REG;Cassino;S08409;Roma Termini;07:13;1;0;0;06:48;RFI
 2026-11-08;12598;REG;Cassino;S08409;Roma Termini;07:51;19;0;0;07:55;RFI
 2026-11-08;126;REG;Como Lago;S01933;Saronno;08:56;3;0;1;08:58;RFI
@@ -276,7 +303,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;12606;REG;Cassino;S08409;Roma Termini;12:27;6;0;1;12:37;RFI
 2026-11-08;12610;REG;Cassino;S08409;Roma Termini;14:48;-3;0;1;14:49;RFI
 2026-11-08;12616;REG;Cassino;S08409;Roma Termini;15:20;1;0;1;15:38;RFI
-2026-11-08;12622;REG;Cassino;S08409;Roma Termini;17:20;0;0;0;16:35;RFI
+2026-11-08;12622;REG;Cassino;S08409;Roma Termini;17:20;-6;0;1;17:38;RFI
+2026-11-08;12626;REG;Cassino;S08409;Roma Termini;18:20;2;0;0;17:38;RFI
 2026-11-08;12688;REG;Minturno-Scauri;S08409;Roma Termini;12:24;-3;0;1;12:37;RFI
 2026-11-08;12700;REG;Frosinone;S08409;Roma Termini;06:30;-3;0;1;06:48;RFI
 2026-11-08;12726;REG;Minturno-Scauri;S08409;Roma Termini;07:05;5;0;0;06:48;RFI
@@ -285,6 +313,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;12738;REG;Minturno-Scauri;S08409;Roma Termini;15:24;-2;0;1;15:38;RFI
 2026-11-08;12753;REG;Tivoli;S08217;Roma Tiburtina;06:55;0;0;0;06:48;RFI
 2026-11-08;12763;REG;Tivoli;S08217;Roma Tiburtina;09:44;-2;0;1;09:49;RFI
+2026-11-08;12775;REG;Tivoli;S08217;Roma Tiburtina;19:06;0;0;0;17:38;RFI
 2026-11-08;1281;EC;Brennero;S02430;Verona Porta Nuova;12:56;-2;0;0;12:37;RFI
 2026-11-08;1281;EC;Brennero;S02581;Padova;13:57;16;0;0;13:47;RFI
 2026-11-08;1281;EC;Brennero;S02593;Venezia S. Lucia;14:28;15;0;0;13:47;RFI
@@ -314,6 +343,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;1539;IC;Savona;S01860;Pavia;16:24;8;0;1;16:35;RFI
 2026-11-08;1539;IC;Savona;S04700;Genova Piazza Principe;15:04;4;0;0;14:49;RFI
 2026-11-08;154;REG;Como Lago;S01933;Saronno;15:56;3;0;0;15:38;RFI
+2026-11-08;1546;IC;Lecce;S05043;Bologna Centrale;18:40;66;0;0;17:38;RFI
 2026-11-08;1546;IC;Lecce;S11119;Bari Centrale;11:07;1;0;0;10:45;RFI
 2026-11-08;1549;IC;Milano Centrale;S01860;Pavia;10:34;2;0;1;10:45;RFI
 2026-11-08;1549;IC;Milano Centrale;S04700;Genova Piazza Principe;11:38;3;0;1;11:41;RFI
@@ -347,23 +377,24 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;16345;REG;Bassano Del Grappa;S02593;Venezia S. Lucia;14:33;-3;0;1;14:49;RFI
 2026-11-08;16349;REG;Bassano Del Grappa;S02593;Venezia S. Lucia;15:33;-2;0;1;15:38;RFI
 2026-11-08;16355;REG;Bassano Del Grappa;S02593;Venezia S. Lucia;16:33;-2;0;1;16:35;RFI
-2026-11-08;16361;REG;Bassano Del Grappa;S02593;Venezia S. Lucia;17:33;-2;0;0;16:35;RFI
+2026-11-08;16361;REG;Bassano Del Grappa;S02593;Venezia S. Lucia;17:33;-3;0;1;17:38;RFI
+2026-11-08;16373;REG;Bassano Del Grappa;S02593;Venezia S. Lucia;18:33;2;0;0;17:38;RFI
 2026-11-08;16472;REG;Mantova;S02430;Verona Porta Nuova;09:17;-1;0;0;08:58;RFI
-2026-11-08;165;REG;Milano Cadorna;S01933;Saronno;18:02;0;0;0;16:35;RFI
+2026-11-08;165;REG;Milano Cadorna;S01933;Saronno;18:02;0;0;0;17:38;RFI
 2026-11-08;16505;REG;Bassano Del Grappa;S02581;Padova;07:40;0;0;1;07:55;RFI
 2026-11-08;16507;REG;Bassano Del Grappa;S02581;Padova;15:47;-2;0;0;15:38;RFI
 2026-11-08;16511;REG;Bassano Del Grappa;S02581;Padova;09:44;-1;0;1;09:49;RFI
 2026-11-08;16517;REG;Bassano Del Grappa;S02581;Padova;11:44;-1;0;0;11:41;RFI
-2026-11-08;16525;REG;Bassano Del Grappa;S02581;Padova;17:44;0;0;0;16:35;RFI
+2026-11-08;16525;REG;Bassano Del Grappa;S02581;Padova;17:44;-1;0;0;17:38;RFI
 2026-11-08;16549;REG;Bassano Del Grappa;S02581;Padova;14:44;-2;0;1;14:49;RFI
 2026-11-08;16574;REG;Venezia S.Lucia;S02581;Padova;15:22;-5;0;1;15:38;RFI
-2026-11-08;166;REG;Como Lago;S01933;Saronno;17:56;0;0;0;16:35;RFI
+2026-11-08;166;REG;Como Lago;S01933;Saronno;17:56;2;0;0;17:38;RFI
 2026-11-08;16663;REG;Bolzano;S02430;Verona Porta Nuova;09:59;-11;0;1;09:49;RFI
 2026-11-08;16671;REG;Bolzano;S02430;Verona Porta Nuova;11:55;11;0;0;11:41;RFI
 2026-11-08;16673;REG;Bolzano;S02430;Verona Porta Nuova;13:56;-9;0;1;13:47;RFI
 2026-11-08;16680;REG;Belluno;S02593;Venezia S. Lucia;10:17;3;0;0;09:49;RFI
 2026-11-08;16685;REG;Bolzano;S02430;Verona Porta Nuova;15:56;2;0;0;15:38;RFI
-2026-11-08;16693;REG;Bolzano;S02430;Verona Porta Nuova;17:55;4;0;0;16:35;RFI
+2026-11-08;16693;REG;Bolzano;S02430;Verona Porta Nuova;17:55;10;0;0;17:38;RFI
 2026-11-08;16725;REG;Verona Porta Nuova;S02581;Padova;08:00;2;0;0;07:55;RFI
 2026-11-08;16725;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;08:58;-5;0;1;08:58;RFI
 2026-11-08;16743;REG;Belluno;S02581;Padova;08:53;-1;0;1;08:58;RFI
@@ -371,16 +402,21 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;16768;REG;Belluno;S02593;Venezia S. Lucia;16:17;1;0;1;16:35;RFI
 2026-11-08;16777;REG;Udine;S02593;Venezia S. Lucia;12:47;-2;0;0;12:37;RFI
 2026-11-08;16787;REG;Udine;S02593;Venezia S. Lucia;14:47;5;0;0;14:49;RFI
+2026-11-08;168;REG;Como Lago;S01933;Saronno;18:26;0;0;0;17:38;RFI
 2026-11-08;16801;REG;Udine;S02593;Venezia S. Lucia;16:47;-2;0;0;16:35;RFI
 2026-11-08;16811;REG;Udine;S02593;Venezia S. Lucia;08:55;-3;0;1;08:58;RFI
+2026-11-08;16815;REG;Udine;S02593;Venezia S. Lucia;18:47;3;0;0;17:38;RFI
+2026-11-08;169;REG;Milano Cadorna;S01933;Saronno;18:32;0;0;0;17:38;RFI
+2026-11-08;170;REG;Como Lago;S01933;Saronno;18:56;0;0;0;17:38;RFI
 2026-11-08;17006;REG;Rovigo;S02581;Padova;17:19;2;0;0;16:35;RFI
-2026-11-08;17006;REG;Rovigo;S02593;Venezia S. Lucia;18:09;1;0;0;16:35;RFI
+2026-11-08;17006;REG;Rovigo;S02593;Venezia S. Lucia;18:09;2;0;0;17:38;RFI
 2026-11-08;17008;REG;Rovigo;S02581;Padova;07:19;2;0;0;06:48;RFI
 2026-11-08;17008;REG;Rovigo;S02593;Venezia S. Lucia;08:09;-3;0;0;07:55;RFI
 2026-11-08;17010;REG;Rovigo;S02581;Padova;11:19;3;0;0;10:45;RFI
 2026-11-08;17010;REG;Rovigo;S02593;Venezia S. Lucia;12:09;0;0;0;11:41;RFI
 2026-11-08;17017;REG;Venezia S.Lucia;S02581;Padova;07:39;1;0;1;07:55;RFI
 2026-11-08;17019;REG;Venezia S.Lucia;S02581;Padova;16:39;-2;0;0;16:35;RFI
+2026-11-08;17021;REG;Venezia S.Lucia;S02581;Padova;18:39;0;0;0;17:38;RFI
 2026-11-08;17022;REG;Portogruaro Caorle;S02593;Venezia S. Lucia;06:24;5;0;0;05:51;RFI
 2026-11-08;17028;REG;Portogruaro Caorle;S02593;Venezia S. Lucia;10:51;5;0;0;10:45;RFI
 2026-11-08;17085;REG;Venezia S.Lucia;S02581;Padova;08:39;-1;0;0;07:55;RFI
@@ -389,17 +425,18 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;17108;REG;Rovigo;S02593;Venezia S. Lucia;14:09;3;0;0;13:47;RFI
 2026-11-08;17132;REG;Mantova;S02430;Verona Porta Nuova;13:17;1;0;0;12:37;RFI
 2026-11-08;17138;REG;Mantova;S02430;Verona Porta Nuova;15:17;-3;0;1;15:38;RFI
-2026-11-08;17144;REG;Mantova;S02430;Verona Porta Nuova;17:17;-1;0;0;16:35;RFI
+2026-11-08;17144;REG;Mantova;S02430;Verona Porta Nuova;17:17;-2;0;1;17:38;RFI
 2026-11-08;17162;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;08:28;28;0;0;07:55;RFI
 2026-11-08;17162;REG;Venezia S.Lucia;S02581;Padova;06:51;2;0;0;06:48;RFI
 2026-11-08;17187;REG;Vicenza;S02581;Padova;10:39;1;0;1;10:45;RFI
 2026-11-08;17187;REG;Vicenza;S02593;Venezia S. Lucia;11:26;2;0;1;11:41;RFI
 2026-11-08;17199;REG;Verona Porta Nuova;S02581;Padova;12:08;19;0;0;11:41;RFI
 2026-11-08;17199;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;12:58;4;0;0;12:37;RFI
-2026-11-08;17204;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;17:28;6;0;0;16:35;RFI
+2026-11-08;17204;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;17:28;0;0;1;17:38;RFI
 2026-11-08;17204;REG;Venezia S.Lucia;S02581;Padova;15:49;2;0;0;15:38;RFI
-2026-11-08;17216;REG;Venezia S.Lucia;S02581;Padova;17:51;0;0;0;16:35;RFI
-2026-11-08;17227;REG;Verona Porta Nuova;S02581;Padova;18:08;0;0;0;16:35;RFI
+2026-11-08;17216;REG;Venezia S.Lucia;S02581;Padova;17:51;1;0;0;17:38;RFI
+2026-11-08;17227;REG;Verona Porta Nuova;S02581;Padova;18:08;16;0;0;17:38;RFI
+2026-11-08;17227;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;18:58;16;0;0;17:38;RFI
 2026-11-08;17250;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;10:28;4;0;0;09:49;RFI
 2026-11-08;17250;REG;Venezia S.Lucia;S02581;Padova;08:51;1;0;1;08:58;RFI
 2026-11-08;17257;REG;Verona Porta Nuova;S02581;Padova;10:08;10;0;0;09:49;RFI
@@ -410,8 +447,11 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;17266;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;15:28;2;0;1;15:38;RFI
 2026-11-08;17266;REG;Venezia S.Lucia;S02581;Padova;13:49;3;0;0;13:47;RFI
 2026-11-08;17277;REG;Udine;S02593;Venezia S. Lucia;10:47;1;0;0;10:45;RFI
+2026-11-08;1728;REG;Pescara;S05043;Bologna Centrale;18:33;6;0;0;17:38;RFI
 2026-11-08;17283;REG;Belluno;S02581;Padova;07:53;-1;0;1;07:55;RFI
 2026-11-08;17293;REG;Belluno;S02581;Padova;12:53;5;0;0;12:37;RFI
+2026-11-08;173;EC;Chiasso;S01307;Como S. Giovanni;19:01;0;0;0;17:38;RFI
+2026-11-08;173;REG;Milano Cadorna;S01933;Saronno;19:02;0;0;0;17:38;RFI
 2026-11-08;17319;REG;Verona Porta Nuova;S02581;Padova;14:08;7;0;0;13:47;RFI
 2026-11-08;17319;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;14:58;-5;0;0;14:49;RFI
 2026-11-08;17369;REG;Belluno;S02581;Padova;14:53;-3;0;0;14:49;RFI
@@ -420,6 +460,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;17407;REG;Piacenza;S05043;Bologna Centrale;09:10;0;0;0;08:58;RFI
 2026-11-08;17415;REG;Parma;S05043;Bologna Centrale;15:10;1;0;0;14:49;RFI
 2026-11-08;17417;REG;Parma;S05043;Bologna Centrale;17:10;3;0;0;16:35;RFI
+2026-11-08;17419;REG;Parma;S05043;Bologna Centrale;19:10;0;0;0;17:38;RFI
 2026-11-08;17425;REG;Piacenza;S05043;Bologna Centrale;08:46;-1;0;1;08:58;RFI
 2026-11-08;17440;REG;Rimini;S05043;Bologna Centrale;07:33;0;0;1;07:55;RFI
 2026-11-08;17446;REG;Rimini;S05043;Bologna Centrale;08:39;3;0;1;08:58;RFI
@@ -435,12 +476,14 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;17550;REG;Rimini;S05043;Bologna Centrale;14:55;7;0;0;14:49;RFI
 2026-11-08;17552;REG;Rimini;S05043;Bologna Centrale;15:55;3;0;0;15:38;RFI
 2026-11-08;17554;REG;Rimini;S05043;Bologna Centrale;16:55;2;0;0;16:35;RFI
-2026-11-08;17556;REG;Rimini;S05043;Bologna Centrale;17:55;1;0;0;16:35;RFI
+2026-11-08;17556;REG;Rimini;S05043;Bologna Centrale;17:55;3;0;0;17:38;RFI
+2026-11-08;17558;REG;Rimini;S05043;Bologna Centrale;18:55;2;0;0;17:38;RFI
 2026-11-08;17650;REG;Porretta  Terme;S05043;Bologna Centrale;06:45;-3;0;1;06:48;RFI
 2026-11-08;17658;REG;Porretta  Terme;S05043;Bologna Centrale;07:45;2;0;0;06:48;RFI
 2026-11-08;17660;REG;Porretta  Terme;S05043;Bologna Centrale;08:15;2;0;0;07:55;RFI
 2026-11-08;17696;REG;Porretta  Terme;S05043;Bologna Centrale;07:17;1;0;0;06:48;RFI
-2026-11-08;17700;REG;Porretta  Terme;S05043;Bologna Centrale;17:43;1;0;0;16:35;RFI
+2026-11-08;17700;REG;Porretta  Terme;S05043;Bologna Centrale;17:43;0;0;0;17:38;RFI
+2026-11-08;17704;REG;Porretta  Terme;S05043;Bologna Centrale;18:43;1;0;0;17:38;RFI
 2026-11-08;17706;REG;Porretta  Terme;S05043;Bologna Centrale;08:45;-4;0;1;08:58;RFI
 2026-11-08;17710;REG;Pianoro;S05043;Bologna Centrale;08:45;-3;0;1;08:58;RFI
 2026-11-08;17714;REG;Porretta  Terme;S05043;Bologna Centrale;09:45;-5;0;1;09:49;RFI
@@ -453,6 +496,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;17734;REG;Porretta  Terme;S05043;Bologna Centrale;16:45;2;0;0;16:35;RFI
 2026-11-08;17744;REG;Pianoro;S05043;Bologna Centrale;09:14;0;0;0;08:58;RFI
 2026-11-08;1776;REG;Ancona;S05043;Bologna Centrale;12:34;-5;0;1;12:37;RFI
+2026-11-08;17782;REG;Pianoro;S05043;Bologna Centrale;18:44;0;0;0;17:38;RFI
 2026-11-08;178;EC;Milano Centrale;S01307;Como S. Giovanni;10:56;-4;0;0;10:45;RFI
 2026-11-08;17800;REG;Firenze Santa Maria Novella;S05043;Bologna Centrale;06:16;4;0;0;05:51;RFI
 2026-11-08;17804;REG;Prato Centrale;S05043;Bologna Centrale;07:29;13;0;0;06:48;RFI
@@ -460,7 +504,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;17812;REG;S.Benedetto Sambro-Castiglione Pepoli;S05043;Bologna Centrale;09:25;-1;0;0;08:58;RFI
 2026-11-08;17820;REG;Prato Centrale;S05043;Bologna Centrale;11:55;2;0;0;11:41;RFI
 2026-11-08;17824;REG;Prato Centrale;S05043;Bologna Centrale;13:55;2;0;0;13:47;RFI
-2026-11-08;17836;REG;Prato Centrale;S05043;Bologna Centrale;17:55;0;0;0;16:35;RFI
+2026-11-08;17836;REG;Prato Centrale;S05043;Bologna Centrale;17:55;3;0;0;17:38;RFI
+2026-11-08;17838;REG;Prato Centrale;S05043;Bologna Centrale;18:55;0;0;0;17:38;RFI
 2026-11-08;17850;REG;Prato Centrale;S05043;Bologna Centrale;15:55;9;0;0;15:38;RFI
 2026-11-08;17927;REG;Poggio Rusco;S05043;Bologna Centrale;09:15;12;0;0;08:58;RFI
 2026-11-08;17929;REG;Poggio Rusco;S05043;Bologna Centrale;11:15;3;0;1;11:41;RFI
@@ -477,6 +522,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;18222;REG;Siena;S06421;Firenze S.M.N.;13:52;-1;0;0;13:47;RFI
 2026-11-08;18224;REG;Siena;S06421;Firenze S.M.N.;14:52;0;0;0;14:49;RFI
 2026-11-08;18230;REG;Siena;S06421;Firenze S.M.N.;16:52;1;0;0;16:35;RFI
+2026-11-08;18234;REG;Siena;S06421;Firenze S.M.N.;18:52;1;0;0;17:38;RFI
 2026-11-08;18254;REG;Livorno Centrale;S06421;Firenze S.M.N.;06:53;0;0;0;06:48;RFI
 2026-11-08;18258;REG;Pisa Centrale;S06421;Firenze S.M.N.;07:23;2;0;0;06:48;RFI
 2026-11-08;18260;REG;Livorno Centrale;S06421;Firenze S.M.N.;07:28;0;0;0;06:48;RFI
@@ -488,16 +534,19 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;18280;REG;Pisa Centrale;S06421;Firenze S.M.N.;10:33;-1;0;1;10:45;RFI
 2026-11-08;18298;REG;Grosseto;S06421;Firenze S.M.N.;14:33;-1;0;1;14:49;RFI
 2026-11-08;18304;REG;Livorno Centrale;S06421;Firenze S.M.N.;15:25;-1;0;1;15:38;RFI
-2026-11-08;18308;REG;Grosseto;S06421;Firenze S.M.N.;17:25;17;0;0;16:35;RFI
+2026-11-08;18308;REG;Grosseto;S06421;Firenze S.M.N.;17:25;8;0;1;17:38;RFI
+2026-11-08;18312;REG;Empoli;S06421;Firenze S.M.N.;18:43;0;0;0;17:38;RFI
 2026-11-08;18395;REG;La Spezia Centrale;S06421;Firenze S.M.N.;16:08;3;0;0;15:38;RFI
-2026-11-08;18399;REG;La Spezia Centrale;S06421;Firenze S.M.N.;18:08;3;0;0;16:35;RFI
+2026-11-08;18399;REG;La Spezia Centrale;S06421;Firenze S.M.N.;18:08;1;0;0;17:38;RFI
+2026-11-08;18401;REG;La Spezia Centrale;S06421;Firenze S.M.N.;19:08;22;0;0;17:38;RFI
 2026-11-08;18411;REG;Viareggio;S06421;Firenze S.M.N.;12:08;2;0;0;11:41;RFI
 2026-11-08;18413;REG;La Spezia Centrale;S06421;Firenze S.M.N.;15:08;-2;0;0;14:49;RFI
 2026-11-08;18415;REG;La Spezia Centrale;S06421;Firenze S.M.N.;17:08;2;0;0;16:35;RFI
 2026-11-08;18463;REG;Prato Centrale;S06421;Firenze S.M.N.;08:33;-2;0;1;08:58;RFI
 2026-11-08;18469;REG;Prato Centrale;S06421;Firenze S.M.N.;11:24;-3;0;1;11:41;RFI
 2026-11-08;18471;REG;Prato Centrale;S06421;Firenze S.M.N.;12:24;-3;0;1;12:37;RFI
-2026-11-08;18479;REG;Prato Centrale;S06421;Firenze S.M.N.;17:24;0;0;0;16:35;RFI
+2026-11-08;18479;REG;Prato Centrale;S06421;Firenze S.M.N.;17:24;-3;0;1;17:38;RFI
+2026-11-08;18495;REG;Prato Centrale;S06421;Firenze S.M.N.;18:25;0;0;0;17:38;RFI
 2026-11-08;18503;REG;Prato Centrale;S06421;Firenze S.M.N.;08:07;2;0;0;07:55;RFI
 2026-11-08;18505;REG;Prato Centrale;S06421;Firenze S.M.N.;08:52;-2;0;1;08:58;RFI
 2026-11-08;18507;REG;Prato Centrale;S06421;Firenze S.M.N.;09:52;0;0;0;09:49;RFI
@@ -507,7 +556,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;18517;REG;Prato Centrale;S06421;Firenze S.M.N.;14:52;3;0;0;14:49;RFI
 2026-11-08;18519;REG;Prato Centrale;S06421;Firenze S.M.N.;15:52;2;0;0;15:38;RFI
 2026-11-08;18523;REG;Prato Centrale;S06421;Firenze S.M.N.;16:52;1;0;0;16:35;RFI
-2026-11-08;18525;REG;Prato Centrale;S06421;Firenze S.M.N.;17:52;0;0;0;16:35;RFI
+2026-11-08;18525;REG;Prato Centrale;S06421;Firenze S.M.N.;17:52;2;0;0;17:38;RFI
+2026-11-08;18527;REG;Prato Centrale;S06421;Firenze S.M.N.;18:52;0;0;0;17:38;RFI
 2026-11-08;18651;REG;Prato Centrale;S06421;Firenze S.M.N.;06:05;4;0;0;05:51;RFI
 2026-11-08;18653;REG;Prato Centrale;S06421;Firenze S.M.N.;06:38;-2;0;1;06:48;RFI
 2026-11-08;18667;REG;Prato Centrale;S06421;Firenze S.M.N.;10:15;3;0;0;09:49;RFI
@@ -520,17 +570,20 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;18754;REG;Arezzo;S06421;Firenze S.M.N.;12:38;6;0;0;12:37;RFI
 2026-11-08;18758;REG;Arezzo;S06421;Firenze S.M.N.;14:38;5;0;1;14:49;RFI
 2026-11-08;18764;REG;Arezzo;S06421;Firenze S.M.N.;16:38;13;0;0;16:35;RFI
-2026-11-08;18768;REG;Arezzo;S06421;Firenze S.M.N.;17:38;2;0;0;16:35;RFI
+2026-11-08;18768;REG;Arezzo;S06421;Firenze S.M.N.;17:38;6;0;0;17:38;RFI
+2026-11-08;18772;REG;Arezzo;S06421;Firenze S.M.N.;18:38;3;0;0;17:38;RFI
 2026-11-08;18886;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;08:00;2;0;0;07:55;RFI
 2026-11-08;18894;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;11:18;-4;0;1;11:41;RFI
 2026-11-08;18896;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;12:11;0;0;0;11:41;RFI
 2026-11-08;18908;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;16:11;1;0;0;15:38;RFI
-2026-11-08;18912;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;18:11;0;0;0;16:35;RFI
+2026-11-08;18912;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;18:11;1;0;0;17:38;RFI
+2026-11-08;18918;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;19:11;0;0;0;17:38;RFI
 2026-11-08;18940;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;08:42;-2;0;1;08:58;RFI
 2026-11-08;18948;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;10:04;5;0;0;09:49;RFI
 2026-11-08;18950;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;11:04;6;0;0;10:45;RFI
 2026-11-08;18958;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;15:04;7;0;0;14:49;RFI
 2026-11-08;18964;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;17:04;-2;0;0;16:35;RFI
+2026-11-08;18970;REG;Borgo S.Lorenzo;S06421;Firenze S.M.N.;19:04;0;0;0;17:38;RFI
 2026-11-08;19;EC;Chiasso;S01307;Como S. Giovanni;14:08;0;0;0;13:47;RFI
 2026-11-08;19;EC;Chiasso;S01700;Milano Centrale;14:53;-7;0;1;14:49;RFI
 2026-11-08;19;REG;Milano Cadorna;S01933;Saronno;08:11;-1;0;0;07:55;RFI
@@ -540,17 +593,18 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;1962;ICN;Catania Centrale;S01700;Milano Centrale;10:10;-16;0;0;09:49;RFI
 2026-11-08;1962;ICN;Catania Centrale;S05043;Bologna Centrale;07:07;-26;0;1;06:48;RFI
 2026-11-08;1963;ICN;Milano Centrale;S09818;Salerno;06:13;5;0;0;05:51;RFI
+2026-11-08;19743;REG;Pescara;S08217;Roma Tiburtina;18:25;3;0;0;17:38;RFI
 2026-11-08;19872;REG;Taranto;S11119;Bari Centrale;07:39;-1;0;1;07:55;RFI
 2026-11-08;19876;REG;Taranto;S11119;Bari Centrale;09:18;-1;0;0;08:58;RFI
 2026-11-08;19878;REG;Taranto;S11119;Bari Centrale;11:18;-1;0;1;11:41;RFI
 2026-11-08;19884;REG;Taranto;S11119;Bari Centrale;15:00;-1;0;0;14:49;RFI
-2026-11-08;19890;REG;Taranto;S11119;Bari Centrale;16:40;3;0;0;16:35;RFI
-2026-11-08;19892;REG;Taranto;S11119;Bari Centrale;18:12;0;0;0;16:35;RFI
+2026-11-08;19890;REG;Taranto;S11119;Bari Centrale;16:40;8;0;1;17:38;RFI
+2026-11-08;19892;REG;Taranto;S11119;Bari Centrale;18:12;2;0;0;17:38;RFI
 2026-11-08;19944;REG;Bitritto;S11119;Bari Centrale;08:57;3;0;0;08:58;RFI
 2026-11-08;19948;REG;Bitritto;S11119;Bari Centrale;11:27;-2;0;1;11:41;RFI
 2026-11-08;19952;REG;Bitritto;S11119;Bari Centrale;13:27;0;0;0;12:37;RFI
 2026-11-08;19956;REG;Bitritto;S11119;Bari Centrale;15:27;2;0;1;15:38;RFI
-2026-11-08;19960;REG;Bitritto;S11119;Bari Centrale;17:27;0;0;0;16:35;RFI
+2026-11-08;19960;REG;Bitritto;S11119;Bari Centrale;17:27;3;0;1;17:38;RFI
 2026-11-08;20;EC;Milano Centrale;S01307;Como S. Giovanni;15:49;-1;0;0;15:38;RFI
 2026-11-08;20;REG;Laveno Mombello Lago;S01933;Saronno;07:47;1;0;1;07:55;RFI
 2026-11-08;2000;REG;Milano Centrale;S00219;Torino Porta Nuova;12:10;-6;0;0;11:41;RFI
@@ -558,17 +612,19 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;20010;REG;Albano Laziale;S08409;Roma Termini;11:13;1;0;0;10:45;RFI
 2026-11-08;20016;REG;Albano Laziale;S08409;Roma Termini;14:34;1;0;1;14:49;RFI
 2026-11-08;20020;REG;Albano Laziale;S08409;Roma Termini;16:34;-2;0;1;16:35;RFI
+2026-11-08;20026;REG;Albano Laziale;S08409;Roma Termini;18:34;0;0;0;17:38;RFI
 2026-11-08;20064;REG;Frascati;S08409;Roma Termini;09:06;1;0;0;08:58;RFI
 2026-11-08;20072;REG;Frascati;S08409;Roma Termini;13:06;0;0;0;12:37;RFI
 2026-11-08;20076;REG;Frascati;S08409;Roma Termini;15:06;-2;0;0;14:49;RFI
 2026-11-08;20082;REG;Frascati;S08409;Roma Termini;17:06;0;0;0;16:35;RFI
+2026-11-08;20086;REG;Frascati;S08409;Roma Termini;19:06;0;0;0;17:38;RFI
 2026-11-08;2010;REG;Novara;S00219;Torino Porta Nuova;07:10;1;0;0;06:48;RFI
 2026-11-08;20106;REG;Velletri;S08409;Roma Termini;07:30;2;0;1;07:55;RFI
 2026-11-08;20114;REG;Velletri;S08409;Roma Termini;08:26;4;0;0;07:55;RFI
 2026-11-08;20118;REG;Velletri;S08409;Roma Termini;10:26;2;0;0;09:49;RFI
 2026-11-08;20130;REG;Velletri;S08409;Roma Termini;13:59;28;0;0;13:47;RFI
 2026-11-08;20140;REG;Velletri;S08409;Roma Termini;15:59;3;0;0;15:38;RFI
-2026-11-08;20152;REG;Velletri;S08409;Roma Termini;17:59;0;0;0;16:35;RFI
+2026-11-08;20152;REG;Velletri;S08409;Roma Termini;17:59;5;0;0;17:38;RFI
 2026-11-08;2016;REG;Milano Centrale;S00219;Torino Porta Nuova;10:10;2;0;0;09:49;RFI
 2026-11-08;2017;REG;Torino Porta Nuova;S01700;Milano Centrale;09:49;17;0;0;09:49;RFI
 2026-11-08;2018;REG;Milano Centrale;S00219;Torino Porta Nuova;11:15;1;0;1;11:41;RFI
@@ -584,15 +640,18 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;20242;REG;Nettuno;S08409;Roma Termini;14:17;1;0;0;13:47;RFI
 2026-11-08;20248;REG;Nettuno;S08409;Roma Termini;16:18;-4;0;1;16:35;RFI
 2026-11-08;2025;REG;Torino Porta Nuova;S01700;Milano Centrale;13:49;6;0;0;13:47;RFI
+2026-11-08;20256;REG;Nettuno;S08409;Roma Termini;18:18;2;0;0;17:38;RFI
 2026-11-08;2026;REG;Milano Centrale;S00219;Torino Porta Nuova;15:10;1;0;0;14:49;RFI
 2026-11-08;2027;REG;Torino Porta Nuova;S01700;Milano Centrale;14:49;-3;0;1;14:49;RFI
 2026-11-08;2028;REG;Milano Centrale;S00219;Torino Porta Nuova;16:10;0;0;0;15:38;RFI
 2026-11-08;2029;REG;Torino Porta Nuova;S01700;Milano Centrale;15:49;3;0;0;15:38;RFI
 2026-11-08;2030;REG;Milano Centrale;S00219;Torino Porta Nuova;17:10;-2;0;0;16:35;RFI
 2026-11-08;2031;REG;Torino Porta Nuova;S01700;Milano Centrale;16:49;4;0;0;16:35;RFI
-2026-11-08;2032;REG;Milano Centrale;S00219;Torino Porta Nuova;18:10;5;0;0;16:35;RFI
+2026-11-08;2032;REG;Milano Centrale;S00219;Torino Porta Nuova;18:10;-5;0;0;17:38;RFI
 2026-11-08;20323;REG;Cesano Di Roma;S08217;Roma Tiburtina;09:07;0;0;0;08:58;RFI
-2026-11-08;2033;REG;Torino Porta Nuova;S01700;Milano Centrale;17:49;3;0;0;16:35;RFI
+2026-11-08;2033;REG;Torino Porta Nuova;S01700;Milano Centrale;17:49;3;0;0;17:38;RFI
+2026-11-08;2034;REG;Milano Centrale;S00219;Torino Porta Nuova;19:10;4;0;0;17:38;RFI
+2026-11-08;2035;REG;Torino Porta Nuova;S01700;Milano Centrale;18:49;3;0;0;17:38;RFI
 2026-11-08;20375;REG;Viterbo Porta Fiorentina;S08217;Roma Tiburtina;07:55;-4;0;1;07:55;RFI
 2026-11-08;20395;REG;Orte;S08217;Roma Tiburtina;06:30;0;0;0;05:51;RFI
 2026-11-08;20397;REG;Orte;S08217;Roma Tiburtina;07:00;-2;0;0;06:48;RFI
@@ -613,8 +672,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;20497;REG;Poggio Mirteto;S08217;Roma Tiburtina;15:30;1;0;1;15:38;RFI
 2026-11-08;20505;REG;Fara Sabina-Montelibretti;S08217;Roma Tiburtina;17:00;1;0;0;16:35;RFI
 2026-11-08;20509;REG;Poggio Mirteto;S08217;Roma Tiburtina;16:30;-1;0;1;16:35;RFI
-2026-11-08;20517;REG;Orte;S08217;Roma Tiburtina;18:00;0;0;0;16:35;RFI
-2026-11-08;20523;REG;Poggio Mirteto;S08217;Roma Tiburtina;17:30;0;0;0;16:35;RFI
+2026-11-08;20517;REG;Orte;S08217;Roma Tiburtina;18:00;0;0;0;17:38;RFI
+2026-11-08;20523;REG;Poggio Mirteto;S08217;Roma Tiburtina;17:30;1;0;1;17:38;RFI
+2026-11-08;20533;REG;Poggio Mirteto;S08217;Roma Tiburtina;18:30;0;0;0;17:38;RFI
+2026-11-08;20537;REG;Fara Sabina-Montelibretti;S08217;Roma Tiburtina;19:00;0;0;0;17:38;RFI
 2026-11-08;20571;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;06:45;2;0;1;06:48;RFI
 2026-11-08;20573;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;07:15;5;0;0;06:48;RFI
 2026-11-08;20575;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;14:45;2;0;1;14:49;RFI
@@ -635,10 +696,12 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;20679;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;16:15;2;0;0;15:38;RFI
 2026-11-08;20683;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;16:45;-2;0;0;16:35;RFI
 2026-11-08;20687;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;17:15;1;0;0;16:35;RFI
-2026-11-08;20693;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;17:45;0;0;0;16:35;RFI
+2026-11-08;20693;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;17:45;-1;0;0;17:38;RFI
 2026-11-08;2070;REG;Ravenna;S04700;Genova Piazza Principe;10:14;6;0;0;09:49;RFI
 2026-11-08;2070;REG;Ravenna;S05043;Bologna Centrale;06:26;2;0;0;05:51;RFI
-2026-11-08;20701;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;18:15;0;0;0;16:35;RFI
+2026-11-08;20701;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;18:15;3;0;0;17:38;RFI
+2026-11-08;20709;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;18:45;0;0;0;17:38;RFI
+2026-11-08;20717;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;19:15;0;0;0;17:38;RFI
 2026-11-08;2078;REG;Genova Brignole;S04700;Genova Piazza Principe;11:23;0;0;0;10:45;RFI
 2026-11-08;20791;REG;Avezzano;S08217;Roma Tiburtina;07:57;-7;0;1;07:55;RFI
 2026-11-08;20797;REG;Pescara;S08217;Roma Tiburtina;10:55;2;0;0;10:45;RFI
@@ -654,7 +717,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;20941;REG;Iseo;S01717;Brescia;14:16;7;0;0;13:47;RFI
 2026-11-08;20945;REG;Iseo;S01717;Brescia;15:16;0;0;1;15:38;RFI
 2026-11-08;20949;REG;Iseo;S01717;Brescia;16:16;0;0;1;16:35;RFI
-2026-11-08;20953;REG;Iseo;S01717;Brescia;17:16;0;0;0;16:35;RFI
+2026-11-08;20953;REG;Iseo;S01717;Brescia;17:16;0;0;1;17:38;RFI
+2026-11-08;20957;REG;Iseo;S01717;Brescia;18:16;0;0;0;17:38;RFI
 2026-11-08;21;EC;Chiasso;S01307;Como S. Giovanni;16:08;0;0;0;15:38;RFI
 2026-11-08;21;EC;Chiasso;S01700;Milano Centrale;16:53;1;0;0;16:35;RFI
 2026-11-08;21053;REG;Roma Termini;S09218;Napoli Centrale;08:13;21;0;0;07:55;RFI
@@ -666,8 +730,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;21068;REG;Napoli Centrale;S08409;Roma Termini;11:24;-1;0;1;11:41;RFI
 2026-11-08;21069;REG;Roma Termini;S09218;Napoli Centrale;15:38;-8;0;1;15:38;RFI
 2026-11-08;21070;REG;Napoli Centrale;S08409;Roma Termini;14:22;-1;0;0;13:47;RFI
+2026-11-08;21073;REG;Roma Termini;S09218;Napoli Centrale;18:43;3;0;0;17:38;RFI
 2026-11-08;21084;REG;Napoli Centrale;S08409;Roma Termini;16:24;-6;0;1;16:35;RFI
-2026-11-08;21086;REG;Napoli Centrale;S08409;Roma Termini;17:24;14;0;0;16:35;RFI
+2026-11-08;21086;REG;Napoli Centrale;S08409;Roma Termini;17:24;5;0;1;17:38;RFI
+2026-11-08;21092;REG;Napoli Centrale;S08409;Roma Termini;18:24;2;0;0;17:38;RFI
 2026-11-08;21104;REG;Potenza Centrale;S09818;Salerno;09:03;0;0;0;08:58;RFI
 2026-11-08;21106;REG;Potenza Centrale;S09818;Salerno;15:20;-3;0;1;15:38;RFI
 2026-11-08;2112;REG;Alessandria;S00219;Torino Porta Nuova;06:40;0;0;1;06:48;RFI
@@ -702,12 +768,16 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;21321;MET;Napoli Campi Flegrei;S09818;Salerno;14:24;2;0;0;13:47;RFI
 2026-11-08;21323;MET;Napoli Campi Flegrei;S09818;Salerno;14:54;-7;0;1;14:49;RFI
 2026-11-08;21329;MET;Napoli Campi Flegrei;S09818;Salerno;16:24;-1;0;1;16:35;RFI
-2026-11-08;2133;REG;Torino Porta Nuova;S04700;Genova Piazza Principe;17:33;-1;0;0;16:35;RFI
+2026-11-08;2133;REG;Torino Porta Nuova;S04700;Genova Piazza Principe;17:33;40;0;0;17:38;RFI
+2026-11-08;21335;MET;Napoli Campi Flegrei;S09818;Salerno;18:39;2;0;0;17:38;RFI
+2026-11-08;21337;MET;Napoli Campi Flegrei;S09818;Salerno;18:54;2;0;0;17:38;RFI
+2026-11-08;2136;REG;Genova Piazza Principe;S00219;Torino Porta Nuova;18:30;7;0;0;17:38;RFI
 2026-11-08;21363;REG;Anguillara;S08217;Roma Tiburtina;12:07;-1;0;0;11:41;RFI
 2026-11-08;21365;REG;Cesano Di Roma;S08217;Roma Tiburtina;07:37;-4;0;1;07:55;RFI
 2026-11-08;21367;REG;Cesano Di Roma;S08217;Roma Tiburtina;10:07;1;0;0;09:49;RFI
-2026-11-08;21373;REG;Cesano Di Roma;S08217;Roma Tiburtina;18:10;0;0;0;16:35;RFI
+2026-11-08;21373;REG;Cesano Di Roma;S08217;Roma Tiburtina;18:10;0;0;0;17:38;RFI
 2026-11-08;21377;REG;Cesano Di Roma;S08217;Roma Tiburtina;14:07;1;0;0;13:47;RFI
+2026-11-08;2140;REG;Genova Brignole;S04700;Genova Piazza Principe;18:24;0;0;0;17:38;RFI
 2026-11-08;21401;REG;Formia-Gaeta;S09218;Napoli Centrale;12:28;-5;0;1;12:37;RFI
 2026-11-08;21407;REG;Formia-Gaeta;S09218;Napoli Centrale;12:17;-5;0;1;12:37;RFI
 2026-11-08;21431;REG;Villa Literno;S09218;Napoli Centrale;08:51;-1;0;1;08:58;RFI
@@ -736,9 +806,12 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2173;REG;Milano Centrale;S01820;Milano Rogoredo;16:32;2;0;1;16:35;RFI
 2026-11-08;2174;REG;Piadena;S01700;Milano Centrale;16:40;1;0;0;16:35;RFI
 2026-11-08;2174;REG;Piadena;S01820;Milano Rogoredo;16:26;1;0;1;16:35;RFI
-2026-11-08;2175;REG;Milano Centrale;S01820;Milano Rogoredo;17:27;0;0;0;16:35;RFI
-2026-11-08;2176;REG;Cremona;S01700;Milano Centrale;17:40;1;0;0;16:35;RFI
-2026-11-08;2176;REG;Cremona;S01820;Milano Rogoredo;17:26;1;0;0;16:35;RFI
+2026-11-08;2175;REG;Milano Centrale;S01820;Milano Rogoredo;17:27;1;0;1;17:38;RFI
+2026-11-08;2176;REG;Cremona;S01700;Milano Centrale;17:40;3;0;0;17:38;RFI
+2026-11-08;2176;REG;Cremona;S01820;Milano Rogoredo;17:26;3;0;1;17:38;RFI
+2026-11-08;2177;REG;Milano Centrale;S01820;Milano Rogoredo;18:32;0;0;0;17:38;RFI
+2026-11-08;2178;REG;Piadena;S01700;Milano Centrale;18:40;4;0;0;17:38;RFI
+2026-11-08;2178;REG;Piadena;S01820;Milano Rogoredo;18:26;4;0;0;17:38;RFI
 2026-11-08;22;EC;Milano Centrale;S01307;Como S. Giovanni;16:49;-3;0;0;16:35;RFI
 2026-11-08;2211;REG;Milano Centrale;S01529;Bergamo;05:58;5;0;0;05:51;RFI
 2026-11-08;2212;REG;Bergamo;S01700;Milano Centrale;05:50;-2;0;1;05:51;RFI
@@ -764,13 +837,17 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2232;REG;Bergamo;S01700;Milano Centrale;15:50;2;0;0;15:38;RFI
 2026-11-08;2233;REG;Milano Centrale;S01529;Bergamo;16:58;12;0;0;16:35;RFI
 2026-11-08;2234;REG;Bergamo;S01700;Milano Centrale;16:50;4;0;0;16:35;RFI
-2026-11-08;2235;REG;Milano Centrale;S01529;Bergamo;17:58;0;0;0;16:35;RFI
-2026-11-08;2236;REG;Bergamo;S01700;Milano Centrale;17:50;0;0;0;16:35;RFI
+2026-11-08;2235;REG;Milano Centrale;S01529;Bergamo;17:58;4;0;0;17:38;RFI
+2026-11-08;2236;REG;Bergamo;S01700;Milano Centrale;17:50;3;0;0;17:38;RFI
+2026-11-08;2237;REG;Milano Centrale;S01529;Bergamo;18:58;0;0;0;17:38;RFI
+2026-11-08;2238;REG;Bergamo;S01700;Milano Centrale;18:50;0;0;0;17:38;RFI
 2026-11-08;22453;REG;Mantova;S05043;Bologna Centrale;11:20;-2;0;1;11:41;RFI
 2026-11-08;22469;REG;Verona Porta Nuova;S02581;Padova;10:59;3;0;0;10:45;RFI
 2026-11-08;22469;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;11:31;1;0;1;11:41;RFI
 2026-11-08;2247;REG;Milano Centrale;S01529;Bergamo;00:55;2;0;0;00:09;RFI
 2026-11-08;22481;REG;Belluno;S02581;Padova;16:53;3;0;0;16:35;RFI
+2026-11-08;22486;REG;Venezia S.Lucia;S02581;Padova;18:22;0;0;0;17:38;RFI
+2026-11-08;22487;REG;Belluno;S02581;Padova;18:53;2;0;0;17:38;RFI
 2026-11-08;22586;REG;Arechi;S09818;Salerno;00:26;0;0;0;00:09;RFI
 2026-11-08;22588;REG;Arechi;S09818;Salerno;00:56;0;0;0;00:09;RFI
 2026-11-08;22590;REG;Arechi;S09818;Salerno;01:26;0;0;0;00:09;RFI
@@ -785,7 +862,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;22651;REG;Treviglio;S01529;Bergamo;14:42;-4;0;1;14:49;RFI
 2026-11-08;22655;REG;Treviglio;S01529;Bergamo;15:42;-4;0;1;15:38;RFI
 2026-11-08;22659;REG;Treviglio;S01529;Bergamo;16:42;1;0;0;16:35;RFI
-2026-11-08;22663;REG;Treviglio;S01529;Bergamo;17:42;0;0;0;16:35;RFI
+2026-11-08;22663;REG;Treviglio;S01529;Bergamo;17:42;-6;0;1;17:38;RFI
+2026-11-08;22667;REG;Treviglio;S01529;Bergamo;18:42;0;0;0;17:38;RFI
 2026-11-08;2313;REG;Milano Rogoredo;S01860;Pavia;07:25;0;0;0;06:48;RFI
 2026-11-08;2314;REG;Tortona;S01820;Milano Rogoredo;07:55;-4;0;1;07:55;RFI
 2026-11-08;2314;REG;Tortona;S01860;Pavia;07:33;0;0;0;06:48;RFI
@@ -804,25 +882,28 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;23261;REG;Bracciano;S08217;Roma Tiburtina;14:37;3;0;1;14:49;RFI
 2026-11-08;23263;REG;Bracciano;S08217;Roma Tiburtina;15:38;-1;0;1;15:38;RFI
 2026-11-08;23265;REG;Bracciano;S08217;Roma Tiburtina;16:38;1;0;0;16:35;RFI
-2026-11-08;23267;REG;Bracciano;S08217;Roma Tiburtina;17:38;8;0;0;16:35;RFI
+2026-11-08;23267;REG;Bracciano;S08217;Roma Tiburtina;17:38;-1;0;1;17:38;RFI
+2026-11-08;23269;REG;Bracciano;S08217;Roma Tiburtina;18:38;4;0;0;17:38;RFI
 2026-11-08;23279;REG;Viterbo Porta Fiorentina;S08217;Roma Tiburtina;13:07;4;0;0;12:37;RFI
 2026-11-08;2328;REG;Novi Ligure;S01820;Milano Rogoredo;13:55;7;0;0;13:47;RFI
 2026-11-08;2328;REG;Novi Ligure;S01860;Pavia;13:33;7;0;1;13:47;RFI
 2026-11-08;2329;REG;Milano Lambrate;S01820;Milano Rogoredo;15:04;0;0;0;14:49;RFI
 2026-11-08;2329;REG;Milano Lambrate;S01860;Pavia;15:25;1;0;1;15:38;RFI
+2026-11-08;23293;REG;Viterbo Porta Fiorentina;S08217;Roma Tiburtina;19:07;4;0;0;17:38;RFI
 2026-11-08;2332;REG;Novi Ligure;S01820;Milano Rogoredo;15:55;4;0;0;15:38;RFI
 2026-11-08;2332;REG;Novi Ligure;S01860;Pavia;15:33;4;0;1;15:38;RFI
 2026-11-08;23327;REG;Bracciano;S08217;Roma Tiburtina;11:36;-1;0;1;11:41;RFI
 2026-11-08;2333;REG;Milano Lambrate;S01820;Milano Rogoredo;17:04;0;0;0;16:35;RFI
-2026-11-08;2333;REG;Milano Lambrate;S01860;Pavia;17:25;0;0;0;16:35;RFI
+2026-11-08;2333;REG;Milano Lambrate;S01860;Pavia;17:25;1;0;1;17:38;RFI
 2026-11-08;23330;REG;Caserta;S09218;Napoli Centrale;10:56;1;0;0;10:45;RFI
 2026-11-08;23337;REG;Viterbo Porta Fiorentina;S08217;Roma Tiburtina;11:07;2;0;0;10:45;RFI
 2026-11-08;23341;REG;Boiano;S08409;Roma Termini;08:53;-1;0;1;08:58;RFI
 2026-11-08;23347;REG;Boiano;S08409;Roma Termini;10:47;2;0;0;10:45;RFI
-2026-11-08;23353;REG;Boiano;S08409;Roma Termini;17:27;5;0;0;16:35;RFI
-2026-11-08;2336;REG;Novi Ligure;S01820;Milano Rogoredo;17:55;0;0;0;16:35;RFI
-2026-11-08;2336;REG;Novi Ligure;S01860;Pavia;17:33;0;0;0;16:35;RFI
-2026-11-08;23435;MET;Napoli Campi Flegrei;S09818;Salerno;17:34;2;0;0;16:35;RFI
+2026-11-08;23353;REG;Boiano;S08409;Roma Termini;17:27;-9;0;1;17:38;RFI
+2026-11-08;2336;REG;Novi Ligure;S01820;Milano Rogoredo;17:55;5;0;0;17:38;RFI
+2026-11-08;2336;REG;Novi Ligure;S01860;Pavia;17:33;5;0;0;17:38;RFI
+2026-11-08;2337;REG;Milano Lambrate;S01820;Milano Rogoredo;19:04;0;0;0;17:38;RFI
+2026-11-08;23435;MET;Napoli Campi Flegrei;S09818;Salerno;17:34;-1;0;1;17:38;RFI
 2026-11-08;2351;REG;Milano Centrale;S01820;Milano Rogoredo;05:37;-4;0;1;05:51;RFI
 2026-11-08;2351;REG;Milano Centrale;S01860;Pavia;05:59;-4;0;0;05:51;RFI
 2026-11-08;23519;REG;Barletta;S11119;Bari Centrale;09:18;1;0;0;08:58;RFI
@@ -834,7 +915,9 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;23544;REG;Fasano;S11119;Bari Centrale;16:59;1;0;0;16:35;RFI
 2026-11-08;2355;REG;Milano Centrale;S01820;Milano Rogoredo;07:37;2;0;1;07:55;RFI
 2026-11-08;2355;REG;Milano Centrale;S01860;Pavia;07:59;2;0;0;07:55;RFI
+2026-11-08;23559;REG;Barletta;S11119;Bari Centrale;18:48;0;0;0;17:38;RFI
 2026-11-08;23578;REG;Fasano;S11119;Bari Centrale;13:08;3;0;0;12:37;RFI
+2026-11-08;23580;REG;Fasano;S11119;Bari Centrale;19:13;0;0;0;17:38;RFI
 2026-11-08;23589;REG;Barletta;S11119;Bari Centrale;11:05;2;0;0;10:45;RFI
 2026-11-08;2365;REG;Milano Centrale;S01820;Milano Rogoredo;11:37;6;0;0;11:41;RFI
 2026-11-08;2365;REG;Milano Centrale;S01860;Pavia;11:59;6;0;0;11:41;RFI
@@ -842,9 +925,9 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2371;REG;Milano Centrale;S01860;Pavia;15:59;4;0;0;15:38;RFI
 2026-11-08;2391;REG;Milano Centrale;S01820;Milano Rogoredo;13:37;6;0;1;13:47;RFI
 2026-11-08;2391;REG;Milano Centrale;S01860;Pavia;13:59;6;0;0;13:47;RFI
-2026-11-08;2395;REG;Milano Centrale;S01820;Milano Rogoredo;17:37;0;0;0;16:35;RFI
-2026-11-08;2395;REG;Milano Centrale;S01860;Pavia;17:59;0;0;0;16:35;RFI
-2026-11-08;24;EC;Milano Centrale;S01307;Como S. Giovanni;17:49;0;0;0;16:35;RFI
+2026-11-08;2395;REG;Milano Centrale;S01820;Milano Rogoredo;17:37;2;0;0;17:38;RFI
+2026-11-08;2395;REG;Milano Centrale;S01860;Pavia;17:59;2;0;0;17:38;RFI
+2026-11-08;24;EC;Milano Centrale;S01307;Como S. Giovanni;17:49;0;0;0;17:38;RFI
 2026-11-08;24014;REG;Lodi;S01820;Milano Rogoredo;06:25;0;0;0;05:51;RFI
 2026-11-08;24016;REG;Lodi;S01820;Milano Rogoredo;06:55;-1;0;0;06:48;RFI
 2026-11-08;24017;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;07:03;1;0;0;06:48;RFI
@@ -898,15 +981,21 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;24152;REG;Lodi;S01933;Saronno;16:52;2;0;0;16:35;RFI
 2026-11-08;24153;REG;Saronno;S01820;Milano Rogoredo;16:03;7;0;0;15:38;RFI
 2026-11-08;24154;REG;Lodi;S01820;Milano Rogoredo;16:25;2;0;1;16:35;RFI
-2026-11-08;24154;REG;Lodi;S01933;Saronno;17:22;2;0;0;16:35;RFI
+2026-11-08;24154;REG;Lodi;S01933;Saronno;17:22;0;0;1;17:38;RFI
 2026-11-08;24155;REG;Saronno;S01820;Milano Rogoredo;16:33;-3;0;1;16:35;RFI
 2026-11-08;24156;REG;Lodi;S01820;Milano Rogoredo;16:55;0;0;0;16:35;RFI
-2026-11-08;24156;REG;Lodi;S01933;Saronno;17:52;0;0;0;16:35;RFI
+2026-11-08;24156;REG;Lodi;S01933;Saronno;17:52;1;0;0;17:38;RFI
 2026-11-08;24157;REG;Saronno;S01820;Milano Rogoredo;17:03;1;0;0;16:35;RFI
-2026-11-08;24158;REG;Lodi;S01820;Milano Rogoredo;17:25;0;0;0;16:35;RFI
-2026-11-08;24159;REG;Saronno;S01820;Milano Rogoredo;17:33;0;0;0;16:35;RFI
-2026-11-08;24160;REG;Lodi;S01820;Milano Rogoredo;17:55;0;0;0;16:35;RFI
-2026-11-08;24161;REG;Saronno;S01820;Milano Rogoredo;18:03;0;0;0;16:35;RFI
+2026-11-08;24158;REG;Lodi;S01820;Milano Rogoredo;17:25;0;0;1;17:38;RFI
+2026-11-08;24158;REG;Lodi;S01933;Saronno;18:22;0;0;0;17:38;RFI
+2026-11-08;24159;REG;Saronno;S01820;Milano Rogoredo;17:33;1;0;1;17:38;RFI
+2026-11-08;24160;REG;Lodi;S01820;Milano Rogoredo;17:55;1;0;0;17:38;RFI
+2026-11-08;24160;REG;Lodi;S01933;Saronno;18:52;1;0;0;17:38;RFI
+2026-11-08;24161;REG;Saronno;S01820;Milano Rogoredo;18:03;1;0;0;17:38;RFI
+2026-11-08;24162;REG;Lodi;S01820;Milano Rogoredo;18:25;0;0;0;17:38;RFI
+2026-11-08;24163;REG;Saronno;S01820;Milano Rogoredo;18:33;0;0;0;17:38;RFI
+2026-11-08;24164;REG;Lodi;S01820;Milano Rogoredo;18:55;0;0;0;17:38;RFI
+2026-11-08;24165;REG;Saronno;S01820;Milano Rogoredo;19:03;0;0;0;17:38;RFI
 2026-11-08;2417;REG;Domodossola;S01700;Milano Centrale;09:38;-2;0;1;09:49;RFI
 2026-11-08;24186;REG;Lodi;S01820;Milano Rogoredo;00:25;4;0;0;00:09;RFI
 2026-11-08;2419;REG;Domodossola;S01700;Milano Centrale;10:38;5;0;1;10:45;RFI
@@ -923,7 +1012,9 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;24317;REG;Milano Bovisa Politecnico;S01860;Pavia;07:51;6;0;0;07:55;RFI
 2026-11-08;24319;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;07:52;0;0;1;07:55;RFI
 2026-11-08;24319;REG;Milano Bovisa Politecnico;S01860;Pavia;08:21;0;0;0;07:55;RFI
-2026-11-08;2433;REG;Domodossola;S01700;Milano Centrale;17:38;1;0;0;16:35;RFI
+2026-11-08;2433;REG;Domodossola;S01700;Milano Centrale;17:38;-4;0;1;17:38;RFI
+2026-11-08;2435;REG;Domodossola;S01700;Milano Centrale;18:38;0;0;0;17:38;RFI
+2026-11-08;24366;REG;Pavia;S01820;Milano Rogoredo;19:06;0;0;0;17:38;RFI
 2026-11-08;24383;REG;Milano Bovisa Politecnico;S01860;Pavia;00:21;2;0;0;00:09;RFI
 2026-11-08;24386;REG;Pavia;S01820;Milano Rogoredo;00:06;5;0;0;00:09;RFI
 2026-11-08;24418;REG;Pavia;S01820;Milano Rogoredo;07:06;0;0;0;06:48;RFI
@@ -980,14 +1071,19 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;24453;REG;Milano Bovisa Politecnico;S01860;Pavia;16:51;5;0;0;16:35;RFI
 2026-11-08;24454;REG;Pavia;S01820;Milano Rogoredo;16:06;0;0;0;15:38;RFI
 2026-11-08;24455;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;16:52;-1;0;0;16:35;RFI
-2026-11-08;24455;REG;Milano Bovisa Politecnico;S01860;Pavia;17:21;-1;0;0;16:35;RFI
+2026-11-08;24455;REG;Milano Bovisa Politecnico;S01860;Pavia;17:21;3;0;1;17:38;RFI
 2026-11-08;24456;REG;Pavia;S01820;Milano Rogoredo;16:36;1;0;0;16:35;RFI
 2026-11-08;24457;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;17:22;0;0;0;16:35;RFI
-2026-11-08;24457;REG;Milano Bovisa Politecnico;S01860;Pavia;17:51;0;0;0;16:35;RFI
+2026-11-08;24457;REG;Milano Bovisa Politecnico;S01860;Pavia;17:51;3;0;0;17:38;RFI
 2026-11-08;24458;REG;Pavia;S01820;Milano Rogoredo;17:06;0;0;0;16:35;RFI
-2026-11-08;24459;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;17:52;0;0;0;16:35;RFI
-2026-11-08;24460;REG;Pavia;S01820;Milano Rogoredo;17:36;0;0;0;16:35;RFI
-2026-11-08;24462;REG;Pavia;S01820;Milano Rogoredo;18:06;0;0;0;16:35;RFI
+2026-11-08;24459;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;17:52;1;0;0;17:38;RFI
+2026-11-08;24459;REG;Milano Bovisa Politecnico;S01860;Pavia;18:21;1;0;0;17:38;RFI
+2026-11-08;24460;REG;Pavia;S01820;Milano Rogoredo;17:36;4;0;0;17:38;RFI
+2026-11-08;24461;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;18:22;0;0;0;17:38;RFI
+2026-11-08;24461;REG;Milano Bovisa Politecnico;S01860;Pavia;18:51;0;0;0;17:38;RFI
+2026-11-08;24462;REG;Pavia;S01820;Milano Rogoredo;18:06;0;0;0;17:38;RFI
+2026-11-08;24463;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;18:52;0;0;0;17:38;RFI
+2026-11-08;24464;REG;Pavia;S01820;Milano Rogoredo;18:36;0;0;0;17:38;RFI
 2026-11-08;24508;REG;Gallarate;S01205;Varese;06:18;0;0;0;05:51;RFI
 2026-11-08;2451;REG;Milano Centrale;S05043;Bologna Centrale;08:05;1;0;0;07:55;RFI
 2026-11-08;24510;REG;Gallarate;S01205;Varese;06:48;-1;0;1;06:48;RFI
@@ -1017,8 +1113,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2455;REG;Milano Centrale;S01820;Milano Rogoredo;07:32;0;0;0;06:48;RFI
 2026-11-08;2455;REG;Milano Centrale;S05043;Bologna Centrale;10:13;2;0;0;09:49;RFI
 2026-11-08;24550;REG;Milano Certosa;S01205;Varese;16:48;13;0;0;16:35;RFI
-2026-11-08;24552;REG;Treviglio;S01205;Varese;17:18;0;0;0;16:35;RFI
-2026-11-08;24554;REG;Treviglio;S01205;Varese;17:48;0;0;0;16:35;RFI
+2026-11-08;24552;REG;Treviglio;S01205;Varese;17:18;0;0;1;17:38;RFI
+2026-11-08;24554;REG;Treviglio;S01205;Varese;17:48;6;0;0;17:38;RFI
+2026-11-08;24556;REG;Treviglio;S01205;Varese;18:18;8;0;0;17:38;RFI
+2026-11-08;24558;REG;Treviglio;S01205;Varese;18:48;1;0;0;17:38;RFI
 2026-11-08;2457;REG;Milano Centrale;S01820;Milano Rogoredo;08:27;0;0;0;07:55;RFI
 2026-11-08;2458;REG;Bologna Centrale;S01700;Milano Centrale;08:50;-1;0;1;08:58;RFI
 2026-11-08;2458;REG;Bologna Centrale;S01820;Milano Rogoredo;08:35;1;0;0;07:55;RFI
@@ -1045,7 +1143,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;24708;REG;Villasanta Parco;S01322;Monza;11:25;0;0;0;10:45;RFI
 2026-11-08;24709;REG;Milano Porta Garibaldi;S01322;Monza;11:32;3;0;1;11:41;RFI
 2026-11-08;2471;REG;Milano Centrale;S01820;Milano Rogoredo;15:32;5;0;1;15:38;RFI
-2026-11-08;2471;REG;Milano Centrale;S05043;Bologna Centrale;18:10;12;0;0;16:35;RFI
+2026-11-08;2471;REG;Milano Centrale;S05043;Bologna Centrale;18:10;1;0;0;17:38;RFI
 2026-11-08;2472;REG;Parma;S01700;Milano Centrale;15:45;1;0;0;15:38;RFI
 2026-11-08;2472;REG;Parma;S01820;Milano Rogoredo;15:31;1;0;1;15:38;RFI
 2026-11-08;24729;REG;Triuggio-Ponte Albiate;S01520;Lecco;10:53;5;0;0;10:45;RFI
@@ -1055,9 +1153,13 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;24741;REG;Triuggio-Ponte Albiate;S01520;Lecco;13:53;-1;0;0;13:47;RFI
 2026-11-08;24745;REG;Triuggio-Ponte Albiate;S01520;Lecco;14:53;-1;0;0;14:49;RFI
 2026-11-08;24749;REG;Triuggio-Ponte Albiate;S01520;Lecco;15:53;2;0;0;15:38;RFI
-2026-11-08;2475;REG;Milano Centrale;S01820;Milano Rogoredo;17:32;0;0;0;16:35;RFI
+2026-11-08;2475;REG;Milano Centrale;S01820;Milano Rogoredo;17:32;4;0;1;17:38;RFI
 2026-11-08;24753;REG;Triuggio-Ponte Albiate;S01520;Lecco;16:53;-1;0;0;16:35;RFI
-2026-11-08;24757;REG;Triuggio-Ponte Albiate;S01520;Lecco;17:53;0;0;0;16:35;RFI
+2026-11-08;24757;REG;Triuggio-Ponte Albiate;S01520;Lecco;17:53;2;0;0;17:38;RFI
+2026-11-08;24761;REG;Triuggio-Ponte Albiate;S01520;Lecco;18:56;0;0;0;17:38;RFI
+2026-11-08;2477;REG;Milano Centrale;S01820;Milano Rogoredo;18:24;0;0;0;17:38;RFI
+2026-11-08;2478;REG;Bologna Centrale;S01700;Milano Centrale;18:45;9;0;0;17:38;RFI
+2026-11-08;2478;REG;Bologna Centrale;S01820;Milano Rogoredo;18:31;9;0;0;17:38;RFI
 2026-11-08;24782;REG;Villasanta Parco;S01322;Monza;12:25;1;0;1;12:37;RFI
 2026-11-08;24783;REG;Milano Porta Garibaldi;S01322;Monza;12:32;12;0;0;12:37;RFI
 2026-11-08;24784;REG;Villasanta Parco;S01322;Monza;13:25;0;0;0;12:37;RFI
@@ -1069,7 +1171,9 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;24790;REG;Villasanta Parco;S01322;Monza;16:25;3;0;1;16:35;RFI
 2026-11-08;24791;REG;Milano Porta Garibaldi;S01322;Monza;16:32;2;0;1;16:35;RFI
 2026-11-08;24792;REG;Villasanta Parco;S01322;Monza;17:25;0;0;0;16:35;RFI
-2026-11-08;24793;REG;Milano Porta Garibaldi;S01322;Monza;17:32;0;0;0;16:35;RFI
+2026-11-08;24793;REG;Milano Porta Garibaldi;S01322;Monza;17:32;2;0;1;17:38;RFI
+2026-11-08;24794;REG;Villasanta Parco;S01322;Monza;18:25;0;0;0;17:38;RFI
+2026-11-08;24795;REG;Milano Porta Garibaldi;S01322;Monza;18:32;0;0;0;17:38;RFI
 2026-11-08;24814;REG;Milano Porta Garibaldi;S01322;Monza;05:37;1;0;1;05:51;RFI
 2026-11-08;24814;REG;Milano Porta Garibaldi;S01520;Lecco;06:24;1;0;0;05:51;RFI
 2026-11-08;24817;REG;Lecco;S01322;Monza;05:51;-1;0;1;05:51;RFI
@@ -1105,10 +1209,13 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;24856;REG;Milano Porta Garibaldi;S01520;Lecco;16:54;1;0;0;16:35;RFI
 2026-11-08;24857;REG;Lecco;S01322;Monza;15:51;-1;0;0;15:38;RFI
 2026-11-08;24860;REG;Milano Porta Garibaldi;S01322;Monza;17:07;0;0;0;16:35;RFI
-2026-11-08;24860;REG;Milano Porta Garibaldi;S01520;Lecco;17:54;0;0;0;16:35;RFI
+2026-11-08;24860;REG;Milano Porta Garibaldi;S01520;Lecco;17:54;3;0;0;17:38;RFI
 2026-11-08;24861;REG;Lecco;S01322;Monza;16:51;1;0;0;16:35;RFI
-2026-11-08;24864;REG;Milano Porta Garibaldi;S01322;Monza;18:07;0;0;0;16:35;RFI
-2026-11-08;24865;REG;Lecco;S01322;Monza;17:51;0;0;0;16:35;RFI
+2026-11-08;24864;REG;Milano Porta Garibaldi;S01322;Monza;18:07;0;0;0;17:38;RFI
+2026-11-08;24864;REG;Milano Porta Garibaldi;S01520;Lecco;18:54;0;0;0;17:38;RFI
+2026-11-08;24865;REG;Lecco;S01322;Monza;17:51;11;0;0;17:38;RFI
+2026-11-08;24868;REG;Milano Porta Garibaldi;S01322;Monza;19:07;0;0;0;17:38;RFI
+2026-11-08;24869;REG;Lecco;S01322;Monza;18:51;0;0;0;17:38;RFI
 2026-11-08;24886;REG;Milano Centrale;S01520;Lecco;00:24;1;0;0;00:09;RFI
 2026-11-08;2490;REG;Bologna Centrale;S01700;Milano Centrale;16:45;16;0;0;16:35;RFI
 2026-11-08;2490;REG;Bologna Centrale;S01820;Milano Rogoredo;16:31;16;0;0;16:35;RFI
@@ -1189,14 +1296,20 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;25058;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;17:10;1;0;0;16:35;RFI
 2026-11-08;25058;REG;Milano Porta Garibaldi;S01322;Monza;16:26;1;0;1;16:35;RFI
 2026-11-08;25059;REG;Como S.Giovanni;S01322;Monza;16:31;4;0;1;16:35;RFI
-2026-11-08;25060;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;17:40;0;0;0;16:35;RFI
+2026-11-08;25060;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;17:40;5;0;0;17:38;RFI
 2026-11-08;25060;REG;Milano Porta Garibaldi;S01322;Monza;16:56;0;0;0;16:35;RFI
 2026-11-08;25061;REG;Como S.Giovanni;S01322;Monza;17:01;2;0;0;16:35;RFI
-2026-11-08;25062;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;18:10;0;0;0;16:35;RFI
-2026-11-08;25062;REG;Milano Porta Garibaldi;S01322;Monza;17:26;0;0;0;16:35;RFI
-2026-11-08;25063;REG;Como S.Giovanni;S01322;Monza;17:31;0;0;0;16:35;RFI
-2026-11-08;25064;REG;Milano Porta Garibaldi;S01322;Monza;17:56;0;0;0;16:35;RFI
-2026-11-08;25065;REG;Como S.Giovanni;S01322;Monza;18:01;0;0;0;16:35;RFI
+2026-11-08;25062;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;18:10;1;0;0;17:38;RFI
+2026-11-08;25062;REG;Milano Porta Garibaldi;S01322;Monza;17:26;1;0;1;17:38;RFI
+2026-11-08;25063;REG;Como S.Giovanni;S01322;Monza;17:31;5;0;1;17:38;RFI
+2026-11-08;25064;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;18:40;0;0;0;17:38;RFI
+2026-11-08;25064;REG;Milano Porta Garibaldi;S01322;Monza;17:56;0;0;0;17:38;RFI
+2026-11-08;25065;REG;Como S.Giovanni;S01322;Monza;18:01;5;0;0;17:38;RFI
+2026-11-08;25066;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;19:10;0;0;0;17:38;RFI
+2026-11-08;25066;REG;Milano Porta Garibaldi;S01322;Monza;18:26;0;0;0;17:38;RFI
+2026-11-08;25067;REG;Como S.Giovanni;S01322;Monza;18:31;0;0;0;17:38;RFI
+2026-11-08;25068;REG;Milano Porta Garibaldi;S01322;Monza;18:56;0;0;0;17:38;RFI
+2026-11-08;25069;REG;Como S.Giovanni;S01322;Monza;19:01;0;0;0;17:38;RFI
 2026-11-08;25089;REG;Como S.Giovanni;S01322;Monza;00:01;-2;0;1;00:09;RFI
 2026-11-08;25091;REG;Seregno;S01322;Monza;00:31;0;0;0;00:09;RFI
 2026-11-08;2510;REG;Milano Porta Garibaldi;S01205;Varese;06:24;1;0;0;05:51;RFI
@@ -1225,8 +1338,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;25129;REG;Chiasso;S01307;Como S. Giovanni;17:14;0;0;0;16:35;RFI
 2026-11-08;2513;REG;Porto Ceresio;S01205;Varese;06:35;-1;0;1;06:48;RFI
 2026-11-08;25130;REG;Pm Albate;S01307;Como S. Giovanni;16:44;0;0;0;16:35;RFI
-2026-11-08;25131;REG;Chiasso;S01307;Como S. Giovanni;18:14;0;0;0;16:35;RFI
-2026-11-08;25132;REG;Pm Albate;S01307;Como S. Giovanni;17:44;0;0;0;16:35;RFI
+2026-11-08;25131;REG;Chiasso;S01307;Como S. Giovanni;18:14;0;0;0;17:38;RFI
+2026-11-08;25132;REG;Pm Albate;S01307;Como S. Giovanni;17:44;0;0;0;17:38;RFI
+2026-11-08;25133;REG;Chiasso;S01307;Como S. Giovanni;19:14;0;0;0;17:38;RFI
+2026-11-08;25134;REG;Pm Albate;S01307;Como S. Giovanni;18:44;0;0;0;17:38;RFI
 2026-11-08;2514;REG;Milano Porta Garibaldi;S01205;Varese;08:24;2;0;0;07:55;RFI
 2026-11-08;2515;REG;Porto Ceresio;S01205;Varese;07:35;0;0;0;06:48;RFI
 2026-11-08;25155;REG;Chiasso;S01307;Como S. Giovanni;05:49;1;0;1;05:51;RFI
@@ -1243,8 +1358,9 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;25173;REG;Chiasso;S01307;Como S. Giovanni;14:50;-2;0;1;14:49;RFI
 2026-11-08;25175;REG;Chiasso;S01307;Como S. Giovanni;15:50;0;0;0;15:38;RFI
 2026-11-08;25177;REG;Chiasso;S01307;Como S. Giovanni;16:50;0;0;0;16:35;RFI
-2026-11-08;25179;REG;Chiasso;S01307;Como S. Giovanni;17:50;0;0;0;16:35;RFI
+2026-11-08;25179;REG;Chiasso;S01307;Como S. Giovanni;17:50;0;0;0;17:38;RFI
 2026-11-08;2518;REG;Milano Porta Garibaldi;S01205;Varese;10:24;0;0;0;09:49;RFI
+2026-11-08;25181;REG;Chiasso;S01307;Como S. Giovanni;18:50;0;0;0;17:38;RFI
 2026-11-08;2519;REG;Porto Ceresio;S01205;Varese;09:35;2;0;1;09:49;RFI
 2026-11-08;25192;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;00:10;3;0;0;00:09;RFI
 2026-11-08;25195;REG;Chiasso;S01307;Como S. Giovanni;08:50;-3;0;1;08:58;RFI
@@ -1260,9 +1376,11 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2529;REG;Porto Ceresio;S01205;Varese;14:35;2;0;1;14:49;RFI
 2026-11-08;2530;REG;Milano Porta Garibaldi;S01205;Varese;16:24;3;0;1;16:35;RFI
 2026-11-08;2531;REG;Porto Ceresio;S01205;Varese;15:35;3;0;1;15:38;RFI
-2026-11-08;2532;REG;Milano Porta Garibaldi;S01205;Varese;17:24;2;0;0;16:35;RFI
+2026-11-08;2532;REG;Milano Porta Garibaldi;S01205;Varese;17:24;3;0;1;17:38;RFI
 2026-11-08;2533;REG;Porto Ceresio;S01205;Varese;16:35;3;0;0;16:35;RFI
-2026-11-08;2535;REG;Porto Ceresio;S01205;Varese;17:35;0;0;0;16:35;RFI
+2026-11-08;2534;REG;Milano Porta Garibaldi;S01205;Varese;18:24;0;0;0;17:38;RFI
+2026-11-08;2535;REG;Porto Ceresio;S01205;Varese;17:35;2;0;1;17:38;RFI
+2026-11-08;2537;REG;Porto Ceresio;S01205;Varese;18:35;0;0;0;17:38;RFI
 2026-11-08;25502;REG;Milano Centrale;S01307;Como S. Giovanni;06:23;6;0;0;05:51;RFI
 2026-11-08;25502;REG;Milano Centrale;S01322;Monza;05:52;6;0;0;05:51;RFI
 2026-11-08;25506;REG;Milano Centrale;S01307;Como S. Giovanni;07:23;6;0;0;06:48;RFI
@@ -1315,14 +1433,19 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;25525;REG;Chiasso;S01307;Como S. Giovanni;15:35;1;0;1;15:38;RFI
 2026-11-08;25525;REG;Chiasso;S01322;Monza;16:06;1;0;0;15:38;RFI
 2026-11-08;25525;REG;Chiasso;S01700;Milano Centrale;16:20;-2;0;1;16:35;RFI
-2026-11-08;25526;REG;Milano Centrale;S01307;Como S. Giovanni;17:23;0;0;0;16:35;RFI
+2026-11-08;25526;REG;Milano Centrale;S01307;Como S. Giovanni;17:23;12;0;1;17:38;RFI
 2026-11-08;25526;REG;Milano Centrale;S01322;Monza;16:52;0;0;0;16:35;RFI
 2026-11-08;25527;REG;Chiasso;S01307;Como S. Giovanni;16:35;1;0;1;16:35;RFI
 2026-11-08;25527;REG;Chiasso;S01322;Monza;17:06;1;0;0;16:35;RFI
-2026-11-08;25527;REG;Chiasso;S01700;Milano Centrale;17:20;1;0;0;16:35;RFI
-2026-11-08;25528;REG;Milano Centrale;S01322;Monza;17:52;0;0;0;16:35;RFI
-2026-11-08;25529;REG;Chiasso;S01307;Como S. Giovanni;17:35;0;0;0;16:35;RFI
-2026-11-08;25529;REG;Chiasso;S01322;Monza;18:06;0;0;0;16:35;RFI
+2026-11-08;25527;REG;Chiasso;S01700;Milano Centrale;17:20;1;0;1;17:38;RFI
+2026-11-08;25528;REG;Milano Centrale;S01307;Como S. Giovanni;18:23;0;0;0;17:38;RFI
+2026-11-08;25528;REG;Milano Centrale;S01322;Monza;17:52;0;0;0;17:38;RFI
+2026-11-08;25529;REG;Chiasso;S01307;Como S. Giovanni;17:35;1;0;1;17:38;RFI
+2026-11-08;25529;REG;Chiasso;S01322;Monza;18:06;1;0;0;17:38;RFI
+2026-11-08;25529;REG;Chiasso;S01700;Milano Centrale;18:20;1;0;0;17:38;RFI
+2026-11-08;25530;REG;Milano Centrale;S01322;Monza;18:52;0;0;0;17:38;RFI
+2026-11-08;25531;REG;Chiasso;S01307;Como S. Giovanni;18:35;0;0;0;17:38;RFI
+2026-11-08;25531;REG;Chiasso;S01322;Monza;19:06;0;0;0;17:38;RFI
 2026-11-08;25552;REG;Malpensa Aeroporto Terminal 2;S01205;Varese;07:00;2;0;0;06:48;RFI
 2026-11-08;25555;REG;Stabio;S01205;Varese;05:54;0;0;0;05:51;RFI
 2026-11-08;25557;REG;Stabio;S01205;Varese;06:54;1;0;0;06:48;RFI
@@ -1343,8 +1466,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;25575;REG;Stabio;S01205;Varese;15:54;2;0;0;15:38;RFI
 2026-11-08;25577;REG;Stabio;S01205;Varese;16:54;0;0;0;16:35;RFI
 2026-11-08;25578;REG;Malpensa Aeroporto Terminal 2;S01205;Varese;17:00;0;0;0;16:35;RFI
-2026-11-08;25579;REG;Stabio;S01205;Varese;17:54;0;0;0;16:35;RFI
-2026-11-08;25580;REG;Malpensa Aeroporto Terminal 2;S01205;Varese;18:00;0;0;0;16:35;RFI
+2026-11-08;25579;REG;Stabio;S01205;Varese;17:54;0;0;0;17:38;RFI
+2026-11-08;25580;REG;Malpensa Aeroporto Terminal 2;S01205;Varese;18:00;2;0;0;17:38;RFI
+2026-11-08;25581;REG;Stabio;S01205;Varese;18:54;0;0;0;17:38;RFI
+2026-11-08;25582;REG;Malpensa Aeroporto Terminal 2;S01205;Varese;19:00;0;0;0;17:38;RFI
 2026-11-08;25592;REG;Malpensa Aeroporto Terminal 2;S01205;Varese;00:00;2;0;1;00:09;RFI
 2026-11-08;25595;REG;Stabio;S01205;Varese;08:54;-1;0;1;08:58;RFI
 2026-11-08;25596;REG;Malpensa Aeroporto Terminal 2;S01205;Varese;16:00;-1;0;0;15:38;RFI
@@ -1372,8 +1497,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;25858;REG;Ponte S.Pietro;S01322;Monza;16:11;2;0;0;15:38;RFI
 2026-11-08;25859;REG;Milano Porta Garibaldi;S01322;Monza;16:47;-1;0;0;16:35;RFI
 2026-11-08;25862;REG;Ponte S.Pietro;S01322;Monza;17:11;2;0;0;16:35;RFI
-2026-11-08;25863;REG;Milano Porta Garibaldi;S01322;Monza;17:47;0;0;0;16:35;RFI
-2026-11-08;25866;REG;Ponte S.Pietro;S01322;Monza;18:11;0;0;0;16:35;RFI
+2026-11-08;25863;REG;Milano Porta Garibaldi;S01322;Monza;17:47;0;0;0;17:38;RFI
+2026-11-08;25866;REG;Ponte S.Pietro;S01322;Monza;18:11;3;0;0;17:38;RFI
+2026-11-08;25867;REG;Milano Porta Garibaldi;S01322;Monza;18:47;0;0;0;17:38;RFI
+2026-11-08;25870;REG;Ponte S.Pietro;S01322;Monza;19:11;0;0;0;17:38;RFI
 2026-11-08;26;REG;Laveno Mombello Lago;S01933;Saronno;08:47;1;0;1;08:58;RFI
 2026-11-08;2613;REG;Milano Centrale;S01717;Brescia;07:31;-1;0;0;06:48;RFI
 2026-11-08;2613;REG;Milano Centrale;S02430;Verona Porta Nuova;08:17;4;0;0;07:55;RFI
@@ -1410,29 +1537,36 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2630;REG;Verona Porta Nuova;S01700;Milano Centrale;14:35;4;0;1;14:49;RFI
 2026-11-08;2630;REG;Verona Porta Nuova;S01717;Brescia;13:26;0;0;0;12:37;RFI
 2026-11-08;2631;REG;Milano Centrale;S01717;Brescia;16:31;1;0;1;16:35;RFI
-2026-11-08;2631;REG;Milano Centrale;S02430;Verona Porta Nuova;17:17;1;0;0;16:35;RFI
+2026-11-08;2631;REG;Milano Centrale;S02430;Verona Porta Nuova;17:17;-4;0;1;17:38;RFI
 2026-11-08;2632;REG;Verona Porta Nuova;S01700;Milano Centrale;15:35;1;0;1;15:38;RFI
 2026-11-08;2632;REG;Verona Porta Nuova;S01717;Brescia;14:26;0;0;0;13:47;RFI
-2026-11-08;2633;REG;Milano Centrale;S01717;Brescia;17:31;3;0;0;16:35;RFI
+2026-11-08;2633;REG;Milano Centrale;S01717;Brescia;17:31;2;0;1;17:38;RFI
+2026-11-08;2633;REG;Milano Centrale;S02430;Verona Porta Nuova;18:17;2;0;0;17:38;RFI
 2026-11-08;2634;REG;Verona Porta Nuova;S01700;Milano Centrale;16:35;-2;0;1;16:35;RFI
 2026-11-08;2634;REG;Verona Porta Nuova;S01717;Brescia;15:26;-1;0;1;15:38;RFI
+2026-11-08;2635;REG;Milano Centrale;S01717;Brescia;18:31;3;0;0;17:38;RFI
 2026-11-08;26353;REG;Susa;S00219;Torino Porta Nuova;05:45;-4;0;1;05:51;RFI
-2026-11-08;2636;REG;Verona Porta Nuova;S01700;Milano Centrale;17:35;-2;0;0;16:35;RFI
+2026-11-08;2636;REG;Verona Porta Nuova;S01700;Milano Centrale;17:35;1;0;1;17:38;RFI
 2026-11-08;2636;REG;Verona Porta Nuova;S01717;Brescia;16:26;-2;0;1;16:35;RFI
 2026-11-08;26361;REG;Susa;S00219;Torino Porta Nuova;09:15;2;0;0;08:58;RFI
 2026-11-08;26365;REG;Susa;S00219;Torino Porta Nuova;11:20;6;0;1;11:41;RFI
 2026-11-08;26369;REG;Bussoleno;S00219;Torino Porta Nuova;13:25;-1;0;0;12:37;RFI
 2026-11-08;26373;REG;Susa;S00219;Torino Porta Nuova;15:15;-1;0;1;15:38;RFI
-2026-11-08;26377;REG;Susa;S00219;Torino Porta Nuova;17:15;0;0;0;16:35;RFI
-2026-11-08;2638;REG;Verona Porta Nuova;S01717;Brescia;17:26;0;0;0;16:35;RFI
+2026-11-08;26377;REG;Susa;S00219;Torino Porta Nuova;17:15;5;0;1;17:38;RFI
+2026-11-08;2638;REG;Verona Porta Nuova;S01700;Milano Centrale;18:35;-3;0;0;17:38;RFI
+2026-11-08;2638;REG;Verona Porta Nuova;S01717;Brescia;17:26;-3;0;1;17:38;RFI
+2026-11-08;26381;REG;Susa;S00219;Torino Porta Nuova;19:15;0;0;0;17:38;RFI
+2026-11-08;2640;REG;Verona Porta Nuova;S01717;Brescia;18:26;0;0;0;17:38;RFI
 2026-11-08;2647;REG;Milano Centrale;S01717;Brescia;00:31;-1;0;0;00:09;RFI
 2026-11-08;2655;REG;Milano Porta Garibaldi;S01717;Brescia;08:56;-11;0;1;08:58;RFI
 2026-11-08;2655;REG;Milano Porta Garibaldi;S02430;Verona Porta Nuova;09:46;3;0;1;09:49;RFI
 2026-11-08;2657;REG;Milano Centrale;S01717;Brescia;09:56;-8;0;1;09:49;RFI
 2026-11-08;2657;REG;Milano Centrale;S02430;Verona Porta Nuova;10:40;2;0;1;10:45;RFI
 2026-11-08;2668;REG;Verona Porta Nuova;S01717;Brescia;11:52;8;0;0;11:41;RFI
-2026-11-08;2671;REG;Brescia;S02430;Verona Porta Nuova;17:52;0;0;0;16:35;RFI
-2026-11-08;2680;REG;Verona Porta Nuova;S01717;Brescia;18:03;0;0;0;16:35;RFI
+2026-11-08;2671;REG;Brescia;S02430;Verona Porta Nuova;17:52;5;0;0;17:38;RFI
+2026-11-08;2673;REG;Brescia;S02430;Verona Porta Nuova;18:42;0;0;0;17:38;RFI
+2026-11-08;2680;REG;Verona Porta Nuova;S01717;Brescia;18:03;1;0;0;17:38;RFI
+2026-11-08;2682;REG;Verona Porta Nuova;S01717;Brescia;19:03;0;0;0;17:38;RFI
 2026-11-08;2691;REG;Milano Porta Garibaldi;S01717;Brescia;07:56;-2;0;1;07:55;RFI
 2026-11-08;26955;REG;Bardonecchia;S00219;Torino Porta Nuova;06:45;-1;0;1;06:48;RFI
 2026-11-08;26959;REG;Bardonecchia;S00219;Torino Porta Nuova;08:15;4;0;0;07:55;RFI
@@ -1440,7 +1574,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;26967;REG;Bardonecchia;S00219;Torino Porta Nuova;12:15;6;0;1;12:37;RFI
 2026-11-08;26971;REG;Bardonecchia;S00219;Torino Porta Nuova;14:15;0;0;0;13:47;RFI
 2026-11-08;26975;REG;Bardonecchia;S00219;Torino Porta Nuova;16:15;-4;0;1;16:35;RFI
-2026-11-08;26979;REG;Bardonecchia;S00219;Torino Porta Nuova;18:15;0;0;0;16:35;RFI
+2026-11-08;26979;REG;Bardonecchia;S00219;Torino Porta Nuova;18:15;0;0;0;17:38;RFI
 2026-11-08;2699;REG;Lecco;S01322;Monza;08:06;1;0;0;07:55;RFI
 2026-11-08;2699;REG;Lecco;S01717;Brescia;09:25;-3;0;0;08:58;RFI
 2026-11-08;2699;REG;Lecco;S02430;Verona Porta Nuova;10:06;-1;0;0;09:49;RFI
@@ -1448,7 +1582,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2718;REG;Ivrea;S00219;Torino Porta Nuova;10:40;-3;0;1;10:45;RFI
 2026-11-08;2722;REG;Ivrea;S00219;Torino Porta Nuova;12:40;-5;0;1;12:37;RFI
 2026-11-08;2730;REG;Ivrea;S00219;Torino Porta Nuova;16:40;3;0;0;16:35;RFI
-2026-11-08;2732;REG;Ivrea;S00219;Torino Porta Nuova;17:40;0;0;0;16:35;RFI
+2026-11-08;2732;REG;Ivrea;S00219;Torino Porta Nuova;17:40;-4;0;1;17:38;RFI
 2026-11-08;2752;REG;Ivrea;S00219;Torino Porta Nuova;07:40;3;0;1;07:55;RFI
 2026-11-08;2754;REG;Ivrea;S00219;Torino Porta Nuova;08:40;-4;0;1;08:58;RFI
 2026-11-08;2766;REG;Ivrea;S00219;Torino Porta Nuova;14:40;-1;0;1;14:49;RFI
@@ -1507,12 +1641,17 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2831;REG;Tirano;S01700;Milano Centrale;16:40;23;0;0;16:35;RFI
 2026-11-08;2832;REG;Milano Centrale;S01322;Monza;16:31;1;0;1;16:35;RFI
 2026-11-08;2832;REG;Milano Centrale;S01520;Lecco;16:59;1;0;0;16:35;RFI
-2026-11-08;2833;REG;Tirano;S01322;Monza;17:26;14;0;0;16:35;RFI
+2026-11-08;2833;REG;Tirano;S01322;Monza;17:26;5;0;1;17:38;RFI
 2026-11-08;2833;REG;Tirano;S01520;Lecco;16:58;14;0;0;16:35;RFI
-2026-11-08;2833;REG;Tirano;S01700;Milano Centrale;17:40;14;0;0;16:35;RFI
-2026-11-08;2834;REG;Milano Centrale;S01322;Monza;17:31;0;0;0;16:35;RFI
-2026-11-08;2834;REG;Milano Centrale;S01520;Lecco;17:59;0;0;0;16:35;RFI
-2026-11-08;2835;REG;Tirano;S01520;Lecco;17:58;-3;0;0;16:35;RFI
+2026-11-08;2833;REG;Tirano;S01700;Milano Centrale;17:40;5;0;0;17:38;RFI
+2026-11-08;2834;REG;Milano Centrale;S01322;Monza;17:31;12;0;0;17:38;RFI
+2026-11-08;2834;REG;Milano Centrale;S01520;Lecco;17:59;12;0;0;17:38;RFI
+2026-11-08;2835;REG;Tirano;S01322;Monza;18:26;7;0;0;17:38;RFI
+2026-11-08;2835;REG;Tirano;S01520;Lecco;17:58;7;0;0;17:38;RFI
+2026-11-08;2835;REG;Tirano;S01700;Milano Centrale;18:40;7;0;0;17:38;RFI
+2026-11-08;2836;REG;Milano Centrale;S01322;Monza;18:31;0;0;0;17:38;RFI
+2026-11-08;2836;REG;Milano Centrale;S01520;Lecco;19:01;0;0;0;17:38;RFI
+2026-11-08;2837;REG;Tirano;S01520;Lecco;18:58;1;0;0;17:38;RFI
 2026-11-08;29;REG;Milano Cadorna;S01933;Saronno;10:11;0;0;0;09:49;RFI
 2026-11-08;2913;REG;Saronno;S01700;Milano Centrale;05:37;-1;0;1;05:51;RFI
 2026-11-08;2916;REG;Milano Centrale;S01933;Saronno;05:54;-1;0;0;05:51;RFI
@@ -1584,13 +1723,19 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;2959;REG;Gallarate;S01700;Milano Centrale;17:07;-7;0;0;16:35;RFI
 2026-11-08;2959;REG;Gallarate;S01933;Saronno;16:35;-7;0;1;16:35;RFI
 2026-11-08;2960;REG;Milano Centrale;S01933;Saronno;16:54;2;0;0;16:35;RFI
-2026-11-08;2961;REG;Gallarate;S01700;Milano Centrale;17:37;1;0;0;16:35;RFI
+2026-11-08;2961;REG;Gallarate;S01700;Milano Centrale;17:37;2;0;0;17:38;RFI
 2026-11-08;2961;REG;Gallarate;S01933;Saronno;17:05;1;0;0;16:35;RFI
 2026-11-08;2962;REG;Milano Centrale;S01933;Saronno;17:24;0;0;0;16:35;RFI
-2026-11-08;2963;REG;Gallarate;S01700;Milano Centrale;18:07;0;0;0;16:35;RFI
-2026-11-08;2963;REG;Gallarate;S01933;Saronno;17:35;0;0;0;16:35;RFI
-2026-11-08;2964;REG;Milano Centrale;S01933;Saronno;17:54;0;0;0;16:35;RFI
-2026-11-08;2965;REG;Gallarate;S01933;Saronno;18:05;0;0;0;16:35;RFI
+2026-11-08;2963;REG;Gallarate;S01700;Milano Centrale;18:07;-1;0;0;17:38;RFI
+2026-11-08;2963;REG;Gallarate;S01933;Saronno;17:35;-1;0;1;17:38;RFI
+2026-11-08;2964;REG;Milano Centrale;S01933;Saronno;17:54;2;0;0;17:38;RFI
+2026-11-08;2965;REG;Gallarate;S01700;Milano Centrale;18:37;-5;0;0;17:38;RFI
+2026-11-08;2965;REG;Gallarate;S01933;Saronno;18:05;-5;0;0;17:38;RFI
+2026-11-08;2966;REG;Milano Centrale;S01933;Saronno;18:24;0;0;0;17:38;RFI
+2026-11-08;2967;REG;Gallarate;S01700;Milano Centrale;19:07;0;0;0;17:38;RFI
+2026-11-08;2967;REG;Gallarate;S01933;Saronno;18:35;0;0;0;17:38;RFI
+2026-11-08;2968;REG;Milano Centrale;S01933;Saronno;18:54;0;0;0;17:38;RFI
+2026-11-08;2969;REG;Gallarate;S01933;Saronno;19:05;0;0;0;17:38;RFI
 2026-11-08;2987;REG;Gallarate;S01700;Milano Centrale;00:07;-3;0;1;00:09;RFI
 2026-11-08;2989;REG;Gallarate;S01700;Milano Centrale;00:37;-1;0;0;00:09;RFI
 2026-11-08;2989;REG;Gallarate;S01933;Saronno;00:05;-3;0;1;00:09;RFI
@@ -1640,13 +1785,19 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;3030;REG;Genova Piazza Principe;S01860;Pavia;14:33;7;0;1;14:49;RFI
 2026-11-08;3031;REG;Milano Lambrate;S01820;Milano Rogoredo;16:04;0;0;0;15:38;RFI
 2026-11-08;3031;REG;Milano Lambrate;S01860;Pavia;16:25;0;0;1;16:35;RFI
-2026-11-08;3031;REG;Milano Lambrate;S04700;Genova Piazza Principe;18:02;0;0;0;16:35;RFI
+2026-11-08;3031;REG;Milano Lambrate;S04700;Genova Piazza Principe;18:02;-6;0;0;17:38;RFI
 2026-11-08;3034;REG;Genova Brignole;S01820;Milano Rogoredo;16:55;10;0;0;16:35;RFI
 2026-11-08;3034;REG;Genova Brignole;S01860;Pavia;16:33;11;0;0;16:35;RFI
 2026-11-08;3034;REG;Genova Brignole;S04700;Genova Piazza Principe;15:00;0;0;0;14:49;RFI
-2026-11-08;3035;REG;Milano Lambrate;S01820;Milano Rogoredo;18:04;0;0;0;16:35;RFI
+2026-11-08;3035;REG;Milano Lambrate;S01820;Milano Rogoredo;18:04;0;0;0;17:38;RFI
+2026-11-08;3035;REG;Milano Lambrate;S01860;Pavia;18:25;0;0;0;17:38;RFI
+2026-11-08;3037;REG;Milano Centrale;S01820;Milano Rogoredo;18:39;0;0;0;17:38;RFI
+2026-11-08;3037;REG;Milano Centrale;S01860;Pavia;18:59;0;0;0;17:38;RFI
+2026-11-08;3038;REG;Genova Piazza Principe;S01820;Milano Rogoredo;18:55;-5;0;0;17:38;RFI
+2026-11-08;3038;REG;Genova Piazza Principe;S01860;Pavia;18:33;-5;0;0;17:38;RFI
 2026-11-08;304;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;00:44;0;0;0;00:09;RFI
-2026-11-08;306;EC;Venezia S.Lucia;S01700;Milano Centrale;17:55;5;0;0;16:35;RFI
+2026-11-08;306;EC;Venezia S.Lucia;S01307;Como S. Giovanni;18:49;6;0;0;17:38;RFI
+2026-11-08;306;EC;Venezia S.Lucia;S01700;Milano Centrale;17:55;6;0;0;17:38;RFI
 2026-11-08;306;EC;Venezia S.Lucia;S01717;Brescia;17:07;5;0;0;16:35;RFI
 2026-11-08;306;EC;Venezia S.Lucia;S02430;Verona Porta Nuova;16:30;5;0;1;16:35;RFI
 2026-11-08;306;EC;Venezia S.Lucia;S02581;Padova;15:44;1;0;0;15:38;RFI
@@ -1663,12 +1814,13 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;3071;REG;Albenga;S04700;Genova Piazza Principe;13:30;3;0;1;13:47;RFI
 2026-11-08;3073;REG;Milano Centrale;S01820;Milano Rogoredo;16:37;1;0;0;16:35;RFI
 2026-11-08;3073;REG;Milano Centrale;S01860;Pavia;16:59;1;0;0;16:35;RFI
-2026-11-08;3073;REG;Milano Centrale;S04700;Genova Piazza Principe;18:14;1;0;0;16:35;RFI
-2026-11-08;3075;REG;Albenga;S01700;Milano Centrale;17:39;4;0;0;16:35;RFI
+2026-11-08;3073;REG;Milano Centrale;S04700;Genova Piazza Principe;18:14;1;0;0;17:38;RFI
+2026-11-08;3075;REG;Albenga;S01700;Milano Centrale;17:39;-3;0;1;17:38;RFI
 2026-11-08;3075;REG;Albenga;S01820;Milano Rogoredo;17:21;4;0;0;16:35;RFI
 2026-11-08;3075;REG;Albenga;S01860;Pavia;16:59;4;0;0;16:35;RFI
 2026-11-08;3075;REG;Albenga;S04700;Genova Piazza Principe;15:32;2;0;1;15:38;RFI
-2026-11-08;3079;REG;Imperia;S04700;Genova Piazza Principe;17:30;5;0;0;16:35;RFI
+2026-11-08;3079;REG;Imperia;S01860;Pavia;18:59;6;0;0;17:38;RFI
+2026-11-08;3079;REG;Imperia;S04700;Genova Piazza Principe;17:30;6;0;1;17:38;RFI
 2026-11-08;309;REG;Milano Cadorna;S01933;Saronno;06:15;0;0;0;05:51;RFI
 2026-11-08;31;REG;Milano Cadorna;S01933;Saronno;11:11;0;0;0;10:45;RFI
 2026-11-08;310;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;05:44;1;0;1;05:51;RFI
@@ -1682,12 +1834,13 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;3128;REG;Savona;S00219;Torino Porta Nuova;15:35;2;0;1;15:38;RFI
 2026-11-08;313;REG;Milano Cadorna;S01933;Saronno;07:15;0;0;0;06:48;RFI
 2026-11-08;3133;REG;Milano Cadorna;S01933;Saronno;11:20;0;0;0;10:45;RFI
-2026-11-08;3134;REG;Savona;S00219;Torino Porta Nuova;17:35;0;0;0;16:35;RFI
+2026-11-08;3134;REG;Savona;S00219;Torino Porta Nuova;17:35;1;0;1;17:38;RFI
 2026-11-08;314;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;06:44;2;0;1;06:48;RFI
 2026-11-08;3142;REG;Como Lago;S01933;Saronno;12:39;1;0;0;12:37;RFI
 2026-11-08;3147;REG;Milano Cadorna;S01933;Saronno;14:20;0;0;0;13:47;RFI
 2026-11-08;315;REG;Milano Cadorna;S01933;Saronno;07:45;1;0;1;07:55;RFI
 2026-11-08;316;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;07:14;0;0;0;06:48;RFI
+2026-11-08;3168;REG;Como Lago;S01933;Saronno;18:39;0;0;0;17:38;RFI
 2026-11-08;318;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;07:44;2;0;1;07:55;RFI
 2026-11-08;319;REG;Milano Cadorna;S01933;Saronno;08:15;0;0;0;07:55;RFI
 2026-11-08;32;EC;La Spezia Centrale;S01307;Como S. Giovanni;14:49;-1;0;1;14:49;RFI
@@ -1702,6 +1855,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;3232;REG;Cuneo;S00219;Torino Porta Nuova;14:38;-1;0;1;14:49;RFI
 2026-11-08;3238;REG;Cuneo;S00219;Torino Porta Nuova;16:40;3;0;0;16:35;RFI
 2026-11-08;324;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;08:14;4;0;0;07:55;RFI
+2026-11-08;3242;REG;Cuneo;S00219;Torino Porta Nuova;18:40;3;0;0;17:38;RFI
 2026-11-08;325;REG;Milano Cadorna;S01933;Saronno;09:15;-2;0;0;08:58;RFI
 2026-11-08;326;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;08:44;2;0;1;08:58;RFI
 2026-11-08;327;REG;Milano Cadorna;S01933;Saronno;09:45;-1;0;1;09:49;RFI
@@ -1733,17 +1887,19 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;33705;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;14:14;3;0;0;13:47;RFI
 2026-11-08;3371;REG;Ventimiglia;S04700;Genova Piazza Principe;16:17;2;0;0;15:38;RFI
 2026-11-08;3372;REG;Genova Brignole;S04700;Genova Piazza Principe;13:41;1;0;1;13:47;RFI
+2026-11-08;3375;REG;Ventimiglia;S04700;Genova Piazza Principe;18:17;5;0;0;17:38;RFI
 2026-11-08;3376;REG;Genova Brignole;S04700;Genova Piazza Principe;15:41;1;0;0;15:38;RFI
 2026-11-08;338;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;11:44;5;0;0;11:41;RFI
-2026-11-08;3380;REG;Genova Brignole;S04700;Genova Piazza Principe;17:41;0;0;0;16:35;RFI
+2026-11-08;3380;REG;Genova Brignole;S04700;Genova Piazza Principe;17:41;2;0;0;17:38;RFI
 2026-11-08;339;REG;Milano Cadorna;S01933;Saronno;12:45;-1;0;0;12:37;RFI
 2026-11-08;340;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;12:14;0;0;0;11:41;RFI
 2026-11-08;3400;REG;Trieste Centrale;S02593;Venezia S. Lucia;12:14;-1;0;0;11:41;RFI
-2026-11-08;3406;REG;Trieste Centrale;S02593;Venezia S. Lucia;17:27;1;0;0;16:35;RFI
+2026-11-08;3406;REG;Trieste Centrale;S02593;Venezia S. Lucia;17:27;-1;0;1;17:38;RFI
 2026-11-08;3414;REG;Trieste Centrale;S02593;Venezia S. Lucia;11:27;-7;0;1;11:41;RFI
 2026-11-08;342;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;12:44;4;0;0;12:37;RFI
-2026-11-08;34208;REG;Foligno;S06421;Firenze S.M.N.;17:57;10;0;0;16:35;RFI
+2026-11-08;34208;REG;Foligno;S06421;Firenze S.M.N.;17:57;10;0;0;17:38;RFI
 2026-11-08;34221;REG;Firenze Santa Maria Novella;S08217;Roma Tiburtina;10:49;-1;0;0;10:45;RFI
+2026-11-08;3426;REG;Trieste Centrale;S02593;Venezia S. Lucia;18:23;4;0;0;17:38;RFI
 2026-11-08;3427;REG;Bolzano;S02430;Verona Porta Nuova;06:46;-8;0;1;06:48;RFI
 2026-11-08;3427;REG;Bolzano;S05043;Bologna Centrale;08:44;5;0;1;08:58;RFI
 2026-11-08;3428;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;10:40;10;0;0;10:45;RFI
@@ -1793,17 +1949,22 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;3499;REG;Verona Porta Nuova;S02581;Padova;15:20;-2;0;0;14:49;RFI
 2026-11-08;3499;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;15:52;-2;0;0;15:38;RFI
 2026-11-08;350;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;14:44;2;0;1;14:49;RFI
-2026-11-08;3502;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;17:40;3;0;0;16:35;RFI
+2026-11-08;3502;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;17:40;14;0;0;17:38;RFI
 2026-11-08;3502;REG;Venezia S.Lucia;S02581;Padova;16:38;3;0;0;16:35;RFI
 2026-11-08;3503;REG;Verona Porta Nuova;S02581;Padova;16:20;5;0;1;16:35;RFI
 2026-11-08;3503;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;16:52;5;0;0;16:35;RFI
-2026-11-08;3504;REG;Venezia S.Lucia;S02581;Padova;17:38;0;0;0;16:35;RFI
-2026-11-08;3505;REG;Verona Porta Nuova;S02581;Padova;17:20;2;0;0;16:35;RFI
-2026-11-08;3505;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;17:52;2;0;0;16:35;RFI
+2026-11-08;3504;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;18:40;2;0;0;17:38;RFI
+2026-11-08;3504;REG;Venezia S.Lucia;S02581;Padova;17:38;2;0;0;17:38;RFI
+2026-11-08;3505;REG;Verona Porta Nuova;S02581;Padova;17:20;6;0;1;17:38;RFI
+2026-11-08;3505;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;17:52;6;0;0;17:38;RFI
+2026-11-08;3506;REG;Venezia S.Lucia;S02581;Padova;18:38;0;0;0;17:38;RFI
+2026-11-08;3507;REG;Verona Porta Nuova;S02581;Padova;18:20;3;0;0;17:38;RFI
+2026-11-08;3507;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;18:52;3;0;0;17:38;RFI
 2026-11-08;351;REG;Milano Cadorna;S01933;Saronno;15:15;0;0;0;14:49;RFI
 2026-11-08;3513;REG;Verona Porta Nuova;S02581;Padova;12:20;14;0;1;12:37;RFI
 2026-11-08;3513;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;12:52;14;0;0;12:37;RFI
 2026-11-08;352;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;15:14;0;0;0;14:49;RFI
+2026-11-08;3524;REG;Venezia S.Lucia;S02581;Padova;18:48;0;0;0;17:38;RFI
 2026-11-08;353;REG;Milano Cadorna;S01933;Saronno;15:45;1;0;0;15:38;RFI
 2026-11-08;354;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;15:44;2;0;0;15:38;RFI
 2026-11-08;355;REG;Milano Cadorna;S01933;Saronno;16:15;0;0;0;15:38;RFI
@@ -1817,30 +1978,36 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;360;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;17:14;0;0;0;16:35;RFI
 2026-11-08;3603;REG;Udine;S02593;Venezia S. Lucia;11:14;-2;0;0;10:45;RFI
 2026-11-08;361;REG;Milano Cadorna;S01933;Saronno;17:15;0;0;0;16:35;RFI
-2026-11-08;362;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;17:44;0;0;0;16:35;RFI
+2026-11-08;362;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;17:44;6;0;0;17:38;RFI
 2026-11-08;3632;REG;Venezia S.Lucia;S02581;Padova;10:38;2;0;1;10:45;RFI
 2026-11-08;3643;REG;Conegliano;S02593;Venezia S. Lucia;09:29;1;0;0;08:58;RFI
 2026-11-08;3647;REG;Sacile;S02593;Venezia S. Lucia;13:29;3;0;0;12:37;RFI
-2026-11-08;365;REG;Milano Cadorna;S01933;Saronno;17:45;0;0;0;16:35;RFI
+2026-11-08;365;REG;Milano Cadorna;S01933;Saronno;17:45;-2;0;0;17:38;RFI
 2026-11-08;3657;REG;Conegliano;S02593;Venezia S. Lucia;16:29;-4;0;1;16:35;RFI
-2026-11-08;366;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;18:14;0;0;0;16:35;RFI
-2026-11-08;367;REG;Milano Cadorna;S01933;Saronno;18:15;0;0;0;16:35;RFI
+2026-11-08;366;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;18:14;0;0;0;17:38;RFI
+2026-11-08;3665;REG;Conegliano;S02593;Venezia S. Lucia;18:29;-1;0;0;17:38;RFI
+2026-11-08;367;REG;Milano Cadorna;S01933;Saronno;18:15;0;0;0;17:38;RFI
+2026-11-08;368;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;18:44;0;0;0;17:38;RFI
 2026-11-08;37;EC;Chiasso;S01307;Como S. Giovanni;17:08;0;0;0;16:35;RFI
-2026-11-08;37;EC;Chiasso;S01820;Milano Rogoredo;18:10;0;0;0;16:35;RFI
+2026-11-08;37;EC;Chiasso;S01820;Milano Rogoredo;18:10;-6;0;0;17:38;RFI
+2026-11-08;371;REG;Milano Cadorna;S01933;Saronno;18:45;0;0;0;17:38;RFI
+2026-11-08;372;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;19:14;0;0;0;17:38;RFI
+2026-11-08;37259;IC;Roma Termini;S09218;Napoli Centrale;18:29;2;0;0;17:38;RFI
+2026-11-08;375;REG;Milano Cadorna;S01933;Saronno;19:15;0;0;0;17:38;RFI
 2026-11-08;3753;REG;Verona Porta Nuova;S05043;Bologna Centrale;11:58;15;0;0;11:41;RFI
 2026-11-08;3840;REG;Bologna Centrale;S02430;Verona Porta Nuova;11:35;2;0;1;11:41;RFI
 2026-11-08;3841;REG;Bolzano;S02430;Verona Porta Nuova;14:14;4;0;0;13:47;RFI
 2026-11-08;3841;REG;Bolzano;S05043;Bologna Centrale;16:05;5;0;0;15:38;RFI
 2026-11-08;3843;REG;Brennero;S02430;Verona Porta Nuova;16:14;4;0;0;15:38;RFI
-2026-11-08;3843;REG;Brennero;S05043;Bologna Centrale;18:05;3;0;0;16:35;RFI
+2026-11-08;3843;REG;Brennero;S05043;Bologna Centrale;18:05;-3;0;0;17:38;RFI
 2026-11-08;3844;REG;Bologna Centrale;S02430;Verona Porta Nuova;15:35;11;0;0;15:38;RFI
-2026-11-08;3845;REG;Brennero;S02430;Verona Porta Nuova;18:14;1;0;0;16:35;RFI
-2026-11-08;3846;REG;Bologna Centrale;S02430;Verona Porta Nuova;17:35;3;0;0;16:35;RFI
+2026-11-08;3845;REG;Brennero;S02430;Verona Porta Nuova;18:14;5;0;0;17:38;RFI
+2026-11-08;3846;REG;Bologna Centrale;S02430;Verona Porta Nuova;17:35;2;0;1;17:38;RFI
 2026-11-08;3850;REG;Bologna Centrale;S02430;Verona Porta Nuova;13:38;6;0;0;13:47;RFI
 2026-11-08;3858;REG;Trieste Centrale;S02593;Venezia S. Lucia;10:14;-4;0;0;09:49;RFI
 2026-11-08;3865;REG;Udine;S02593;Venezia S. Lucia;08:03;-5;0;0;07:55;RFI
 2026-11-08;3886;REG;Trieste Centrale;S02593;Venezia S. Lucia;16:14;-3;0;0;15:38;RFI
-2026-11-08;3890;REG;Trieste Centrale;S02593;Venezia S. Lucia;18:15;2;0;0;16:35;RFI
+2026-11-08;3890;REG;Trieste Centrale;S02593;Venezia S. Lucia;18:15;-3;0;0;17:38;RFI
 2026-11-08;3902;REG;Ancona;S05043;Bologna Centrale;07:26;2;0;0;06:48;RFI
 2026-11-08;3904;REG;Ancona;S05043;Bologna Centrale;08:26;3;0;0;07:55;RFI
 2026-11-08;3905;REG;Piacenza;S05043;Bologna Centrale;07:29;1;0;0;06:48;RFI
@@ -1856,13 +2023,16 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;3918;REG;Ancona;S05043;Bologna Centrale;15:26;-1;0;1;15:38;RFI
 2026-11-08;3919;REG;Piacenza;S05043;Bologna Centrale;11:25;5;0;0;11:41;RFI
 2026-11-08;3920;REG;Rimini;S05043;Bologna Centrale;16:26;2;0;1;16:35;RFI
-2026-11-08;3922;REG;Ancona;S05043;Bologna Centrale;17:26;2;0;0;16:35;RFI
+2026-11-08;3922;REG;Ancona;S05043;Bologna Centrale;17:26;1;0;1;17:38;RFI
+2026-11-08;3924;REG;Rimini;S05043;Bologna Centrale;18:26;3;0;0;17:38;RFI
 2026-11-08;3925;REG;Piacenza;S05043;Bologna Centrale;14:25;1;0;0;13:47;RFI
 2026-11-08;3927;REG;Piacenza;S05043;Bologna Centrale;15:25;2;0;1;15:38;RFI
 2026-11-08;3929;REG;Piacenza;S05043;Bologna Centrale;16:25;1;0;1;16:35;RFI
-2026-11-08;3931;REG;Piacenza;S05043;Bologna Centrale;17:25;0;0;0;16:35;RFI
+2026-11-08;3931;REG;Piacenza;S05043;Bologna Centrale;17:25;3;0;1;17:38;RFI
+2026-11-08;3935;REG;Piacenza;S05043;Bologna Centrale;18:25;5;0;0;17:38;RFI
 2026-11-08;394;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;00:14;1;0;0;00:09;RFI
 2026-11-08;3953;REG;Piacenza;S05043;Bologna Centrale;13:24;-1;0;0;12:37;RFI
+2026-11-08;3955;REG;Piacenza;S05043;Bologna Centrale;18:20;8;0;0;17:38;RFI
 2026-11-08;3962;REG;Rovigo;S02581;Padova;08:51;1;0;1;08:58;RFI
 2026-11-08;3962;REG;Rovigo;S02593;Venezia S. Lucia;09:20;1;0;0;08:58;RFI
 2026-11-08;3963;REG;Venezia S.Lucia;S02581;Padova;07:07;-1;0;0;06:48;RFI
@@ -1889,12 +2059,16 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;3980;REG;Bologna Centrale;S02581;Padova;15:51;3;0;0;15:38;RFI
 2026-11-08;3980;REG;Bologna Centrale;S02593;Venezia S. Lucia;16:20;-3;0;1;16:35;RFI
 2026-11-08;3981;REG;Venezia S.Lucia;S02581;Padova;16:07;0;0;0;15:38;RFI
-2026-11-08;3981;REG;Venezia S.Lucia;S05043;Bologna Centrale;17:45;0;0;0;16:35;RFI
+2026-11-08;3981;REG;Venezia S.Lucia;S05043;Bologna Centrale;17:45;3;0;0;17:38;RFI
 2026-11-08;3982;REG;Bologna Centrale;S02581;Padova;16:51;1;0;0;16:35;RFI
-2026-11-08;3982;REG;Bologna Centrale;S02593;Venezia S. Lucia;17:20;1;0;0;16:35;RFI
+2026-11-08;3982;REG;Bologna Centrale;S02593;Venezia S. Lucia;17:20;2;0;1;17:38;RFI
 2026-11-08;3983;REG;Venezia S.Lucia;S02581;Padova;17:07;0;0;0;16:35;RFI
-2026-11-08;3984;REG;Bologna Centrale;S02581;Padova;17:51;7;0;0;16:35;RFI
-2026-11-08;3985;REG;Venezia S.Lucia;S02581;Padova;18:07;0;0;0;16:35;RFI
+2026-11-08;3983;REG;Venezia S.Lucia;S05043;Bologna Centrale;18:45;1;0;0;17:38;RFI
+2026-11-08;3984;REG;Bologna Centrale;S02581;Padova;17:51;2;0;0;17:38;RFI
+2026-11-08;3984;REG;Bologna Centrale;S02593;Venezia S. Lucia;18:20;2;0;0;17:38;RFI
+2026-11-08;3985;REG;Venezia S.Lucia;S02581;Padova;18:07;0;0;0;17:38;RFI
+2026-11-08;3986;REG;Bologna Centrale;S02581;Padova;18:51;1;0;0;17:38;RFI
+2026-11-08;3987;REG;Venezia S.Lucia;S02581;Padova;19:07;0;0;0;17:38;RFI
 2026-11-08;3994;REG;Rovigo;S02581;Padova;12:51;2;0;0;12:37;RFI
 2026-11-08;3994;REG;Rovigo;S02593;Venezia S. Lucia;13:20;2;0;0;12:37;RFI
 2026-11-08;3997;REG;Venezia S.Lucia;S02581;Padova;10:07;-3;0;0;09:49;RFI
@@ -1911,9 +2085,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;4037;REG;Milano Cadorna;S01933;Saronno;12:11;0;0;0;11:41;RFI
 2026-11-08;4038;REG;Livorno Centrale;S06421;Firenze S.M.N.;15:33;0;0;1;15:38;RFI
 2026-11-08;4043;REG;Milano Cadorna;S01933;Saronno;13:11;0;0;0;12:37;RFI
-2026-11-08;4044;REG;Livorno Centrale;S06421;Firenze S.M.N.;17:33;1;0;0;16:35;RFI
-2026-11-08;4046;REG;Livorno Centrale;S06421;Firenze S.M.N.;18:01;0;0;0;16:35;RFI
+2026-11-08;4044;REG;Livorno Centrale;S06421;Firenze S.M.N.;17:33;5;0;1;17:38;RFI
+2026-11-08;4046;REG;Livorno Centrale;S06421;Firenze S.M.N.;18:01;4;0;0;17:38;RFI
 2026-11-08;4048;REG;Laveno Mombello Lago;S01933;Saronno;13:47;-4;0;1;13:47;RFI
+2026-11-08;4050;REG;Livorno Centrale;S06421;Firenze S.M.N.;18:33;3;0;0;17:38;RFI
 2026-11-08;4054;REG;Laveno Mombello Lago;S01933;Saronno;14:47;-1;0;1;14:49;RFI
 2026-11-08;4094;REG;Roma Termini;S06421;Firenze S.M.N.;09:52;4;0;0;09:49;RFI
 2026-11-08;4094;REG;Roma Termini;S08217;Roma Tiburtina;05:36;-2;0;1;05:51;RFI
@@ -1927,9 +2102,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;41;EC;Domodossola;S02581;Padova;12:14;5;0;0;11:41;RFI
 2026-11-08;41;EC;Domodossola;S02593;Venezia S. Lucia;12:44;18;0;0;12:37;RFI
 2026-11-08;4100;REG;Roma Tiburtina;S06421;Firenze S.M.N.;14:54;21;0;0;14:49;RFI
+2026-11-08;4104;REG;Orte;S06421;Firenze S.M.N.;18:48;10;0;0;17:38;RFI
 2026-11-08;4105;REG;Firenze Santa Maria Novella;S08217;Roma Tiburtina;16:48;-2;0;0;16:35;RFI
 2026-11-08;4105;REG;Firenze Santa Maria Novella;S08409;Roma Termini;17:05;-2;0;0;16:35;RFI
-2026-11-08;4106;REG;Roma Termini;S08217;Roma Tiburtina;17:28;0;0;0;16:35;RFI
+2026-11-08;4106;REG;Roma Termini;S08217;Roma Tiburtina;17:28;4;0;1;17:38;RFI
 2026-11-08;4113;REG;Milano Cadorna;S01933;Saronno;07:02;2;0;0;06:48;RFI
 2026-11-08;4113;REG;Firenze Santa Maria Novella;S08217;Roma Tiburtina;00:36;-9;0;0;00:09;RFI
 2026-11-08;4113;REG;Firenze Santa Maria Novella;S08409;Roma Termini;01:06;-9;0;0;00:09;RFI
@@ -1937,16 +2113,17 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;4125;REG;Pisa Centrale;S08409;Roma Termini;09:48;4;0;0;09:49;RFI
 2026-11-08;4127;REG;Pisa Centrale;S08409;Roma Termini;11:50;21;0;0;11:41;RFI
 2026-11-08;4131;REG;Pisa Centrale;S08409;Roma Termini;15:48;1;0;0;15:38;RFI
-2026-11-08;4133;REG;Pisa Centrale;S08409;Roma Termini;17:48;3;0;0;16:35;RFI
+2026-11-08;4133;REG;Pisa Centrale;S08409;Roma Termini;17:48;13;0;0;17:38;RFI
 2026-11-08;4150;REG;Roma Termini;S08217;Roma Tiburtina;05:53;0;0;0;05:51;RFI
 2026-11-08;4151;REG;Ancona;S08217;Roma Tiburtina;07:14;-4;0;0;06:48;RFI
 2026-11-08;4151;REG;Ancona;S08409;Roma Termini;07:24;-4;0;0;06:48;RFI
 2026-11-08;4153;REG;Ancona;S08217;Roma Tiburtina;12:48;-3;0;0;12:37;RFI
 2026-11-08;4153;REG;Ancona;S08409;Roma Termini;13:00;-3;0;0;12:37;RFI
 2026-11-08;4154;REG;Roma Termini;S08217;Roma Tiburtina;13:29;0;0;0;12:37;RFI
-2026-11-08;4155;REG;Ancona;S08217;Roma Tiburtina;17:46;1;0;0;16:35;RFI
-2026-11-08;4155;REG;Ancona;S08409;Roma Termini;18:10;1;0;0;16:35;RFI
+2026-11-08;4155;REG;Ancona;S08217;Roma Tiburtina;17:46;7;0;0;17:38;RFI
+2026-11-08;4155;REG;Ancona;S08409;Roma Termini;18:10;7;0;0;17:38;RFI
 2026-11-08;4156;REG;Roma Termini;S08217;Roma Tiburtina;16:06;0;0;0;15:38;RFI
+2026-11-08;4196;REG;Roma Termini;S08217;Roma Tiburtina;19:04;0;0;0;17:38;RFI
 2026-11-08;4213;REG;Milano Cadorna;S01933;Saronno;07:06;-1;0;0;06:48;RFI
 2026-11-08;4214;REG;Novara Nord;S01933;Saronno;06:52;4;0;0;06:48;RFI
 2026-11-08;4217;REG;Milano Cadorna;S01933;Saronno;08:06;2;0;0;07:55;RFI
@@ -1969,8 +2146,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;4255;REG;Milano Cadorna;S01933;Saronno;16:06;0;0;0;15:38;RFI
 2026-11-08;4259;REG;Milano Cadorna;S01933;Saronno;17:06;0;0;0;16:35;RFI
 2026-11-08;4260;REG;Novara Nord;S01933;Saronno;16:52;3;0;0;16:35;RFI
-2026-11-08;4265;REG;Milano Cadorna;S01933;Saronno;18:06;0;0;0;16:35;RFI
-2026-11-08;4266;REG;Novara Nord;S01933;Saronno;17:52;0;0;0;16:35;RFI
+2026-11-08;4265;REG;Milano Cadorna;S01933;Saronno;18:06;0;0;0;17:38;RFI
+2026-11-08;4266;REG;Novara Nord;S01933;Saronno;17:52;1;0;0;17:38;RFI
+2026-11-08;4270;REG;Novara Nord;S01933;Saronno;18:52;0;0;0;17:38;RFI
+2026-11-08;4273;REG;Milano Cadorna;S01933;Saronno;19:06;0;0;0;17:38;RFI
 2026-11-08;4296;REG;Taranto;S09218;Napoli Centrale;15:20;-6;0;1;15:38;RFI
 2026-11-08;4296;REG;Taranto;S09818;Salerno;13:59;1;0;0;13:47;RFI
 2026-11-08;4297;REG;Napoli Centrale;S09818;Salerno;16:58;6;0;0;16:35;RFI
@@ -1981,7 +2160,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;4333;REG;Foggia;S11119;Bari Centrale;12:05;2;0;0;11:41;RFI
 2026-11-08;4341;REG;Foggia;S11119;Bari Centrale;13:42;-1;0;1;13:47;RFI
 2026-11-08;4351;REG;Foggia;S11119;Bari Centrale;16:04;1;0;0;15:38;RFI
-2026-11-08;4357;REG;Foggia;S11119;Bari Centrale;18:13;0;0;0;16:35;RFI
+2026-11-08;4357;REG;Foggia;S11119;Bari Centrale;18:13;3;0;0;17:38;RFI
 2026-11-08;4372;REG;Brindisi;S11119;Bari Centrale;07:20;4;0;0;06:48;RFI
 2026-11-08;4376;REG;Lecce;S11119;Bari Centrale;06:54;5;0;0;06:48;RFI
 2026-11-08;4382;REG;Lecce;S11119;Bari Centrale;14:14;6;0;0;13:47;RFI
@@ -1992,11 +2171,12 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;4400;REG;Lecce;S11119;Bari Centrale;12:11;7;0;0;11:41;RFI
 2026-11-08;4420;REG;Lecce;S11119;Bari Centrale;16:11;4;0;0;15:38;RFI
 2026-11-08;4424;REG;Lecce;S11119;Bari Centrale;17:11;1;0;0;16:35;RFI
-2026-11-08;4430;REG;Lecce;S11119;Bari Centrale;17:58;-2;0;0;16:35;RFI
+2026-11-08;4430;REG;Lecce;S11119;Bari Centrale;17:58;3;0;0;17:38;RFI
 2026-11-08;4450;REG;Lecce;S11119;Bari Centrale;08:45;-1;0;1;08:58;RFI
-2026-11-08;45;EC;Domodossola;S01700;Milano Centrale;17:50;1;0;0;16:35;RFI
+2026-11-08;45;EC;Domodossola;S01700;Milano Centrale;17:50;2;0;0;17:38;RFI
 2026-11-08;4507;REG;Grosseto;S08409;Roma Termini;08:50;-1;0;1;08:58;RFI
 2026-11-08;4510;REG;Roma Termini;S08217;Roma Tiburtina;11:36;2;0;1;11:41;RFI
+2026-11-08;4511;REG;Grosseto;S08409;Roma Termini;18:48;8;0;0;17:38;RFI
 2026-11-08;4515;REG;Sulmona;S08409;Roma Termini;08:45;-3;0;1;08:58;RFI
 2026-11-08;4549;REG;Avezzano;S08409;Roma Termini;12:50;-2;0;0;12:37;RFI
 2026-11-08;4551;REG;Avezzano;S08409;Roma Termini;13:45;-18;0;1;13:47;RFI
@@ -2016,8 +2196,9 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;4595;REG;Fiumicino Aeroporto;S08409;Roma Termini;09:55;-1;0;0;09:49;RFI
 2026-11-08;4597;REG;Fiumicino Aeroporto;S08409;Roma Termini;11:10;2;0;0;10:45;RFI
 2026-11-08;4599;REG;Fiumicino Aeroporto;S08409;Roma Termini;10:25;0;0;0;09:49;RFI
-2026-11-08;46;EC;Venezia S.Lucia;S01717;Brescia;18:07;-1;0;0;16:35;RFI
-2026-11-08;46;EC;Venezia S.Lucia;S02430;Verona Porta Nuova;17:30;-1;0;0;16:35;RFI
+2026-11-08;46;EC;Venezia S.Lucia;S01700;Milano Centrale;18:55;16;0;0;17:38;RFI
+2026-11-08;46;EC;Venezia S.Lucia;S01717;Brescia;18:07;16;0;0;17:38;RFI
+2026-11-08;46;EC;Venezia S.Lucia;S02430;Verona Porta Nuova;17:30;16;0;0;17:38;RFI
 2026-11-08;46;EC;Venezia S.Lucia;S02581;Padova;16:44;-1;0;0;16:35;RFI
 2026-11-08;4601;REG;Fiumicino Aeroporto;S08409;Roma Termini;10:40;0;0;1;10:45;RFI
 2026-11-08;4603;REG;Fiumicino Aeroporto;S08409;Roma Termini;10:55;3;0;0;10:45;RFI
@@ -2041,10 +2222,14 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;4639;REG;Fiumicino Aeroporto;S08409;Roma Termini;16:40;1;0;0;16:35;RFI
 2026-11-08;4641;REG;Fiumicino Aeroporto;S08409;Roma Termini;16:55;0;0;0;16:35;RFI
 2026-11-08;4643;REG;Fiumicino Aeroporto;S08409;Roma Termini;17:10;0;0;0;16:35;RFI
-2026-11-08;4645;REG;Fiumicino Aeroporto;S08409;Roma Termini;17:25;0;0;0;16:35;RFI
-2026-11-08;4647;REG;Fiumicino Aeroporto;S08409;Roma Termini;17:40;0;0;0;16:35;RFI
-2026-11-08;4649;REG;Fiumicino Aeroporto;S08409;Roma Termini;17:55;0;0;0;16:35;RFI
-2026-11-08;4651;REG;Fiumicino Aeroporto;S08409;Roma Termini;18:10;0;0;0;16:35;RFI
+2026-11-08;4645;REG;Fiumicino Aeroporto;S08409;Roma Termini;17:25;-1;0;1;17:38;RFI
+2026-11-08;4647;REG;Fiumicino Aeroporto;S08409;Roma Termini;17:40;-3;0;0;17:38;RFI
+2026-11-08;4649;REG;Fiumicino Aeroporto;S08409;Roma Termini;17:55;0;0;0;17:38;RFI
+2026-11-08;4651;REG;Fiumicino Aeroporto;S08409;Roma Termini;18:10;0;0;0;17:38;RFI
+2026-11-08;4653;REG;Fiumicino Aeroporto;S08409;Roma Termini;18:25;0;0;0;17:38;RFI
+2026-11-08;4655;REG;Fiumicino Aeroporto;S08409;Roma Termini;18:40;0;0;0;17:38;RFI
+2026-11-08;4657;REG;Fiumicino Aeroporto;S08409;Roma Termini;18:55;0;0;0;17:38;RFI
+2026-11-08;4659;REG;Fiumicino Aeroporto;S08409;Roma Termini;19:10;0;0;0;17:38;RFI
 2026-11-08;4683;REG;Fiumicino Aeroporto;S08409;Roma Termini;11:25;-1;0;1;11:41;RFI
 2026-11-08;4693;REG;Fiumicino Aeroporto;S08409;Roma Termini;00:25;-5;0;0;00:09;RFI
 2026-11-08;4699;REG;Fiumicino Aeroporto;S08409;Roma Termini;00:55;0;0;0;00:09;RFI
@@ -2063,12 +2248,13 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;4729;REG;Perugia;S08217;Roma Tiburtina;16:30;1;0;1;16:35;RFI
 2026-11-08;4729;REG;Perugia;S08409;Roma Termini;16:43;1;0;0;16:35;RFI
 2026-11-08;4730;REG;Roma Termini;S08217;Roma Tiburtina;14:26;0;0;0;13:47;RFI
-2026-11-08;4732;REG;Roma Termini;S08217;Roma Tiburtina;18:10;0;0;0;16:35;RFI
+2026-11-08;4732;REG;Roma Termini;S08217;Roma Tiburtina;18:10;0;0;0;17:38;RFI
 2026-11-08;4736;REG;Roma Termini;S08217;Roma Tiburtina;16:38;0;0;0;16:35;RFI
 2026-11-08;4873;REG;Caserta;S09818;Salerno;09:40;0;0;1;09:49;RFI
 2026-11-08;4875;REG;Caserta;S09818;Salerno;10:02;-10;0;0;09:49;RFI
 2026-11-08;4883;REG;Caserta;S09818;Salerno;16:43;2;0;0;16:35;RFI
-2026-11-08;4885;REG;Caserta;S09818;Salerno;17:47;0;0;0;16:35;RFI
+2026-11-08;4885;REG;Caserta;S09818;Salerno;17:47;3;0;0;17:38;RFI
+2026-11-08;4887;REG;Caserta;S09818;Salerno;18:43;0;0;0;17:38;RFI
 2026-11-08;4898;REG;Battipaglia;S09818;Salerno;16:42;4;0;0;16:35;RFI
 2026-11-08;4899;REG;Caserta;S09818;Salerno;14:49;-2;0;1;14:49;RFI
 2026-11-08;4915;REG;Breno;S01717;Brescia;07:56;4;0;0;07:55;RFI
@@ -2083,12 +2269,12 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;5079;REG;Nocera Inferiore;S09818;Salerno;07:04;1;0;0;06:48;RFI
 2026-11-08;5083;REG;Nocera Inferiore;S09818;Salerno;09:10;-1;0;0;08:58;RFI
 2026-11-08;51;REG;Milano Cadorna;S01933;Saronno;15:11;0;0;0;14:49;RFI
-2026-11-08;510;IC;Salerno;S00219;Torino Porta Nuova;17:40;-13;0;0;16:35;RFI
+2026-11-08;510;IC;Salerno;S00219;Torino Porta Nuova;17:40;-11;0;1;17:38;RFI
 2026-11-08;510;IC;Salerno;S04700;Genova Piazza Principe;15:35;4;0;1;15:38;RFI
 2026-11-08;510;IC;Salerno;S08409;Roma Termini;09:34;2;0;1;09:49;RFI
 2026-11-08;510;IC;Salerno;S09218;Napoli Centrale;07:18;5;0;0;06:48;RFI
 2026-11-08;511;IC;Torino Porta Nuova;S04700;Genova Piazza Principe;12:21;4;0;0;11:41;RFI
-2026-11-08;511;IC;Torino Porta Nuova;S08409;Roma Termini;18:03;35;0;0;16:35;RFI
+2026-11-08;511;IC;Torino Porta Nuova;S08409;Roma Termini;18:03;36;0;0;17:38;RFI
 2026-11-08;515;IC;Savona;S00219;Torino Porta Nuova;13:50;-2;0;0;13:47;RFI
 2026-11-08;515;IC;Savona;S04700;Genova Piazza Principe;11:42;-6;0;1;11:41;RFI
 2026-11-08;5185;REG;Boiano;S09218;Napoli Centrale;10:25;-1;0;0;09:49;RFI
@@ -2105,9 +2291,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;5226;REG;Sapri;S09218;Napoli Centrale;15:50;2;0;0;15:38;RFI
 2026-11-08;5226;REG;Sapri;S09818;Salerno;14:58;-2;0;0;14:49;RFI
 2026-11-08;5233;REG;Napoli Centrale;S09818;Salerno;15:06;2;0;0;14:49;RFI
+2026-11-08;5245;REG;Napoli Centrale;S09818;Salerno;18:55;0;0;0;17:38;RFI
 2026-11-08;533;IC;Ancona;S08217;Roma Tiburtina;09:31;1;0;0;08:58;RFI
 2026-11-08;533;IC;Ancona;S08409;Roma Termini;09:50;-7;0;1;09:49;RFI
-2026-11-08;5337;REG;Napoli Centrale;S09818;Salerno;18:00;0;0;0;16:35;RFI
+2026-11-08;5337;REG;Napoli Centrale;S09818;Salerno;18:00;5;0;0;17:38;RFI
 2026-11-08;534;IC;Roma Termini;S08217;Roma Tiburtina;07:21;0;0;0;06:48;RFI
 2026-11-08;540;IC;Roma Termini;S08217;Roma Tiburtina;15:18;0;0;0;14:49;RFI
 2026-11-08;55;REG;Milano Cadorna;S01933;Saronno;16:11;0;0;0;15:38;RFI
@@ -2120,16 +2307,18 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;552;IC;Reggio Di Calabria Centrale;S09818;Salerno;12:20;-1;0;1;12:37;RFI
 2026-11-08;553;IC;Roma Termini;S09818;Salerno;15:24;9;0;1;15:38;RFI
 2026-11-08;555;IC;Roma Termini;S09218;Napoli Centrale;16:29;-2;0;1;16:35;RFI
-2026-11-08;556;IC;Reggio Di Calabria Centrale;S08409;Roma Termini;17:34;5;0;0;16:35;RFI
+2026-11-08;555;IC;Roma Termini;S09818;Salerno;18:16;2;0;0;17:38;RFI
+2026-11-08;556;IC;Reggio Di Calabria Centrale;S08409;Roma Termini;17:34;0;0;1;17:38;RFI
 2026-11-08;556;IC;Reggio Di Calabria Centrale;S09218;Napoli Centrale;15:20;2;0;1;15:38;RFI
 2026-11-08;556;IC;Reggio Di Calabria Centrale;S09818;Salerno;13:50;1;0;0;13:47;RFI
 2026-11-08;5577;REG;Napoli Centrale;S09818;Salerno;07:58;7;0;0;07:55;RFI
 2026-11-08;5578;REG;Cosenza;S09218;Napoli Centrale;10:49;7;0;0;10:45;RFI
 2026-11-08;5578;REG;Cosenza;S09818;Salerno;09:33;7;0;1;09:49;RFI
-2026-11-08;5580;REG;Cosenza;S09218;Napoli Centrale;18:02;5;0;0;16:35;RFI
+2026-11-08;5580;REG;Cosenza;S09218;Napoli Centrale;18:02;-7;0;0;17:38;RFI
 2026-11-08;5580;REG;Cosenza;S09818;Salerno;16:58;5;0;0;16:35;RFI
 2026-11-08;5581;REG;Napoli S.Giovanni Barra;S09818;Salerno;09:33;0;0;0;08:58;RFI
 2026-11-08;5583;REG;Napoli Centrale;S09818;Salerno;13:30;0;0;0;12:37;RFI
+2026-11-08;5584;REG;Cosenza;S09818;Salerno;18:28;6;0;0;17:38;RFI
 2026-11-08;5592;REG;Paola;S09218;Napoli Centrale;16:50;3;0;0;16:35;RFI
 2026-11-08;5592;REG;Paola;S09818;Salerno;15:58;1;0;0;15:38;RFI
 2026-11-08;56;REG;Laveno Mombello Lago;S01933;Saronno;15:47;2;0;0;15:38;RFI
@@ -2151,8 +2340,10 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;5732;REG;Arechi;S09818;Salerno;14:56;2;0;0;14:49;RFI
 2026-11-08;5738;REG;Arechi;S09818;Salerno;16:26;2;0;1;16:35;RFI
 2026-11-08;5740;REG;Arechi;S09818;Salerno;16:56;0;0;0;16:35;RFI
-2026-11-08;5742;REG;Arechi;S09818;Salerno;17:26;0;0;0;16:35;RFI
-2026-11-08;5744;REG;Arechi;S09818;Salerno;17:56;0;0;0;16:35;RFI
+2026-11-08;5742;REG;Arechi;S09818;Salerno;17:26;1;0;1;17:38;RFI
+2026-11-08;5744;REG;Arechi;S09818;Salerno;17:56;0;0;0;17:38;RFI
+2026-11-08;5746;REG;Arechi;S09818;Salerno;18:26;0;0;0;17:38;RFI
+2026-11-08;5748;REG;Arechi;S09818;Salerno;18:56;0;0;0;17:38;RFI
 2026-11-08;5781;REG;Caserta;S09218;Napoli Centrale;16:46;0;0;0;16:35;RFI
 2026-11-08;5793;REG;Caserta;S09218;Napoli Centrale;09:46;-4;0;1;09:49;RFI
 2026-11-08;58;REG;Laveno Mombello Lago;S01933;Saronno;16:47;1;0;0;16:35;RFI
@@ -2176,6 +2367,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;5855;REG;Civitavecchia;S08409;Roma Termini;12:48;-2;0;0;12:37;RFI
 2026-11-08;588;IC;Roma Termini;S02581;Padova;15:58;5;0;0;15:38;RFI
 2026-11-08;588;IC;Roma Termini;S05043;Bologna Centrale;14:47;-3;0;1;14:49;RFI
+2026-11-08;590;IC;Salerno;S01820;Milano Rogoredo;19:14;8;0;0;17:38;RFI
 2026-11-08;590;IC;Salerno;S05043;Bologna Centrale;16:50;11;0;0;16:35;RFI
 2026-11-08;590;IC;Salerno;S08217;Roma Tiburtina;12:40;19;0;0;12:37;RFI
 2026-11-08;590;IC;Salerno;S09218;Napoli Centrale;09:55;-12;0;1;09:49;RFI
@@ -2187,7 +2379,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;597;IC;Milano Centrale;S01820;Milano Rogoredo;13:58;0;0;0;13:47;RFI
 2026-11-08;597;IC;Milano Centrale;S05043;Bologna Centrale;16:14;1;0;0;15:38;RFI
 2026-11-08;597;IC;Milano Centrale;S09818;Salerno;00:22;-5;0;0;00:09;RFI
-2026-11-08;599;IC;Milano Centrale;S01820;Milano Rogoredo;17:58;0;0;0;16:35;RFI
+2026-11-08;599;IC;Milano Centrale;S01820;Milano Rogoredo;17:58;0;0;0;17:38;RFI
 2026-11-08;603;IC;Milano Centrale;S05043;Bologna Centrale;07:57;-3;0;0;07:55;RFI
 2026-11-08;603;IC;Milano Centrale;S11119;Bari Centrale;15:05;5;0;0;14:49;RFI
 2026-11-08;604;IC;Pescara;S01700;Milano Centrale;13:40;-1;0;1;13:47;RFI
@@ -2200,21 +2392,24 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;606;IC;Bari Centrale;S05043;Bologna Centrale;13:00;3;0;0;12:37;RFI
 2026-11-08;607;IC;Milano Porta Garibaldi;S01820;Milano Rogoredo;09:36;2;0;1;09:49;RFI
 2026-11-08;607;IC;Milano Porta Garibaldi;S05043;Bologna Centrale;11:56;2;0;0;11:41;RFI
-2026-11-08;608;IC;Lecce;S01700;Milano Centrale;17:45;5;0;0;16:35;RFI
-2026-11-08;608;IC;Lecce;S01820;Milano Rogoredo;17:31;5;0;0;16:35;RFI
+2026-11-08;607;IC;Milano Porta Garibaldi;S11119;Bari Centrale;18:58;2;0;0;17:38;RFI
+2026-11-08;608;IC;Lecce;S01700;Milano Centrale;17:45;-3;0;0;17:38;RFI
+2026-11-08;608;IC;Lecce;S01820;Milano Rogoredo;17:31;-3;0;1;17:38;RFI
 2026-11-08;608;IC;Lecce;S05043;Bologna Centrale;15:00;7;0;0;14:49;RFI
 2026-11-08;608;IC;Lecce;S11119;Bari Centrale;08:02;-5;0;0;07:55;RFI
 2026-11-08;609;IC;Milano Centrale;S01820;Milano Rogoredo;11:26;13;0;1;11:41;RFI
 2026-11-08;609;IC;Milano Centrale;S05043;Bologna Centrale;13:56;2;0;0;13:47;RFI
 2026-11-08;61;EC;Domodossola;S01700;Milano Centrale;10:50;3;0;0;10:45;RFI
 2026-11-08;61;REG;Milano Cadorna;S01933;Saronno;17:11;0;0;0;16:35;RFI
+2026-11-08;610;IC;Lecce;S02430;Verona Porta Nuova;18:35;-5;0;0;17:38;RFI
 2026-11-08;610;IC;Lecce;S05043;Bologna Centrale;17:00;1;0;0;16:35;RFI
 2026-11-08;610;IC;Lecce;S11119;Bari Centrale;09:51;-2;0;1;09:49;RFI
 2026-11-08;611;IC;Bolzano;S02430;Verona Porta Nuova;14:02;4;0;0;13:47;RFI
 2026-11-08;611;IC;Bolzano;S05043;Bologna Centrale;15:37;-6;0;1;15:38;RFI
+2026-11-08;612;IC;Lecce;S05043;Bologna Centrale;19:01;29;0;0;17:38;RFI
 2026-11-08;612;IC;Lecce;S11119;Bari Centrale;11:43;-4;0;1;11:41;RFI
 2026-11-08;613;IC;Milano Centrale;S01820;Milano Rogoredo;15:13;0;0;0;14:49;RFI
-2026-11-08;613;IC;Milano Centrale;S05043;Bologna Centrale;17:54;-1;0;0;16:35;RFI
+2026-11-08;613;IC;Milano Centrale;S05043;Bologna Centrale;17:54;-3;0;0;17:38;RFI
 2026-11-08;614;IC;Lecce;S11119;Bari Centrale;13:44;-11;0;1;13:47;RFI
 2026-11-08;63;EC;Domodossola;S01700;Milano Centrale;14:55;2;0;0;14:49;RFI
 2026-11-08;631;IC;Ventimiglia;S01700;Milano Centrale;13:00;-3;0;0;12:37;RFI
@@ -2222,6 +2417,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;631;IC;Ventimiglia;S04700;Genova Piazza Principe;11:05;-1;0;0;10:45;RFI
 2026-11-08;633;IC;Milano Centrale;S01860;Pavia;07:34;9;0;1;07:55;RFI
 2026-11-08;633;IC;Milano Centrale;S04700;Genova Piazza Principe;08:44;6;0;1;08:58;RFI
+2026-11-08;635;IC;Ventimiglia;S01700;Milano Centrale;19:00;1;0;0;17:38;RFI
+2026-11-08;635;IC;Ventimiglia;S01860;Pavia;18:24;1;0;0;17:38;RFI
 2026-11-08;635;IC;Ventimiglia;S04700;Genova Piazza Principe;17:05;1;0;0;16:35;RFI
 2026-11-08;637;IC;Milano Centrale;S01860;Pavia;11:34;7;0;1;11:41;RFI
 2026-11-08;637;IC;Milano Centrale;S04700;Genova Piazza Principe;12:44;3;0;0;12:37;RFI
@@ -2245,7 +2442,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;658;IC;Livorno Centrale;S04700;Genova Piazza Principe;08:16;5;0;0;07:55;RFI
 2026-11-08;659;IC;Milano Centrale;S01860;Pavia;09:34;7;0;1;09:49;RFI
 2026-11-08;659;IC;Milano Centrale;S04700;Genova Piazza Principe;10:44;1;0;1;10:45;RFI
-2026-11-08;66;REG;Laveno Mombello Lago;S01933;Saronno;17:47;0;0;0;16:35;RFI
+2026-11-08;66;REG;Laveno Mombello Lago;S01933;Saronno;17:47;3;0;0;17:38;RFI
 2026-11-08;6614;REG;Milano Centrale;S00219;Torino Porta Nuova;09:10;6;0;0;08:58;RFI
 2026-11-08;6616;REG;Milano Centrale;S00219;Torino Porta Nuova;08:10;5;0;0;07:55;RFI
 2026-11-08;6618;REG;Milano Centrale;S00219;Torino Porta Nuova;01:10;1;0;0;00:09;RFI
@@ -2261,29 +2458,35 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;669;IC;Milano Centrale;S01820;Milano Rogoredo;14:14;0;0;0;13:47;RFI
 2026-11-08;669;IC;Milano Centrale;S01860;Pavia;14:34;6;0;1;14:49;RFI
 2026-11-08;669;IC;Milano Centrale;S04700;Genova Piazza Principe;15:44;-2;0;0;15:38;RFI
+2026-11-08;6693;REG;Caserta;S09218;Napoli Centrale;18:51;0;0;0;17:38;RFI
 2026-11-08;6699;REG;Caserta;S09218;Napoli Centrale;11:46;-1;0;0;11:41;RFI
-2026-11-08;67;REG;Milano Cadorna;S01933;Saronno;18:11;0;0;0;16:35;RFI
+2026-11-08;67;REG;Milano Cadorna;S01933;Saronno;18:11;0;0;0;17:38;RFI
 2026-11-08;670;IC;Livorno Centrale;S01700;Milano Centrale;16:00;3;0;0;15:38;RFI
 2026-11-08;670;IC;Livorno Centrale;S01860;Pavia;15:24;3;0;1;15:38;RFI
 2026-11-08;670;IC;Livorno Centrale;S04700;Genova Piazza Principe;14:16;0;0;0;13:47;RFI
 2026-11-08;673;IC;Milano Centrale;S01820;Milano Rogoredo;16:13;0;0;0;15:38;RFI
 2026-11-08;673;IC;Milano Centrale;S01860;Pavia;16:34;-3;0;1;16:35;RFI
-2026-11-08;673;IC;Milano Centrale;S04700;Genova Piazza Principe;17:44;-3;0;0;16:35;RFI
-2026-11-08;674;IC;Livorno Centrale;S01700;Milano Centrale;18:00;3;0;0;16:35;RFI
-2026-11-08;674;IC;Livorno Centrale;S01860;Pavia;17:24;3;0;0;16:35;RFI
+2026-11-08;673;IC;Milano Centrale;S04700;Genova Piazza Principe;17:44;-2;0;0;17:38;RFI
+2026-11-08;674;IC;Livorno Centrale;S01700;Milano Centrale;18:00;10;0;0;17:38;RFI
+2026-11-08;674;IC;Livorno Centrale;S01860;Pavia;17:24;12;0;1;17:38;RFI
 2026-11-08;674;IC;Livorno Centrale;S04700;Genova Piazza Principe;16:14;2;0;0;15:38;RFI
 2026-11-08;675;IC;Milano Centrale;S01820;Milano Rogoredo;17:13;0;0;0;16:35;RFI
-2026-11-08;675;IC;Milano Centrale;S01860;Pavia;17:34;0;0;0;16:35;RFI
-2026-11-08;679;IC;Milano Centrale;S01820;Milano Rogoredo;18:13;0;0;0;16:35;RFI
-2026-11-08;680;IC;La Spezia Centrale;S04700;Genova Piazza Principe;18:15;0;0;0;16:35;RFI
+2026-11-08;675;IC;Milano Centrale;S01860;Pavia;17:34;0;0;1;17:38;RFI
+2026-11-08;675;IC;Milano Centrale;S04700;Genova Piazza Principe;18:44;0;0;0;17:38;RFI
+2026-11-08;679;IC;Milano Centrale;S01820;Milano Rogoredo;18:13;0;0;0;17:38;RFI
+2026-11-08;679;IC;Milano Centrale;S01860;Pavia;18:34;0;0;0;17:38;RFI
+2026-11-08;680;IC;La Spezia Centrale;S04700;Genova Piazza Principe;18:15;2;0;0;17:38;RFI
+2026-11-08;681;IC;Ventimiglia;S04700;Genova Piazza Principe;19:08;-1;0;0;17:38;RFI
+2026-11-08;685;IC;Milano Centrale;S01820;Milano Rogoredo;19:13;0;0;0;17:38;RFI
+2026-11-08;70;REG;Laveno Mombello Lago;S01933;Saronno;18:47;0;0;0;17:38;RFI
 2026-11-08;700;IC;Taranto;S08409;Roma Termini;14:34;8;0;1;14:49;RFI
 2026-11-08;700;IC;Taranto;S09818;Salerno;11:44;5;0;0;11:41;RFI
 2026-11-08;701;IC;Roma Termini;S09818;Salerno;09:23;13;0;0;08:58;RFI
-2026-11-08;702;IC;Taranto;S09818;Salerno;17:36;-1;0;0;16:35;RFI
+2026-11-08;702;IC;Taranto;S09818;Salerno;17:36;2;0;1;17:38;RFI
 2026-11-08;703;IC;Roma Termini;S11119;Bari Centrale;14:02;0;0;0;13:47;RFI
 2026-11-08;70321;ITA;Vicenza;ITPD_;Padova;08:22;0;0;0;07:55;Italo
 2026-11-08;70321;ITA;Vicenza;ITVEM;Venezia Mestre;08:44;0;0;0;07:55;Italo
-2026-11-08;707;IC;Roma Termini;S09818;Salerno;17:53;1;0;0;16:35;RFI
+2026-11-08;707;IC;Roma Termini;S09818;Salerno;17:53;20;0;0;17:38;RFI
 2026-11-08;710;IC;Taranto;S11119;Bari Centrale;16:48;3;0;0;16:35;RFI
 2026-11-08;716;IC;Bari Centrale;S09218;Napoli Centrale;11:00;7;0;0;10:45;RFI
 2026-11-08;723;IC;Roma Termini;S09218;Napoli Centrale;08:58;-2;0;1;08:58;RFI
@@ -2305,6 +2508,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;7451;REG;Asti;S01860;Pavia;15:59;0;0;0;15:38;RFI
 2026-11-08;7461;REG;Perugia;S08217;Roma Tiburtina;14:00;1;0;0;13:47;RFI
 2026-11-08;7461;REG;Perugia;S08409;Roma Termini;14:15;7;0;0;13:47;RFI
+2026-11-08;75;REG;Milano Cadorna;S01933;Saronno;19:11;0;0;0;17:38;RFI
 2026-11-08;752;ICN;Lecce;S01700;Milano Centrale;07:15;18;0;0;06:48;RFI
 2026-11-08;755;ICN;Milano Centrale;S05043;Bologna Centrale;00:06;0;0;1;00:09;RFI
 2026-11-08;755;ICN;Milano Centrale;S11119;Bari Centrale;07:40;4;0;0;06:48;RFI
@@ -2338,21 +2542,22 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITAAV;Reggio Emilia AV;16:33;0;0;0;15:38;Italo
 2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITBC_;Bologna Centrale;16:03;0;0;0;15:38;Italo
 2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITMC_;Milano Centrale;17:20;0;0;0;16:35;Italo
-2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITOUE;Torino Porta Susa;18:24;0;0;0;16:35;Italo
+2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITOUE;Torino Porta Susa;18:24;0;0;0;17:38;Italo
 2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITRMT;Roma Termini;13:30;0;0;0;12:37;Italo
 2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITRTB;Roma Tiburtina;13:47;5;0;0;13:47;Italo
 2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITSAL;Salerno;11:50;0;0;0;11:41;Italo
 2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITSMN;Firenze S.M.N.;15:17;5;0;0;14:49;Italo
-2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITTOP;Torino Porta Nuova;18:35;0;0;0;16:35;Italo
+2026-11-08;8134;ITA;Reggio Di Calabria Centrale;ITTOP;Torino Porta Nuova;18:35;0;0;0;17:38;Italo
 2026-11-08;8143;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;15:26;0;0;0;14:49;Italo
 2026-11-08;8143;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;15:54;0;0;0;15:38;Italo
 2026-11-08;8143;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;14:30;0;0;0;13:47;Italo
 2026-11-08;8143;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;13:23;0;0;0;12:37;Italo
-2026-11-08;8143;ITA;Torino Porta Nuova;ITRMT;Roma Termini;18:19;0;0;0;16:35;Italo
-2026-11-08;8143;ITA;Torino Porta Nuova;ITSAL;Salerno;20:16;0;0;0;16:35;Italo
+2026-11-08;8143;ITA;Torino Porta Nuova;ITRMT;Roma Termini;18:19;0;0;0;17:38;Italo
+2026-11-08;8143;ITA;Torino Porta Nuova;ITSAL;Salerno;20:16;0;0;0;17:38;Italo
 2026-11-08;8143;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;16:35;0;0;1;16:35;Italo
 2026-11-08;815;REG;Milano Cadorna;S01933;Saronno;07:37;0;0;1;07:55;RFI
-2026-11-08;8158;ITA;Reggio Di Calabria Centrale;ITSAL;Salerno;17:56;10;0;0;16:35;Italo
+2026-11-08;8158;ITA;Reggio Di Calabria Centrale;ITAAV;Reggio Emilia AV;22:30;0;0;0;17:38;Italo
+2026-11-08;8158;ITA;Reggio Di Calabria Centrale;ITSAL;Salerno;17:56;10;0;0;17:38;Italo
 2026-11-08;817;REG;Milano Cadorna;S01933;Saronno;08:07;1;0;0;07:55;RFI
 2026-11-08;8191;ITA;Roma Termini;ITSAL;Salerno;07:38;0;0;0;06:48;Italo
 2026-11-08;8192;ITA;Reggio Di Calabria Centrale;ITNAC;Napoli Centrale;22:08;110;0;0;01:58;Italo
@@ -2373,15 +2578,17 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8306;FR;Lecce;S08409;Roma Termini;13:15;-18;0;0;12:37;RFI
 2026-11-08;8306;FR;Lecce;S11119;Bari Centrale;08:31;2;0;0;07:55;RFI
 2026-11-08;831;REG;Milano Cadorna;S01933;Saronno;11:07;5;0;0;10:45;RFI
-2026-11-08;8311;FR;Roma Termini;S11119;Bari Centrale;17:43;-12;0;0;16:35;RFI
+2026-11-08;8311;FR;Roma Termini;S11119;Bari Centrale;17:43;7;0;0;17:38;RFI
 2026-11-08;8314;FR;Lecce;S08409;Roma Termini;17:05;-16;0;0;16:35;RFI
 2026-11-08;8314;FR;Lecce;S11119;Bari Centrale;12:31;0;0;0;11:41;RFI
+2026-11-08;8326;FR;Lecce;S11119;Bari Centrale;18:26;0;0;0;17:38;RFI
 2026-11-08;833;REG;Milano Cadorna;S01933;Saronno;11:37;0;0;1;11:41;RFI
 2026-11-08;8333;FR;Roma Termini;S09818;Salerno;09:05;-2;0;0;08:58;RFI
 2026-11-08;8334;FR;Napoli Centrale;S08409;Roma Termini;07:00;-10;0;0;06:48;RFI
 2026-11-08;8335;FR;Roma Termini;S09218;Napoli Centrale;11:42;-9;0;1;11:41;RFI
 2026-11-08;83413;REG;Saronno;S01322;Monza;10:45;3;0;0;10:45;RFI
 2026-11-08;83413;REG;Saronno;S01820;Milano Rogoredo;11:16;1;0;1;11:41;RFI
+2026-11-08;8343;FR;Roma Termini;S09218;Napoli Centrale;18:35;-2;0;0;17:38;RFI
 2026-11-08;83472;REG;Milano Rogoredo;S01322;Monza;07:42;4;0;1;07:55;RFI
 2026-11-08;83472;REG;Milano Rogoredo;S01933;Saronno;08:24;4;0;0;07:55;RFI
 2026-11-08;83476;REG;Milano Rogoredo;S01322;Monza;08:42;0;0;0;07:55;RFI
@@ -2441,12 +2648,13 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8419;FR;Venezia S.Lucia;S05043;Bologna Centrale;13:59;-18;0;1;13:47;RFI
 2026-11-08;8419;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;14:39;-18;0;0;13:47;RFI
 2026-11-08;8419;FR;Venezia S.Lucia;S08409;Roma Termini;16:24;1;0;1;16:35;RFI
-2026-11-08;8419;FR;Venezia S.Lucia;S09818;Salerno;18:09;1;0;0;16:35;RFI
+2026-11-08;8419;FR;Venezia S.Lucia;S09818;Salerno;18:09;1;0;0;17:38;RFI
 2026-11-08;845;REG;Milano Cadorna;S01933;Saronno;14:07;1;0;0;13:47;RFI
 2026-11-08;847;REG;Milano Cadorna;S01933;Saronno;14:37;0;0;1;14:49;RFI
 2026-11-08;849;REG;Milano Cadorna;S01933;Saronno;15:07;3;0;0;14:49;RFI
 2026-11-08;85;EC;Brennero;S02430;Verona Porta Nuova;16:58;2;0;0;16:35;RFI
-2026-11-08;85;EC;Brennero;S02581;Padova;17:56;2;0;0;16:35;RFI
+2026-11-08;85;EC;Brennero;S02581;Padova;17:56;8;0;0;17:38;RFI
+2026-11-08;85;EC;Brennero;S02593;Venezia S. Lucia;18:27;8;0;0;17:38;RFI
 2026-11-08;8502;FR;Roma Termini;S02430;Verona Porta Nuova;10:08;-3;0;0;09:49;RFI
 2026-11-08;8502;FR;Roma Termini;S05043;Bologna Centrale;09:13;-1;0;0;08:58;RFI
 2026-11-08;8502;FR;Roma Termini;S06421;Firenze S.M.N.;08:27;-9;0;0;07:55;RFI
@@ -2484,16 +2692,22 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8519;FR;Bolzano;S02430;Verona Porta Nuova;14:40;1;0;1;14:49;RFI
 2026-11-08;8519;FR;Bolzano;S05043;Bologna Centrale;15:44;6;0;0;15:38;RFI
 2026-11-08;8519;FR;Bolzano;S06421;Firenze S.M.N.;16:24;3;0;1;16:35;RFI
-2026-11-08;8519;FR;Bolzano;S08409;Roma Termini;18:10;3;0;0;16:35;RFI
-2026-11-08;8520;FR;Roma Termini;S02430;Verona Porta Nuova;18:08;-3;0;0;16:35;RFI
+2026-11-08;8519;FR;Bolzano;S08409;Roma Termini;18:10;1;0;0;17:38;RFI
+2026-11-08;8520;FR;Roma Termini;S02430;Verona Porta Nuova;18:08;-3;0;0;17:38;RFI
 2026-11-08;8520;FR;Roma Termini;S05043;Bologna Centrale;17:13;-3;0;0;16:35;RFI
 2026-11-08;8520;FR;Roma Termini;S06421;Firenze S.M.N.;16:27;-3;0;1;16:35;RFI
 2026-11-08;8520;FR;Roma Termini;S08217;Roma Tiburtina;14:57;0;0;0;14:49;RFI
+2026-11-08;8524;FR;Roma Termini;S05043;Bologna Centrale;19:13;-1;0;0;17:38;RFI
+2026-11-08;8524;FR;Roma Termini;S06421;Firenze S.M.N.;18:27;-1;0;0;17:38;RFI
 2026-11-08;8524;FR;Roma Termini;S08217;Roma Tiburtina;16:57;0;0;0;16:35;RFI
 2026-11-08;8525;FR;Bolzano;S02430;Verona Porta Nuova;16:40;4;0;0;16:35;RFI
-2026-11-08;8525;FR;Bolzano;S05043;Bologna Centrale;17:44;4;0;0;16:35;RFI
-2026-11-08;8526;FR;Roma Termini;S08217;Roma Tiburtina;17:57;0;0;0;16:35;RFI
-2026-11-08;8527;FR;Brescia;S02430;Verona Porta Nuova;17:41;0;0;0;16:35;RFI
+2026-11-08;8525;FR;Bolzano;S05043;Bologna Centrale;17:44;13;0;0;17:38;RFI
+2026-11-08;8525;FR;Bolzano;S06421;Firenze S.M.N.;18:24;13;0;0;17:38;RFI
+2026-11-08;8526;FR;Roma Termini;S08217;Roma Tiburtina;17:57;0;0;0;17:38;RFI
+2026-11-08;8527;FR;Brescia;S02430;Verona Porta Nuova;17:41;8;0;0;17:38;RFI
+2026-11-08;8527;FR;Brescia;S05043;Bologna Centrale;18:44;8;0;0;17:38;RFI
+2026-11-08;8528;FR;Roma Termini;S08217;Roma Tiburtina;18:58;0;0;0;17:38;RFI
+2026-11-08;8529;FR;Bolzano;S02430;Verona Porta Nuova;18:40;2;0;0;17:38;RFI
 2026-11-08;855;REG;Milano Cadorna;S01933;Saronno;16:07;2;0;0;15:38;RFI
 2026-11-08;857;REG;Milano Cadorna;S01933;Saronno;16:37;5;0;0;16:35;RFI
 2026-11-08;8588;FA;Roma Termini;S04700;Genova Piazza Principe;11:05;-13;0;0;10:45;RFI
@@ -2503,13 +2717,17 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8605;FB;Genova Piazza Principe;S08409;Roma Termini;12:03;7;0;0;11:41;RFI
 2026-11-08;8606;FR;Roma Termini;S00219;Torino Porta Nuova;13:40;-2;0;1;13:47;RFI
 2026-11-08;8606;FR;Roma Termini;S04700;Genova Piazza Principe;11:53;-1;0;0;11:41;RFI
-2026-11-08;861;REG;Milano Cadorna;S01933;Saronno;17:37;0;0;0;16:35;RFI
-2026-11-08;8613;FB;Genova Piazza Principe;S08409;Roma Termini;17:03;67;0;0;16:35;RFI
+2026-11-08;861;REG;Milano Cadorna;S01933;Saronno;17:37;6;0;0;17:38;RFI
+2026-11-08;8613;FB;Genova Piazza Principe;S08409;Roma Termini;17:03;67;0;0;17:38;RFI
 2026-11-08;8616;FB;Roma Termini;S04700;Genova Piazza Principe;17:02;19;0;0;16:35;RFI
 2026-11-08;8619;FB;Milano Centrale;S01860;Pavia;13:34;4;0;1;13:47;RFI
 2026-11-08;8619;FB;Milano Centrale;S04700;Genova Piazza Principe;14:39;-2;0;1;14:49;RFI
+2026-11-08;8620;FB;Roma Termini;S04700;Genova Piazza Principe;19:01;1;0;0;17:38;RFI
 2026-11-08;8623;FR;Torino Porta Nuova;S04700;Genova Piazza Principe;17:00;-2;0;0;16:35;RFI
-2026-11-08;865;REG;Milano Cadorna;S01933;Saronno;18:07;0;0;0;16:35;RFI
+2026-11-08;865;REG;Milano Cadorna;S01933;Saronno;18:07;1;0;0;17:38;RFI
+2026-11-08;869;REG;Milano Cadorna;S01933;Saronno;18:37;0;0;0;17:38;RFI
+2026-11-08;87;EC;Brennero;S02430;Verona Porta Nuova;19:01;0;1;0;17:38;RFI
+2026-11-08;871;REG;Milano Cadorna;S01933;Saronno;19:07;0;0;0;17:38;RFI
 2026-11-08;87805;REG;Saronno;S01322;Monza;10:15;-2;0;0;09:49;RFI
 2026-11-08;87805;REG;Saronno;S01820;Milano Rogoredo;10:46;2;0;0;10:45;RFI
 2026-11-08;87813;REG;Saronno;S01322;Monza;11:15;7;0;0;10:45;RFI
@@ -2538,6 +2756,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8806;FR;Pescara;S01700;Milano Centrale;11:10;10;0;0;10:45;RFI
 2026-11-08;8806;FR;Pescara;S05043;Bologna Centrale;09:15;7;0;0;08:58;RFI
 2026-11-08;8807;FR;Milano Centrale;S05043;Bologna Centrale;12:42;13;0;0;12:37;RFI
+2026-11-08;8807;FR;Milano Centrale;S11119;Bari Centrale;18:27;31;0;0;17:38;RFI
 2026-11-08;8809;FR;Milano Centrale;S05043;Bologna Centrale;13:42;10;0;0;13:47;RFI
 2026-11-08;8810;FR;Bari Centrale;S01700;Milano Centrale;12:30;10;0;0;12:37;RFI
 2026-11-08;8810;FR;Bari Centrale;S05043;Bologna Centrale;11:15;7;0;0;10:45;RFI
@@ -2557,13 +2776,14 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8818;FR;Lecce;S11119;Bari Centrale;09:26;1;0;0;08:58;RFI
 2026-11-08;88183;REG;Saronno;S01322;Monza;13:15;-2;0;0;12:37;RFI
 2026-11-08;88183;REG;Saronno;S01820;Milano Rogoredo;13:46;0;0;1;13:47;RFI
-2026-11-08;8819;FR;Milano Centrale;S05043;Bologna Centrale;17:42;0;0;0;16:35;RFI
+2026-11-08;8819;FR;Milano Centrale;S05043;Bologna Centrale;17:42;4;0;0;17:38;RFI
 2026-11-08;88197;REG;Saronno;S01322;Monza;13:45;2;0;1;13:47;RFI
 2026-11-08;88197;REG;Saronno;S01820;Milano Rogoredo;14:16;2;0;0;13:47;RFI
-2026-11-08;8820;FR;Taranto;S01700;Milano Centrale;18:10;66;0;0;16:35;RFI
+2026-11-08;8820;FR;Taranto;S01700;Milano Centrale;18:10;66;0;0;17:38;RFI
 2026-11-08;8820;FR;Taranto;S05043;Bologna Centrale;16:15;66;0;0;16:35;RFI
 2026-11-08;8820;FR;Taranto;S11119;Bari Centrale;10:20;28;0;0;09:49;RFI
-2026-11-08;8824;FR;Lecce;S05043;Bologna Centrale;17:15;20;0;0;16:35;RFI
+2026-11-08;8824;FR;Lecce;S01700;Milano Centrale;19:10;26;0;0;17:38;RFI
+2026-11-08;8824;FR;Lecce;S05043;Bologna Centrale;17:15;26;0;0;17:38;RFI
 2026-11-08;8824;FR;Lecce;S11119;Bari Centrale;11:26;4;0;1;11:41;RFI
 2026-11-08;88251;REG;Saronno;S01322;Monza;14:15;-4;0;0;13:47;RFI
 2026-11-08;88251;REG;Saronno;S01820;Milano Rogoredo;14:46;-1;0;1;14:49;RFI
@@ -2581,14 +2801,19 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;88491;REG;Milano Greco Pirelli;S01820;Milano Rogoredo;06:46;-1;0;1;06:48;RFI
 2026-11-08;8851;FA;Ravenna;S08409;Roma Termini;11:00;10;0;0;10:45;RFI
 2026-11-08;8863;FR;Roma Termini;S09818;Salerno;10:37;3;0;1;10:45;RFI
+2026-11-08;8868;FR;Reggio Di Calabria Centrale;S09818;Salerno;18:41;34;0;0;17:38;RFI
 2026-11-08;88729;REG;Saronno;S01322;Monza;16:15;0;0;0;15:38;RFI
 2026-11-08;88729;REG;Saronno;S01820;Milano Rogoredo;16:46;2;0;0;16:35;RFI
 2026-11-08;88797;REG;Saronno;S01322;Monza;16:45;5;0;0;16:35;RFI
-2026-11-08;88797;REG;Saronno;S01820;Milano Rogoredo;17:16;5;0;0;16:35;RFI
+2026-11-08;88797;REG;Saronno;S01820;Milano Rogoredo;17:16;4;0;1;17:38;RFI
 2026-11-08;88827;REG;Saronno;S01322;Monza;17:15;2;0;0;16:35;RFI
-2026-11-08;88827;REG;Saronno;S01820;Milano Rogoredo;17:46;0;0;0;16:35;RFI
-2026-11-08;88861;REG;Saronno;S01322;Monza;18:15;0;0;0;16:35;RFI
-2026-11-08;88889;REG;Saronno;S01322;Monza;17:45;0;0;0;16:35;RFI
+2026-11-08;88827;REG;Saronno;S01820;Milano Rogoredo;17:46;1;0;0;17:38;RFI
+2026-11-08;88861;REG;Saronno;S01322;Monza;18:15;-3;0;0;17:38;RFI
+2026-11-08;88861;REG;Saronno;S01820;Milano Rogoredo;18:46;-3;0;0;17:38;RFI
+2026-11-08;88869;REG;Saronno;S01322;Monza;19:15;0;0;0;17:38;RFI
+2026-11-08;88889;REG;Saronno;S01322;Monza;17:45;2;0;0;17:38;RFI
+2026-11-08;88889;REG;Saronno;S01820;Milano Rogoredo;18:16;2;0;0;17:38;RFI
+2026-11-08;88895;REG;Saronno;S01322;Monza;18:45;0;0;0;17:38;RFI
 2026-11-08;88942;REG;Milano Rogoredo;S01322;Monza;16:12;0;0;0;15:38;RFI
 2026-11-08;88942;REG;Milano Rogoredo;S01933;Saronno;16:54;5;0;0;16:35;RFI
 2026-11-08;8900;ITA;Roma Termini;ITBC_;Bologna Centrale;08:18;0;0;0;07:55;Italo
@@ -2655,7 +2880,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8913;ITA;Venezia S.Lucia;ITPD_;Padova;13:33;0;0;0;12:37;Italo
 2026-11-08;8913;ITA;Venezia S.Lucia;ITRMT;Roma Termini;17:05;0;0;0;16:35;Italo
 2026-11-08;8913;ITA;Venezia S.Lucia;ITRTB;Roma Tiburtina;16:53;0;0;0;16:35;Italo
-2026-11-08;8913;ITA;Venezia S.Lucia;ITSAL;Salerno;18:54;0;0;0;16:35;Italo
+2026-11-08;8913;ITA;Venezia S.Lucia;ITSAL;Salerno;18:54;0;0;0;17:38;Italo
 2026-11-08;8913;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;15:20;0;0;0;14:49;Italo
 2026-11-08;8913;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;13:15;0;0;0;12:37;Italo
 2026-11-08;8914;ITA;Roma Termini;ITBC_;Bologna Centrale;14:18;0;0;0;13:47;Italo
@@ -2665,9 +2890,9 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8914;ITA;Roma Termini;ITVEM;Venezia Mestre;15:42;0;0;0;15:38;Italo
 2026-11-08;8914;ITA;Roma Termini;ITVSL;Venezia S. Lucia;15:55;0;0;0;15:38;Italo
 2026-11-08;8915;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;15:39;0;0;0;15:38;Italo
-2026-11-08;8915;ITA;Venezia S.Lucia;ITNAC;Napoli Centrale;19:40;0;0;0;16:35;Italo
+2026-11-08;8915;ITA;Venezia S.Lucia;ITNAC;Napoli Centrale;19:40;0;0;0;17:38;Italo
 2026-11-08;8915;ITA;Venezia S.Lucia;ITPD_;Padova;14:33;0;0;0;13:47;Italo
-2026-11-08;8915;ITA;Venezia S.Lucia;ITRMT;Roma Termini;18:05;0;0;0;16:35;Italo
+2026-11-08;8915;ITA;Venezia S.Lucia;ITRMT;Roma Termini;18:05;0;0;0;17:38;Italo
 2026-11-08;8915;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;16:20;0;0;0;15:38;Italo
 2026-11-08;8915;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;14:15;0;0;0;13:47;Italo
 2026-11-08;8916;ITA;Roma Termini;ITBC_;Bologna Centrale;15:18;0;0;0;14:49;Italo
@@ -2677,25 +2902,30 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8916;ITA;Roma Termini;ITVEM;Venezia Mestre;16:42;5;0;0;16:35;Italo
 2026-11-08;8916;ITA;Roma Termini;ITVSL;Venezia S. Lucia;16:55;0;0;0;16:35;Italo
 2026-11-08;8918;ITA;Napoli Centrale;ITBC_;Bologna Centrale;17:18;0;0;0;16:35;Italo
-2026-11-08;8918;ITA;Napoli Centrale;ITPD_;Padova;18:25;0;0;0;16:35;Italo
+2026-11-08;8918;ITA;Napoli Centrale;ITPD_;Padova;18:25;0;0;0;17:38;Italo
 2026-11-08;8918;ITA;Napoli Centrale;ITRMT;Roma Termini;14:46;0;0;1;14:49;Italo
 2026-11-08;8918;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;15:02;0;0;0;14:49;Italo
 2026-11-08;8918;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;16:31;0;0;0;15:38;Italo
+2026-11-08;8918;ITA;Napoli Centrale;ITVEM;Venezia Mestre;18:42;0;0;0;17:38;Italo
 2026-11-08;8919;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;16:39;0;0;0;16:35;Italo
 2026-11-08;8919;ITA;Venezia S.Lucia;ITPD_;Padova;15:33;0;0;0;14:49;Italo
-2026-11-08;8919;ITA;Venezia S.Lucia;ITRTB;Roma Tiburtina;18:54;0;0;0;16:35;Italo
-2026-11-08;8919;ITA;Venezia S.Lucia;ITSAL;Salerno;20:49;0;0;0;16:35;Italo
+2026-11-08;8919;ITA;Venezia S.Lucia;ITRTB;Roma Tiburtina;18:54;0;0;0;17:38;Italo
+2026-11-08;8919;ITA;Venezia S.Lucia;ITSAL;Salerno;20:49;0;0;0;17:38;Italo
 2026-11-08;8919;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;17:20;0;0;0;16:35;Italo
 2026-11-08;8919;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;15:15;0;0;0;14:49;Italo
-2026-11-08;8920;ITA;Napoli Centrale;ITBC_;Bologna Centrale;19:18;0;0;0;16:35;Italo
+2026-11-08;8920;ITA;Napoli Centrale;ITBC_;Bologna Centrale;19:18;0;0;0;17:38;Italo
+2026-11-08;8920;ITA;Napoli Centrale;ITPD_;Padova;20:25;0;0;0;17:38;Italo
 2026-11-08;8920;ITA;Napoli Centrale;ITRMT;Roma Termini;16:45;0;0;0;16:35;Italo
-2026-11-08;8920;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;18:31;0;0;0;16:35;Italo
-2026-11-08;8922;ITA;Napoli Centrale;ITRMT;Roma Termini;17:45;0;0;0;16:35;Italo
-2026-11-08;8922;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;18:02;0;0;0;16:35;Italo
-2026-11-08;8922;ITA;Napoli Centrale;ITVSL;Venezia S. Lucia;22:59;0;0;0;01:58;Italo
-2026-11-08;8923;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;17:39;0;0;0;16:35;Italo
+2026-11-08;8920;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;18:31;0;0;0;17:38;Italo
+2026-11-08;8922;ITA;Napoli Centrale;ITBC_;Bologna Centrale;20:18;0;0;0;17:38;Italo
+2026-11-08;8922;ITA;Napoli Centrale;ITRMT;Roma Termini;17:45;5;0;0;17:38;Italo
+2026-11-08;8922;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;18:02;0;0;0;17:38;Italo
+2026-11-08;8922;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;19:31;0;0;0;17:38;Italo
+2026-11-08;8922;ITA;Napoli Centrale;ITVSL;Venezia S. Lucia;21:55;0;0;0;17:38;Italo
+2026-11-08;8923;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;17:39;0;0;0;17:38;Italo
+2026-11-08;8923;ITA;Venezia S.Lucia;ITNAC;Napoli Centrale;21:47;0;0;0;17:38;Italo
 2026-11-08;8923;ITA;Venezia S.Lucia;ITPD_;Padova;16:33;0;0;0;15:38;Italo
-2026-11-08;8923;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;18:20;0;0;0;16:35;Italo
+2026-11-08;8923;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;18:20;0;0;0;17:38;Italo
 2026-11-08;8923;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;16:15;0;0;0;15:38;Italo
 2026-11-08;8924;ITA;Roma Termini;ITBC_;Bologna Centrale;09:18;0;0;0;08:58;Italo
 2026-11-08;8924;ITA;Roma Termini;ITPD_;Padova;11:25;25;0;0;11:41;Italo
@@ -2703,12 +2933,14 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8924;ITA;Roma Termini;ITSMN;Firenze S.M.N.;08:31;0;0;0;07:55;Italo
 2026-11-08;8924;ITA;Roma Termini;ITVEM;Venezia Mestre;11:42;30;0;0;11:41;Italo
 2026-11-08;8924;ITA;Roma Termini;ITVSL;Venezia S. Lucia;11:55;25;0;0;11:41;Italo
-2026-11-08;8925;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;18:39;0;0;0;16:35;Italo
+2026-11-08;8925;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;18:39;0;0;0;17:38;Italo
 2026-11-08;8925;ITA;Venezia S.Lucia;ITPD_;Padova;17:33;0;0;0;16:35;Italo
+2026-11-08;8925;ITA;Venezia S.Lucia;ITRTB;Roma Tiburtina;20:54;0;0;0;17:38;Italo
+2026-11-08;8925;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;19:20;0;0;0;17:38;Italo
 2026-11-08;8925;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;17:15;0;0;0;16:35;Italo
-2026-11-08;8927;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;19:39;0;0;0;16:35;Italo
-2026-11-08;8927;ITA;Venezia S.Lucia;ITPD_;Padova;18:33;0;0;0;16:35;Italo
-2026-11-08;8927;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;18:15;0;0;0;16:35;Italo
+2026-11-08;8927;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;19:39;0;0;0;17:38;Italo
+2026-11-08;8927;ITA;Venezia S.Lucia;ITPD_;Padova;18:33;0;0;0;17:38;Italo
+2026-11-08;8927;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;18:15;0;0;0;17:38;Italo
 2026-11-08;8929;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;13:39;5;0;1;13:47;Italo
 2026-11-08;8929;ITA;Venezia S.Lucia;ITPD_;Padova;12:33;0;0;0;11:41;Italo
 2026-11-08;8929;ITA;Venezia S.Lucia;ITRMT;Roma Termini;16:05;0;0;0;15:38;Italo
@@ -2732,19 +2964,21 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8956;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;09:57;0;0;0;09:49;Italo
 2026-11-08;8956;ITA;Napoli Centrale;ITVPN;Verona Porta Nuova;11:38;0;0;1;11:41;Italo
 2026-11-08;8959;ITA;Brescia;ITBC_;Bologna Centrale;15:14;0;0;0;14:49;Italo
-2026-11-08;8959;ITA;Brescia;ITRMT;Roma Termini;17:40;0;0;0;16:35;Italo
+2026-11-08;8959;ITA;Brescia;ITRMT;Roma Termini;17:40;0;0;0;17:38;Italo
 2026-11-08;8959;ITA;Brescia;ITSMN;Firenze S.M.N.;15:54;5;0;0;15:38;Italo
 2026-11-08;8959;ITA;Brescia;ITVPN;Verona Porta Nuova;14:11;0;0;0;13:47;Italo
 2026-11-08;8960;ITA;Roma Termini;ITBC_;Bologna Centrale;14:43;0;0;0;13:47;Italo
 2026-11-08;8960;ITA;Roma Termini;ITSMN;Firenze S.M.N.;13:57;0;0;0;13:47;Italo
 2026-11-08;8960;ITA;Roma Termini;ITVPN;Verona Porta Nuova;15:38;0;0;1;15:38;Italo
 2026-11-08;8963;ITA;Bolzano;ITBC_;Bologna Centrale;17:14;0;0;0;16:35;Italo
-2026-11-08;8963;ITA;Bolzano;ITNAC;Napoli Centrale;21:30;0;0;0;16:35;Italo
-2026-11-08;8963;ITA;Bolzano;ITRTB;Roma Tiburtina;19:29;0;0;0;16:35;Italo
-2026-11-08;8963;ITA;Bolzano;ITSMN;Firenze S.M.N.;17:54;0;0;0;16:35;Italo
+2026-11-08;8963;ITA;Bolzano;ITNAC;Napoli Centrale;21:30;0;0;0;17:38;Italo
+2026-11-08;8963;ITA;Bolzano;ITRTB;Roma Tiburtina;19:29;0;0;0;17:38;Italo
+2026-11-08;8963;ITA;Bolzano;ITSMN;Firenze S.M.N.;17:54;0;0;0;17:38;Italo
 2026-11-08;8963;ITA;Bolzano;ITVPN;Verona Porta Nuova;16:10;0;0;0;15:38;Italo
-2026-11-08;8967;ITA;Brescia;ITBC_;Bologna Centrale;19:14;0;0;0;16:35;Italo
-2026-11-08;8967;ITA;Brescia;ITVPN;Verona Porta Nuova;18:11;0;0;0;16:35;Italo
+2026-11-08;8966;ITA;Roma Termini;ITBC_;Bologna Centrale;20:43;0;0;0;17:38;Italo
+2026-11-08;8967;ITA;Brescia;ITBC_;Bologna Centrale;19:14;0;0;0;17:38;Italo
+2026-11-08;8967;ITA;Brescia;ITSMN;Firenze S.M.N.;19:54;0;0;0;17:38;Italo
+2026-11-08;8967;ITA;Brescia;ITVPN;Verona Porta Nuova;18:11;0;0;0;17:38;Italo
 2026-11-08;897;REG;Milano Cadorna;S01933;Saronno;00:07;0;0;1;00:09;RFI
 2026-11-08;8970;ITA;Venezia S.Lucia;ITMC_;Milano Centrale;08:25;5;0;0;07:55;Italo
 2026-11-08;8970;ITA;Venezia S.Lucia;ITPD_;Padova;06:24;0;0;0;05:51;Italo
@@ -2790,25 +3024,28 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;8987;ITA;Milano Centrale;ITVEM;Venezia Mestre;16:52;5;0;0;16:35;Italo
 2026-11-08;8987;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;15:47;5;0;0;15:38;Italo
 2026-11-08;8987;ITA;Milano Centrale;ITVSL;Venezia S. Lucia;17:05;0;0;0;16:35;Italo
-2026-11-08;8988;ITA;Venezia S.Lucia;ITMC_;Milano Centrale;18:25;0;0;0;16:35;Italo
+2026-11-08;8988;ITA;Venezia S.Lucia;ITMC_;Milano Centrale;18:25;0;0;0;17:38;Italo
 2026-11-08;8988;ITA;Venezia S.Lucia;ITPD_;Padova;16:24;0;0;0;15:38;Italo
 2026-11-08;8988;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;16:07;0;0;0;15:38;Italo
 2026-11-08;8988;ITA;Venezia S.Lucia;ITVPN;Verona Porta Nuova;17:10;0;0;0;16:35;Italo
-2026-11-08;8992;ITA;Venezia S.Lucia;ITPD_;Padova;18:24;0;0;0;16:35;Italo
-2026-11-08;8992;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;18:07;0;0;0;16:35;Italo
-2026-11-08;8992;ITA;Venezia S.Lucia;ITVPN;Verona Porta Nuova;19:10;0;0;0;16:35;Italo
-2026-11-08;8993;ITA;Milano Centrale;ITPD_;Padova;19:32;0;0;0;16:35;Italo
-2026-11-08;8993;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;18:47;0;0;0;16:35;Italo
-2026-11-08;8995;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;19:47;0;0;0;16:35;Italo
-2026-11-08;8995;ITA;Milano Centrale;ITVSL;Venezia S. Lucia;21:05;0;0;0;16:35;Italo
+2026-11-08;8992;ITA;Venezia S.Lucia;ITPD_;Padova;18:24;0;0;0;17:38;Italo
+2026-11-08;8992;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;18:07;0;0;0;17:38;Italo
+2026-11-08;8992;ITA;Venezia S.Lucia;ITVPN;Verona Porta Nuova;19:10;0;0;0;17:38;Italo
+2026-11-08;8993;ITA;Milano Centrale;ITPD_;Padova;19:32;0;0;0;17:38;Italo
+2026-11-08;8993;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;18:47;0;0;0;17:38;Italo
+2026-11-08;8995;ITA;Milano Centrale;ITPD_;Padova;20:32;0;0;0;17:38;Italo
+2026-11-08;8995;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;19:47;0;0;0;17:38;Italo
+2026-11-08;8995;ITA;Milano Centrale;ITVSL;Venezia S. Lucia;21:05;0;0;0;17:38;Italo
+2026-11-08;8997;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;20:47;0;0;0;17:38;Italo
+2026-11-08;8997;ITA;Milano Centrale;ITVSL;Venezia S. Lucia;22:05;0;0;0;17:38;Italo
 2026-11-08;90006;REG;Vignola;S05043;Bologna Centrale;08:59;2;0;0;12:37;RFI
 2026-11-08;90012;REG;Vignola;S05043;Bologna Centrale;11:59;-1;0;0;15:38;RFI
-2026-11-08;90018;REG;Vignola;S05043;Bologna Centrale;14:59;-4;0;0;16:35;RFI
-2026-11-08;90024;REG;Vignola;S05043;Bologna Centrale;17:59;0;0;0;16:35;RFI
+2026-11-08;90018;REG;Vignola;S05043;Bologna Centrale;14:59;-4;0;0;17:38;RFI
+2026-11-08;90024;REG;Vignola;S05043;Bologna Centrale;17:59;3;0;0;17:38;RFI
 2026-11-08;91506;REG;Rovigo;S02430;Verona Porta Nuova;10:25;3;0;0;09:49;RFI
 2026-11-08;91510;REG;Rovigo;S02430;Verona Porta Nuova;13:25;4;0;0;12:37;RFI
 2026-11-08;91514;REG;Rovigo;S02430;Verona Porta Nuova;15:25;-2;0;1;15:38;RFI
-2026-11-08;91518;REG;Rovigo;S02430;Verona Porta Nuova;17:25;2;0;0;16:35;RFI
+2026-11-08;91518;REG;Rovigo;S02430;Verona Porta Nuova;17:25;-5;0;1;17:38;RFI
 2026-11-08;91534;REG;Rovigo;S02430;Verona Porta Nuova;07:29;0;0;0;06:48;RFI
 2026-11-08;91568;REG;Adria;S02593;Venezia S. Lucia;08:39;1;0;1;08:58;RFI
 2026-11-08;91584;REG;Adria;S02593;Venezia S. Lucia;16:39;5;0;0;16:35;RFI
@@ -2847,17 +3084,22 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9311;FR;Torino Porta Nuova;S08217;Roma Tiburtina;13:23;-1;0;0;12:37;RFI
 2026-11-08;9311;FR;Torino Porta Nuova;S08409;Roma Termini;13:35;-1;0;1;13:47;RFI
 2026-11-08;9311;FR;Torino Porta Nuova;S09218;Napoli Centrale;15:15;-4;0;1;15:38;RFI
-2026-11-08;9320;FR;Napoli Centrale;S05043;Bologna Centrale;17:48;-9;0;0;16:35;RFI
+2026-11-08;9320;FR;Napoli Centrale;S01820;Milano Rogoredo;18:54;3;0;0;17:38;RFI
+2026-11-08;9320;FR;Napoli Centrale;S05043;Bologna Centrale;17:48;3;0;0;17:38;RFI
 2026-11-08;9320;FR;Napoli Centrale;S06421;Firenze S.M.N.;17:01;-9;0;0;16:35;RFI
 2026-11-08;9320;FR;Napoli Centrale;S08409;Roma Termini;15:05;2;0;0;14:49;RFI
 2026-11-08;9321;FR;Torino Porta Nuova;S01820;Milano Rogoredo;15:03;2;0;0;14:49;RFI
 2026-11-08;9321;FR;Torino Porta Nuova;S05043;Bologna Centrale;16:09;5;0;0;15:38;RFI
 2026-11-08;9321;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;16:50;6;0;0;16:35;RFI
+2026-11-08;9321;FR;Torino Porta Nuova;S08409;Roma Termini;18:35;10;0;0;17:38;RFI
 2026-11-08;9323;FR;Torino Porta Nuova;S01820;Milano Rogoredo;16:03;2;0;0;15:38;RFI
 2026-11-08;9323;FR;Torino Porta Nuova;S05043;Bologna Centrale;17:09;0;0;0;16:35;RFI
-2026-11-08;9323;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;17:50;0;0;0;16:35;RFI
+2026-11-08;9323;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;17:50;1;0;0;17:38;RFI
 2026-11-08;9325;FR;Torino Porta Nuova;S01820;Milano Rogoredo;17:03;4;0;0;16:35;RFI
-2026-11-08;9325;FR;Torino Porta Nuova;S05043;Bologna Centrale;18:09;4;0;0;16:35;RFI
+2026-11-08;9325;FR;Torino Porta Nuova;S05043;Bologna Centrale;18:09;1;0;0;17:38;RFI
+2026-11-08;9325;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;18:50;1;0;0;17:38;RFI
+2026-11-08;9326;FR;Roma Termini;S08217;Roma Tiburtina;18:32;0;0;0;17:38;RFI
+2026-11-08;9329;FR;Torino Porta Nuova;S01820;Milano Rogoredo;19:03;0;0;0;17:38;RFI
 2026-11-08;9330;FR;Roma Termini;S01700;Milano Centrale;00:25;2;0;0;00:09;RFI
 2026-11-08;935;REG;Edolo;S01717;Brescia;12:56;5;0;0;12:37;RFI
 2026-11-08;93624;REG;Foligno;S06421;Firenze S.M.N.;13:51;8;0;0;13:47;RFI
@@ -2876,12 +3118,13 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9400;FR;Roma Termini;S06421;Firenze S.M.N.;07:11;-4;0;0;06:48;RFI
 2026-11-08;9400;FR;Roma Termini;S08217;Roma Tiburtina;05:42;0;0;1;05:51;RFI
 2026-11-08;94002;REG;Milano Rogoredo;S01322;Monza;16:42;6;0;0;16:35;RFI
-2026-11-08;94002;REG;Milano Rogoredo;S01933;Saronno;17:24;6;0;0;16:35;RFI
+2026-11-08;94002;REG;Milano Rogoredo;S01933;Saronno;17:24;0;0;1;17:38;RFI
 2026-11-08;9401;FR;Venezia S.Lucia;S05043;Bologna Centrale;06:59;4;0;0;06:48;RFI
 2026-11-08;9401;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;07:39;4;0;0;06:48;RFI
 2026-11-08;9401;FR;Venezia S.Lucia;S08217;Roma Tiburtina;09:15;-4;0;0;08:58;RFI
 2026-11-08;9401;FR;Venezia S.Lucia;S08409;Roma Termini;09:33;-4;0;0;08:58;RFI
-2026-11-08;94010;REG;Milano Rogoredo;S01322;Monza;17:42;0;0;0;16:35;RFI
+2026-11-08;94010;REG;Milano Rogoredo;S01322;Monza;17:42;1;0;0;17:38;RFI
+2026-11-08;94010;REG;Milano Rogoredo;S01933;Saronno;18:24;1;0;0;17:38;RFI
 2026-11-08;9403;FR;Venezia S.Lucia;S02581;Padova;06:18;0;0;0;05:51;RFI
 2026-11-08;9403;FR;Venezia S.Lucia;S05043;Bologna Centrale;07:59;17;0;0;07:55;RFI
 2026-11-08;9403;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;08:39;10;0;1;08:58;RFI
@@ -2911,6 +3154,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9414;FR;Salerno;S05043;Bologna Centrale;12:00;-2;0;0;11:41;RFI
 2026-11-08;9414;FR;Salerno;S06421;Firenze S.M.N.;11:11;1;0;0;10:45;RFI
 2026-11-08;9414;FR;Salerno;S08409;Roma Termini;09:25;-2;0;0;08:58;RFI
+2026-11-08;94170;REG;Milano Rogoredo;S01322;Monza;18:42;0;0;0;17:38;RFI
 2026-11-08;9420;FR;Napoli Centrale;S02581;Padova;16:04;-5;0;0;15:38;RFI
 2026-11-08;9420;FR;Napoli Centrale;S02593;Venezia S. Lucia;16:34;4;0;0;16:35;RFI
 2026-11-08;9420;FR;Napoli Centrale;S05043;Bologna Centrale;14:58;-5;0;0;14:49;RFI
@@ -2918,25 +3162,32 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9420;FR;Napoli Centrale;S08409;Roma Termini;12:19;-1;0;0;11:41;RFI
 2026-11-08;9421;FR;Bologna Centrale;S06421;Firenze S.M.N.;15:39;18;0;0;15:38;RFI
 2026-11-08;9421;FR;Bologna Centrale;S08217;Roma Tiburtina;17:14;14;0;0;16:35;RFI
-2026-11-08;9421;FR;Bologna Centrale;S08409;Roma Termini;17:24;14;0;0;16:35;RFI
+2026-11-08;9421;FR;Bologna Centrale;S08409;Roma Termini;17:24;10;0;1;17:38;RFI
+2026-11-08;9421;FR;Bologna Centrale;S09218;Napoli Centrale;19:03;10;0;0;17:38;RFI
 2026-11-08;9422;FR;Roma Termini;S02581;Padova;17:04;-1;0;0;16:35;RFI
-2026-11-08;9422;FR;Roma Termini;S02593;Venezia S. Lucia;17:34;-1;0;0;16:35;RFI
+2026-11-08;9422;FR;Roma Termini;S02593;Venezia S. Lucia;17:34;-1;0;1;17:38;RFI
 2026-11-08;9422;FR;Roma Termini;S05043;Bologna Centrale;15:58;2;0;0;15:38;RFI
 2026-11-08;9422;FR;Roma Termini;S06421;Firenze S.M.N.;15:11;-5;0;0;14:49;RFI
-2026-11-08;9423;FR;Roma Termini;S02581;Padova;18:04;-2;0;0;16:35;RFI
+2026-11-08;9423;FR;Roma Termini;S02581;Padova;18:04;-6;0;0;17:38;RFI
+2026-11-08;9423;FR;Roma Termini;S02593;Venezia S. Lucia;18:34;-6;0;0;17:38;RFI
 2026-11-08;9423;FR;Roma Termini;S05043;Bologna Centrale;16:58;-2;0;0;16:35;RFI
 2026-11-08;9423;FR;Roma Termini;S06421;Firenze S.M.N.;16:11;-6;0;0;15:38;RFI
 2026-11-08;94230;REG;Milano Rogoredo;S01322;Monza;17:12;0;0;0;16:35;RFI
-2026-11-08;94230;REG;Milano Rogoredo;S01933;Saronno;17:54;0;0;0;16:35;RFI
-2026-11-08;94232;REG;Milano Rogoredo;S01322;Monza;18:12;0;0;0;16:35;RFI
+2026-11-08;94230;REG;Milano Rogoredo;S01933;Saronno;17:54;1;0;0;17:38;RFI
+2026-11-08;94232;REG;Milano Rogoredo;S01322;Monza;18:12;0;0;0;17:38;RFI
+2026-11-08;94232;REG;Milano Rogoredo;S01933;Saronno;18:54;0;0;0;17:38;RFI
+2026-11-08;94236;REG;Milano Rogoredo;S01322;Monza;19:12;0;0;0;17:38;RFI
 2026-11-08;9425;FR;Bologna Centrale;S06421;Firenze S.M.N.;16:39;6;0;0;16:35;RFI
-2026-11-08;9426;FR;Napoli Centrale;S05043;Bologna Centrale;17:58;-3;0;0;16:35;RFI
+2026-11-08;9425;FR;Bologna Centrale;S08409;Roma Termini;18:25;5;0;0;17:38;RFI
+2026-11-08;9426;FR;Napoli Centrale;S02581;Padova;19:04;5;0;0;17:38;RFI
+2026-11-08;9426;FR;Napoli Centrale;S05043;Bologna Centrale;17:58;5;0;0;17:38;RFI
 2026-11-08;9426;FR;Napoli Centrale;S06421;Firenze S.M.N.;17:11;-3;0;0;16:35;RFI
 2026-11-08;9426;FR;Napoli Centrale;S08409;Roma Termini;15:20;-3;0;0;14:49;RFI
 2026-11-08;9427;FR;Venezia S.Lucia;S02581;Padova;15:54;0;0;0;15:38;RFI
 2026-11-08;9427;FR;Venezia S.Lucia;S05043;Bologna Centrale;16:59;7;0;0;16:35;RFI
-2026-11-08;9427;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;17:39;7;0;0;16:35;RFI
-2026-11-08;9428;FR;Napoli Centrale;S06421;Firenze S.M.N.;18:11;15;0;0;16:35;RFI
+2026-11-08;9427;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;17:39;-1;0;0;17:38;RFI
+2026-11-08;9428;FR;Napoli Centrale;S05043;Bologna Centrale;18:58;33;0;0;17:38;RFI
+2026-11-08;9428;FR;Napoli Centrale;S06421;Firenze S.M.N.;18:11;33;0;0;17:38;RFI
 2026-11-08;9428;FR;Napoli Centrale;S08217;Roma Tiburtina;16:42;15;0;0;16:35;RFI
 2026-11-08;9428;FR;Napoli Centrale;S08409;Roma Termini;16:20;15;0;0;16:35;RFI
 2026-11-08;94280;REG;Milano Rogoredo;S01322;Monza;15:12;-2;0;0;14:49;RFI
@@ -2948,12 +3199,17 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;94299;REG;Saronno;S01322;Monza;08:45;-1;0;1;08:58;RFI
 2026-11-08;94299;REG;Saronno;S01820;Milano Rogoredo;09:16;-1;0;0;08:58;RFI
 2026-11-08;943;REG;Edolo;S01717;Brescia;14:56;7;0;0;14:49;RFI
-2026-11-08;9430;FR;Napoli Centrale;S08409;Roma Termini;17:20;1;0;0;16:35;RFI
+2026-11-08;9430;FR;Napoli Centrale;S06421;Firenze S.M.N.;19:11;4;0;0;17:38;RFI
+2026-11-08;9430;FR;Napoli Centrale;S08409;Roma Termini;17:20;4;0;1;17:38;RFI
 2026-11-08;9431;FR;Venezia S.Lucia;S02581;Padova;16:54;-1;0;0;16:35;RFI
-2026-11-08;9431;FR;Venezia S.Lucia;S05043;Bologna Centrale;17:59;-1;0;0;16:35;RFI
-2026-11-08;9432;FR;Napoli Centrale;S08409;Roma Termini;18:15;0;0;0;16:35;RFI
-2026-11-08;9433;FR;Venezia S.Lucia;S02581;Padova;17:54;0;0;0;16:35;RFI
+2026-11-08;9431;FR;Venezia S.Lucia;S05043;Bologna Centrale;17:59;4;0;0;17:38;RFI
+2026-11-08;9431;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;18:39;4;0;0;17:38;RFI
+2026-11-08;9432;FR;Napoli Centrale;S08217;Roma Tiburtina;18:44;10;0;0;17:38;RFI
+2026-11-08;9432;FR;Napoli Centrale;S08409;Roma Termini;18:15;10;0;0;17:38;RFI
+2026-11-08;9433;FR;Venezia S.Lucia;S02581;Padova;17:54;-1;0;0;17:38;RFI
+2026-11-08;9433;FR;Venezia S.Lucia;S05043;Bologna Centrale;18:59;-1;0;0;17:38;RFI
 2026-11-08;9434;FR;Napoli Centrale;S02593;Venezia S. Lucia;00:08;0;0;1;00:09;RFI
+2026-11-08;9435;FR;Venezia S.Lucia;S02581;Padova;18:54;0;0;0;17:38;RFI
 2026-11-08;94472;REG;Faenza;S06421;Firenze S.M.N.;12:55;-2;0;0;12:37;RFI
 2026-11-08;94474;REG;Faenza;S06421;Firenze S.M.N.;14:11;2;0;0;13:47;RFI
 2026-11-08;94522;REG;Ravenna;S06421;Firenze S.M.N.;10:11;4;0;0;09:49;RFI
@@ -2962,6 +3218,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9466;FR;Trieste Centrale;S08217;Roma Tiburtina;11:49;-1;0;0;11:41;RFI
 2026-11-08;9466;FR;Trieste Centrale;S08409;Roma Termini;12:05;-1;0;0;11:41;RFI
 2026-11-08;947;REG;Edolo;S01717;Brescia;15:56;5;0;0;15:38;RFI
+2026-11-08;9480;FR;Roma Termini;S05043;Bologna Centrale;18:38;-5;0;0;17:38;RFI
 2026-11-08;9480;FR;Roma Termini;S08217;Roma Tiburtina;16:37;0;0;0;16:35;RFI
 2026-11-08;9490;FR;Salerno;S05043;Bologna Centrale;11:00;1;0;0;10:45;RFI
 2026-11-08;9490;FR;Salerno;S06421;Firenze S.M.N.;10:11;-10;0;0;09:49;RFI
@@ -2977,6 +3234,8 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9505;FR;Milano Centrale;S09818;Salerno;10:54;-10;0;1;10:45;RFI
 2026-11-08;95057;IC;Roma Termini;S09218;Napoli Centrale;13:29;3;0;0;12:37;RFI
 2026-11-08;95057;IC;Roma Termini;S09818;Salerno;14:57;10;0;0;14:49;RFI
+2026-11-08;95070;IC;Palermo Centrale;S09818;Salerno;18:37;23;0;0;17:38;RFI
+2026-11-08;95072;IC;Palermo Centrale;S08409;Roma Termini;18:34;14;0;0;17:38;RFI
 2026-11-08;95072;IC;Palermo Centrale;S09818;Salerno;15:34;1;0;1;15:38;RFI
 2026-11-08;95076;ICN;Palermo Centrale;S08409;Roma Termini;07:24;-6;0;0;06:48;RFI
 2026-11-08;9508;FR;Roma Termini;S00219;Torino Porta Nuova;11:05;4;0;0;10:45;RFI
@@ -3048,21 +3307,24 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;95343;REG;Asti;S01700;Milano Centrale;08:35;-1;0;1;08:58;RFI
 2026-11-08;95343;REG;Asti;S01820;Milano Rogoredo;08:21;1;0;0;07:55;RFI
 2026-11-08;95343;REG;Asti;S01860;Pavia;07:59;1;0;0;07:55;RFI
-2026-11-08;95347;REG;Asti;S01860;Pavia;17:59;0;0;0;16:35;RFI
+2026-11-08;95347;REG;Asti;S01700;Milano Centrale;18:35;3;0;0;17:38;RFI
+2026-11-08;95347;REG;Asti;S01820;Milano Rogoredo;18:21;3;0;0;17:38;RFI
+2026-11-08;95347;REG;Asti;S01860;Pavia;17:59;3;0;0;17:38;RFI
 2026-11-08;9535;FR;Torino Porta Nuova;S01700;Milano Centrale;12:02;1;0;0;11:41;RFI
 2026-11-08;9535;FR;Torino Porta Nuova;S01820;Milano Rogoredo;12:18;10;0;1;12:37;RFI
 2026-11-08;9535;FR;Torino Porta Nuova;S05043;Bologna Centrale;13:24;10;0;0;12:37;RFI
 2026-11-08;9535;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;14:04;10;0;0;13:47;RFI
 2026-11-08;9535;FR;Torino Porta Nuova;S08217;Roma Tiburtina;15:40;-2;0;1;15:38;RFI
 2026-11-08;9535;FR;Torino Porta Nuova;S08409;Roma Termini;15:49;4;0;0;15:38;RFI
-2026-11-08;9535;FR;Torino Porta Nuova;S09218;Napoli Centrale;17:27;-1;0;0;16:35;RFI
+2026-11-08;9535;FR;Torino Porta Nuova;S09218;Napoli Centrale;17:27;-5;0;1;17:38;RFI
 2026-11-08;9539;FR;Milano Centrale;S01820;Milano Rogoredo;13:18;0;0;0;12:37;RFI
 2026-11-08;9539;FR;Milano Centrale;S05043;Bologna Centrale;14:24;1;0;0;13:47;RFI
 2026-11-08;9539;FR;Milano Centrale;S06421;Firenze S.M.N.;15:04;-3;0;0;14:49;RFI
 2026-11-08;9539;FR;Milano Centrale;S08217;Roma Tiburtina;16:40;-6;0;1;16:35;RFI
 2026-11-08;9539;FR;Milano Centrale;S08409;Roma Termini;16:49;-6;0;0;16:35;RFI
-2026-11-08;9540;FR;Napoli Centrale;S01700;Milano Centrale;17:50;-1;0;0;16:35;RFI
-2026-11-08;9540;FR;Napoli Centrale;S01820;Milano Rogoredo;17:39;-1;0;0;16:35;RFI
+2026-11-08;9539;FR;Milano Centrale;S09218;Napoli Centrale;19:08;12;0;0;17:38;RFI
+2026-11-08;9540;FR;Napoli Centrale;S01700;Milano Centrale;17:50;-3;0;0;17:38;RFI
+2026-11-08;9540;FR;Napoli Centrale;S01820;Milano Rogoredo;17:39;-3;0;1;17:38;RFI
 2026-11-08;9540;FR;Napoli Centrale;S05043;Bologna Centrale;16:33;-1;0;1;16:35;RFI
 2026-11-08;9540;FR;Napoli Centrale;S06421;Firenze S.M.N.;15:46;4;0;0;15:38;RFI
 2026-11-08;9540;FR;Napoli Centrale;S08217;Roma Tiburtina;14:17;4;0;0;13:47;RFI
@@ -3071,22 +3333,32 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9543;FR;Torino Porta Nuova;S01820;Milano Rogoredo;14:18;4;0;0;13:47;RFI
 2026-11-08;9543;FR;Torino Porta Nuova;S05043;Bologna Centrale;15:24;10;0;1;15:38;RFI
 2026-11-08;9543;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;16:04;10;0;0;15:38;RFI
-2026-11-08;9543;FR;Torino Porta Nuova;S08409;Roma Termini;17:49;8;0;0;16:35;RFI
-2026-11-08;9544;FR;Salerno;S05043;Bologna Centrale;17:33;-5;0;0;16:35;RFI
+2026-11-08;9543;FR;Torino Porta Nuova;S08409;Roma Termini;17:49;8;0;0;17:38;RFI
+2026-11-08;9544;FR;Salerno;S01700;Milano Centrale;18:50;-1;0;0;17:38;RFI
+2026-11-08;9544;FR;Salerno;S01820;Milano Rogoredo;18:39;2;0;0;17:38;RFI
+2026-11-08;9544;FR;Salerno;S05043;Bologna Centrale;17:33;2;0;1;17:38;RFI
 2026-11-08;9544;FR;Salerno;S06421;Firenze S.M.N.;16:46;-5;0;0;16:35;RFI
 2026-11-08;9544;FR;Salerno;S08409;Roma Termini;14:55;0;0;0;14:49;RFI
 2026-11-08;9547;FR;Milano Centrale;S01820;Milano Rogoredo;15:18;0;0;0;14:49;RFI
 2026-11-08;9547;FR;Milano Centrale;S05043;Bologna Centrale;16:24;2;0;0;15:38;RFI
 2026-11-08;9547;FR;Milano Centrale;S06421;Firenze S.M.N.;17:04;6;0;0;16:35;RFI
-2026-11-08;955;REG;Edolo;S01717;Brescia;17:56;2;0;0;16:35;RFI
+2026-11-08;9547;FR;Milano Centrale;S08217;Roma Tiburtina;18:40;4;0;0;17:38;RFI
+2026-11-08;9547;FR;Milano Centrale;S08409;Roma Termini;18:49;4;0;0;17:38;RFI
+2026-11-08;955;REG;Edolo;S01717;Brescia;17:56;7;0;0;17:38;RFI
 2026-11-08;9551;FR;Milano Centrale;S01820;Milano Rogoredo;16:18;6;0;1;16:35;RFI
-2026-11-08;9551;FR;Milano Centrale;S05043;Bologna Centrale;17:24;6;0;0;16:35;RFI
-2026-11-08;9551;FR;Milano Centrale;S06421;Firenze S.M.N.;18:04;6;0;0;16:35;RFI
+2026-11-08;9551;FR;Milano Centrale;S05043;Bologna Centrale;17:24;8;0;1;17:38;RFI
+2026-11-08;9551;FR;Milano Centrale;S06421;Firenze S.M.N.;18:04;8;0;0;17:38;RFI
+2026-11-08;9552;FR;Salerno;S06421;Firenze S.M.N.;18:46;1;0;0;17:38;RFI
 2026-11-08;9552;FR;Salerno;S08409;Roma Termini;17:00;3;0;0;16:35;RFI
 2026-11-08;9555;FR;Milano Centrale;S01820;Milano Rogoredo;17:18;0;0;0;16:35;RFI
-2026-11-08;9556;FR;Napoli Centrale;S08409;Roma Termini;17:55;0;0;0;16:35;RFI
-2026-11-08;9559;FR;Torino Porta Nuova;S01700;Milano Centrale;18:02;0;0;0;16:35;RFI
+2026-11-08;9555;FR;Milano Centrale;S05043;Bologna Centrale;18:24;1;0;0;17:38;RFI
+2026-11-08;9555;FR;Milano Centrale;S06421;Firenze S.M.N.;19:04;1;0;0;17:38;RFI
+2026-11-08;9556;FR;Napoli Centrale;S08409;Roma Termini;17:55;-1;0;0;17:38;RFI
+2026-11-08;9559;FR;Torino Porta Nuova;S01700;Milano Centrale;18:02;-2;0;0;17:38;RFI
+2026-11-08;9559;FR;Torino Porta Nuova;S01820;Milano Rogoredo;18:18;-2;0;0;17:38;RFI
+2026-11-08;9560;FR;Lecce;S08409;Roma Termini;18:58;-19;0;0;17:38;RFI
 2026-11-08;9560;FR;Lecce;S11119;Bari Centrale;14:06;4;0;0;13:47;RFI
+2026-11-08;9568;FR;Pompei;S09218;Napoli Centrale;19:03;0;0;0;17:38;RFI
 2026-11-08;9583;FR;Torino Porta Nuova;S01700;Milano Centrale;09:02;3;0;0;08:58;RFI
 2026-11-08;9583;FR;Torino Porta Nuova;S01820;Milano Rogoredo;09:18;4;0;0;08:58;RFI
 2026-11-08;9583;FR;Torino Porta Nuova;S05043;Bologna Centrale;10:24;8;0;0;09:49;RFI
@@ -3094,7 +3366,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9583;FR;Torino Porta Nuova;S08217;Roma Tiburtina;12:40;7;0;0;12:37;RFI
 2026-11-08;9583;FR;Torino Porta Nuova;S08409;Roma Termini;12:49;7;0;0;12:37;RFI
 2026-11-08;9583;FR;Torino Porta Nuova;S09818;Salerno;14:39;5;0;1;14:49;RFI
-2026-11-08;9584;FR;Reggio Di Calabria Centrale;S00219;Torino Porta Nuova;18:00;-5;0;0;16:35;RFI
+2026-11-08;9584;FR;Reggio Di Calabria Centrale;S00219;Torino Porta Nuova;18:00;7;0;0;17:38;RFI
 2026-11-08;9584;FR;Reggio Di Calabria Centrale;S01700;Milano Centrale;16:50;-5;0;0;16:35;RFI
 2026-11-08;9584;FR;Reggio Di Calabria Centrale;S01820;Milano Rogoredo;16:39;-5;0;1;16:35;RFI
 2026-11-08;9584;FR;Reggio Di Calabria Centrale;S05043;Bologna Centrale;15:33;2;0;1;15:38;RFI
@@ -3108,10 +3380,12 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9587;FR;Torino Porta Nuova;S08217;Roma Tiburtina;14:40;5;0;1;14:49;RFI
 2026-11-08;9587;FR;Torino Porta Nuova;S08409;Roma Termini;14:49;5;0;0;14:49;RFI
 2026-11-08;9587;FR;Torino Porta Nuova;S09818;Salerno;16:36;-7;0;1;16:35;RFI
-2026-11-08;9588;FR;Reggio Di Calabria Centrale;S06421;Firenze S.M.N.;17:46;1;0;0;16:35;RFI
+2026-11-08;9588;FR;Reggio Di Calabria Centrale;S05043;Bologna Centrale;18:33;-2;0;0;17:38;RFI
+2026-11-08;9588;FR;Reggio Di Calabria Centrale;S06421;Firenze S.M.N.;17:46;-2;0;0;17:38;RFI
 2026-11-08;9588;FR;Reggio Di Calabria Centrale;S08217;Roma Tiburtina;16:17;-2;0;0;15:38;RFI
 2026-11-08;9588;FR;Reggio Di Calabria Centrale;S08409;Roma Termini;15:55;-2;0;0;15:38;RFI
 2026-11-08;9588;FR;Reggio Di Calabria Centrale;S09818;Salerno;14:24;-1;0;0;13:47;RFI
+2026-11-08;959;REG;Edolo;S01717;Brescia;18:56;-1;0;0;17:38;RFI
 2026-11-08;9591;FR;Firenze Santa Maria Novella;S08409;Roma Termini;08:35;0;0;1;08:58;RFI
 2026-11-08;9600;FR;Milano Centrale;S00219;Torino Porta Nuova;08:55;6;0;0;08:58;RFI
 2026-11-08;9604;FR;Brescia;S01700;Milano Centrale;07:20;-1;0;0;06:48;RFI
@@ -3157,40 +3431,51 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9634;FR;Napoli Centrale;S08409;Roma Termini;12:39;-4;0;0;12:37;RFI
 2026-11-08;9637;FR;Milano Centrale;S05043;Bologna Centrale;15:04;-1;0;0;14:49;RFI
 2026-11-08;9637;FR;Milano Centrale;S08409;Roma Termini;17:10;2;0;0;16:35;RFI
+2026-11-08;9637;FR;Milano Centrale;S09218;Napoli Centrale;18:53;7;0;0;17:38;RFI
 2026-11-08;9638;FR;Napoli Centrale;S01700;Milano Centrale;16:58;-3;0;0;16:35;RFI
 2026-11-08;9638;FR;Napoli Centrale;S05043;Bologna Centrale;15:53;-9;0;0;15:38;RFI
 2026-11-08;9638;FR;Napoli Centrale;S08409;Roma Termini;13:40;-2;0;1;13:47;RFI
 2026-11-08;9639;FR;Milano Centrale;S05043;Bologna Centrale;15:34;1;0;1;15:38;RFI
-2026-11-08;9639;FR;Milano Centrale;S08409;Roma Termini;17:40;9;0;0;16:35;RFI
-2026-11-08;9640;FR;Napoli Centrale;S01700;Milano Centrale;17:30;-6;0;0;16:35;RFI
+2026-11-08;9639;FR;Milano Centrale;S08409;Roma Termini;17:40;3;0;0;17:38;RFI
+2026-11-08;9640;FR;Napoli Centrale;S01700;Milano Centrale;17:30;0;0;1;17:38;RFI
 2026-11-08;9640;FR;Napoli Centrale;S01820;Milano Rogoredo;17:19;-6;0;0;16:35;RFI
 2026-11-08;9640;FR;Napoli Centrale;S08409;Roma Termini;14:05;3;0;0;13:47;RFI
 2026-11-08;9641;FR;Torino Porta Nuova;S01700;Milano Centrale;14:50;1;0;0;14:49;RFI
 2026-11-08;9641;FR;Torino Porta Nuova;S05043;Bologna Centrale;16:04;4;0;0;15:38;RFI
-2026-11-08;9641;FR;Torino Porta Nuova;S08409;Roma Termini;18:13;4;0;0;16:35;RFI
-2026-11-08;9642;FR;Reggio Di Calabria Centrale;S01700;Milano Centrale;17:58;-4;0;0;16:35;RFI
+2026-11-08;9641;FR;Torino Porta Nuova;S08409;Roma Termini;18:13;1;0;0;17:38;RFI
+2026-11-08;9642;FR;Reggio Di Calabria Centrale;S00219;Torino Porta Nuova;19:15;-3;0;0;17:38;RFI
+2026-11-08;9642;FR;Reggio Di Calabria Centrale;S01700;Milano Centrale;17:58;-3;0;0;17:38;RFI
 2026-11-08;9642;FR;Reggio Di Calabria Centrale;S05043;Bologna Centrale;16:53;-4;0;0;16:35;RFI
 2026-11-08;9642;FR;Reggio Di Calabria Centrale;S08409;Roma Termini;14:40;-3;0;1;14:49;RFI
 2026-11-08;9642;FR;Reggio Di Calabria Centrale;S09818;Salerno;13:02;3;0;0;12:37;RFI
 2026-11-08;9643;FR;Milano Centrale;S01820;Milano Rogoredo;15:38;2;0;0;15:38;RFI
 2026-11-08;9643;FR;Milano Centrale;S05043;Bologna Centrale;16:34;8;0;0;16:35;RFI
-2026-11-08;96436;TS;Caserta;S09218;Napoli Centrale;18:13;0;0;0;16:35;RFI
+2026-11-08;9643;FR;Milano Centrale;S08409;Roma Termini;18:40;5;0;0;17:38;RFI
+2026-11-08;96436;TS;Caserta;S09218;Napoli Centrale;18:13;2;0;0;17:38;RFI
+2026-11-08;9644;FR;Roma Termini;S01700;Milano Centrale;18:30;-3;0;0;17:38;RFI
+2026-11-08;9644;FR;Roma Termini;S01820;Milano Rogoredo;18:19;-3;0;0;17:38;RFI
 2026-11-08;9645;FR;Torino Porta Nuova;S01700;Milano Centrale;15:50;-2;0;0;15:38;RFI
 2026-11-08;9645;FR;Torino Porta Nuova;S05043;Bologna Centrale;17:04;-1;0;0;16:35;RFI
-2026-11-08;9646;FR;Napoli Centrale;S05043;Bologna Centrale;17:53;-3;0;0;16:35;RFI
+2026-11-08;9645;FR;Torino Porta Nuova;S08409;Roma Termini;19:15;2;0;0;17:38;RFI
+2026-11-08;9646;FR;Napoli Centrale;S01700;Milano Centrale;19:00;2;0;0;17:38;RFI
+2026-11-08;9646;FR;Napoli Centrale;S05043;Bologna Centrale;17:53;2;0;0;17:38;RFI
 2026-11-08;9646;FR;Napoli Centrale;S08409;Roma Termini;15:40;6;0;0;15:38;RFI
-2026-11-08;9647;FR;Milano Centrale;S05043;Bologna Centrale;17:34;2;0;0;16:35;RFI
+2026-11-08;9647;FR;Milano Centrale;S05043;Bologna Centrale;17:34;-3;0;1;17:38;RFI
 2026-11-08;9648;FR;Napoli Centrale;S08409;Roma Termini;16:10;-3;0;0;15:38;RFI
 2026-11-08;9649;FR;Torino Porta Nuova;S01700;Milano Centrale;16:50;-1;0;0;16:35;RFI
-2026-11-08;9649;FR;Torino Porta Nuova;S05043;Bologna Centrale;18:04;-1;0;0;16:35;RFI
+2026-11-08;9649;FR;Torino Porta Nuova;S05043;Bologna Centrale;18:04;2;0;0;17:38;RFI
 2026-11-08;9652;FR;Napoli Centrale;S08409;Roma Termini;17:10;-3;0;0;16:35;RFI
-2026-11-08;9658;FR;Reggio Di Calabria Centrale;S08409;Roma Termini;17:40;18;0;0;16:35;RFI
+2026-11-08;9653;FR;Milano Centrale;S05043;Bologna Centrale;19:04;0;0;0;17:38;RFI
+2026-11-08;9658;FR;Reggio Di Calabria Centrale;S08409;Roma Termini;17:40;26;0;0;17:38;RFI
 2026-11-08;9658;FR;Reggio Di Calabria Centrale;S09818;Salerno;16:14;17;0;0;15:38;RFI
 2026-11-08;96584;TS;Milano Centrale;S01307;Como S. Giovanni;10:15;5;0;1;10:45;RFI
 2026-11-08;96584;TS;Milano Centrale;S01322;Monza;09:28;0;0;0;08:58;RFI
 2026-11-08;96584;TS;Milano Centrale;S01520;Lecco;11:43;5;0;0;11:41;RFI
-2026-11-08;96586;TS;Lecco;S01307;Como S. Giovanni;17:15;0;0;0;16:35;RFI
-2026-11-08;9660;FR;Napoli Centrale;S08409;Roma Termini;18:05;0;0;0;16:35;RFI
+2026-11-08;96586;TS;Lecco;S01307;Como S. Giovanni;17:15;-1;0;1;17:38;RFI
+2026-11-08;96586;TS;Lecco;S01322;Monza;18:21;-1;0;0;17:38;RFI
+2026-11-08;96586;TS;Lecco;S01700;Milano Centrale;18:45;-1;0;0;17:38;RFI
+2026-11-08;9660;FR;Napoli Centrale;S08409;Roma Termini;18:05;2;0;0;17:38;RFI
+2026-11-08;9662;FR;Napoli Centrale;S08409;Roma Termini;18:35;3;0;0;17:38;RFI
 2026-11-08;9693;FR;Roma Termini;S09218;Napoli Centrale;10:13;-4;0;0;09:49;RFI
 2026-11-08;9700;FR;Venezia S.Lucia;S01700;Milano Centrale;08:12;63;0;0;08:58;RFI
 2026-11-08;9700;FR;Venezia S.Lucia;S01717;Brescia;07:32;63;0;0;07:55;RFI
@@ -3298,37 +3583,56 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9737;FR;Milano Centrale;S01717;Brescia;15:51;4;0;0;15:38;RFI
 2026-11-08;9737;FR;Milano Centrale;S02430;Verona Porta Nuova;16:28;6;0;1;16:35;RFI
 2026-11-08;9737;FR;Milano Centrale;S02581;Padova;17:14;6;0;0;16:35;RFI
-2026-11-08;9740;FR;Venezia S.Lucia;S01700;Milano Centrale;17:15;4;0;0;16:35;RFI
+2026-11-08;9740;FR;Venezia S.Lucia;S01700;Milano Centrale;17:15;4;0;1;17:38;RFI
 2026-11-08;9740;FR;Venezia S.Lucia;S01717;Brescia;16:37;4;0;0;16:35;RFI
 2026-11-08;9740;FR;Venezia S.Lucia;S02430;Verona Porta Nuova;16:00;1;0;0;15:38;RFI
 2026-11-08;9740;FR;Venezia S.Lucia;S02581;Padova;15:14;0;0;0;14:49;RFI
 2026-11-08;9741;FR;Milano Centrale;S01717;Brescia;16:21;9;0;1;16:35;RFI
 2026-11-08;9741;FR;Milano Centrale;S02430;Verona Porta Nuova;16:58;9;0;0;16:35;RFI
-2026-11-08;9741;FR;Milano Centrale;S02581;Padova;17:44;9;0;0;16:35;RFI
-2026-11-08;9741;FR;Milano Centrale;S02593;Venezia S. Lucia;18:14;9;0;0;16:35;RFI
+2026-11-08;9741;FR;Milano Centrale;S02581;Padova;17:44;16;0;0;17:38;RFI
+2026-11-08;9741;FR;Milano Centrale;S02593;Venezia S. Lucia;18:14;16;0;0;17:38;RFI
 2026-11-08;9743;FR;Torino Porta Nuova;S01717;Brescia;16:51;9;0;0;16:35;RFI
-2026-11-08;9743;FR;Torino Porta Nuova;S02430;Verona Porta Nuova;17:28;9;0;0;16:35;RFI
-2026-11-08;9743;FR;Torino Porta Nuova;S02581;Padova;18:14;9;0;0;16:35;RFI
-2026-11-08;9744;FR;Venezia S.Lucia;S01700;Milano Centrale;18:15;1;0;0;16:35;RFI
-2026-11-08;9744;FR;Venezia S.Lucia;S01717;Brescia;17:37;1;0;0;16:35;RFI
+2026-11-08;9743;FR;Torino Porta Nuova;S02430;Verona Porta Nuova;17:28;9;0;1;17:38;RFI
+2026-11-08;9743;FR;Torino Porta Nuova;S02581;Padova;18:14;9;0;0;17:38;RFI
+2026-11-08;9743;FR;Torino Porta Nuova;S02593;Venezia S. Lucia;18:44;9;0;0;17:38;RFI
+2026-11-08;9744;FR;Venezia S.Lucia;S01700;Milano Centrale;18:15;5;0;0;17:38;RFI
+2026-11-08;9744;FR;Venezia S.Lucia;S01717;Brescia;17:37;5;0;0;17:38;RFI
+2026-11-08;9744;FR;Venezia S.Lucia;S01820;Milano Rogoredo;18:35;5;0;0;17:38;RFI
+2026-11-08;9744;FR;Venezia S.Lucia;S01860;Pavia;18:54;5;0;0;17:38;RFI
 2026-11-08;9744;FR;Venezia S.Lucia;S02430;Verona Porta Nuova;17:00;1;0;0;16:35;RFI
 2026-11-08;9744;FR;Venezia S.Lucia;S02581;Padova;16:14;0;0;0;15:38;RFI
 2026-11-08;9747;FR;Milano Centrale;S01717;Brescia;17:21;0;0;0;16:35;RFI
-2026-11-08;9747;FR;Milano Centrale;S02430;Verona Porta Nuova;17:58;0;0;0;16:35;RFI
-2026-11-08;9748;FR;Venezia S.Lucia;S02430;Verona Porta Nuova;18:00;0;0;0;16:35;RFI
+2026-11-08;9747;FR;Milano Centrale;S02430;Verona Porta Nuova;17:58;4;0;0;17:38;RFI
+2026-11-08;9747;FR;Milano Centrale;S02581;Padova;18:44;4;0;0;17:38;RFI
+2026-11-08;9747;FR;Milano Centrale;S02593;Venezia S. Lucia;19:14;4;0;0;17:38;RFI
+2026-11-08;9748;FR;Venezia S.Lucia;S01700;Milano Centrale;19:15;0;0;0;17:38;RFI
+2026-11-08;9748;FR;Venezia S.Lucia;S01717;Brescia;18:37;0;0;0;17:38;RFI
+2026-11-08;9748;FR;Venezia S.Lucia;S02430;Verona Porta Nuova;18:00;0;0;0;17:38;RFI
 2026-11-08;9748;FR;Venezia S.Lucia;S02581;Padova;17:14;0;0;0;16:35;RFI
-2026-11-08;9749;FR;Milano Centrale;S01717;Brescia;17:51;0;0;0;16:35;RFI
-2026-11-08;9750;FR;Venezia S.Lucia;S02581;Padova;17:44;0;0;0;16:35;RFI
-2026-11-08;9752;FR;Venezia S.Lucia;S02581;Padova;18:14;0;0;0;16:35;RFI
+2026-11-08;9749;FR;Milano Centrale;S01717;Brescia;17:51;3;0;0;17:38;RFI
+2026-11-08;9749;FR;Milano Centrale;S02430;Verona Porta Nuova;18:28;3;0;0;17:38;RFI
+2026-11-08;9749;FR;Milano Centrale;S02581;Padova;19:14;3;0;0;17:38;RFI
+2026-11-08;9750;FR;Venezia S.Lucia;S01717;Brescia;19:07;2;0;0;17:38;RFI
+2026-11-08;9750;FR;Venezia S.Lucia;S02430;Verona Porta Nuova;18:30;2;0;0;17:38;RFI
+2026-11-08;9750;FR;Venezia S.Lucia;S02581;Padova;17:44;2;0;0;17:38;RFI
+2026-11-08;9751;FR;Milano Centrale;S01717;Brescia;18:21;0;0;0;17:38;RFI
+2026-11-08;9751;FR;Milano Centrale;S02430;Verona Porta Nuova;18:58;0;0;0;17:38;RFI
+2026-11-08;9752;FR;Venezia S.Lucia;S02430;Verona Porta Nuova;19:00;0;0;0;17:38;RFI
+2026-11-08;9752;FR;Venezia S.Lucia;S02581;Padova;18:14;0;0;0;17:38;RFI
+2026-11-08;9753;FR;Torino Porta Nuova;S01717;Brescia;18:51;2;0;0;17:38;RFI
+2026-11-08;9754;FR;Venezia S.Lucia;S02581;Padova;18:44;0;0;0;17:38;RFI
+2026-11-08;9758;FR;Trieste Centrale;S02581;Padova;19:14;1;0;0;17:38;RFI
 2026-11-08;9802;FR;Pescara;S01700;Milano Centrale;09:35;1;0;1;09:49;RFI
 2026-11-08;9802;FR;Pescara;S05043;Bologna Centrale;08:10;1;0;0;07:55;RFI
 2026-11-08;9805;FR;Torino Porta Nuova;S01820;Milano Rogoredo;10:43;-12;0;1;10:45;RFI
 2026-11-08;9805;FR;Torino Porta Nuova;S05043;Bologna Centrale;11:42;5;0;0;11:41;RFI
-2026-11-08;9805;FR;Torino Porta Nuova;S11119;Bari Centrale;17:27;6;0;0;16:35;RFI
+2026-11-08;9805;FR;Torino Porta Nuova;S11119;Bari Centrale;17:27;22;0;0;17:38;RFI
 2026-11-08;9806;FR;Bari Centrale;S01700;Milano Centrale;13:25;1;0;0;12:37;RFI
 2026-11-08;9806;FR;Bari Centrale;S05043;Bologna Centrale;12:15;-3;0;0;11:41;RFI
+2026-11-08;9808;FR;Lecce;S05043;Bologna Centrale;19:15;3;0;0;17:38;RFI
 2026-11-08;9808;FR;Lecce;S11119;Bari Centrale;13:26;0;0;0;12:37;RFI
 2026-11-08;9809;FR;Milano Centrale;S05043;Bologna Centrale;16:50;11;0;0;16:35;RFI
+2026-11-08;9811;FR;Milano Centrale;S05043;Bologna Centrale;18:42;3;0;0;17:38;RFI
 2026-11-08;9903;ITA;Roma Termini;ITNAC;Napoli Centrale;09:03;0;0;0;08:58;Italo
 2026-11-08;9904;ITA;Milano Centrale;ITOUE;Torino Porta Susa;10:18;0;0;0;09:49;Italo
 2026-11-08;9904;ITA;Milano Centrale;ITTOP;Torino Porta Nuova;10:30;15;0;1;10:45;Italo
@@ -3438,7 +3742,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9935;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;13:26;5;0;0;12:37;Italo
 2026-11-08;9935;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;13:54;5;0;0;13:47;Italo
 2026-11-08;9935;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;12:30;10;0;0;12:37;Italo
-2026-11-08;9935;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;17:50;0;0;0;16:35;Italo
+2026-11-08;9935;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;17:50;0;0;0;17:38;Italo
 2026-11-08;9935;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;11:38;0;0;0;10:45;Italo
 2026-11-08;9935;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;12:48;10;0;0;12:37;Italo
 2026-11-08;9935;ITA;Torino Porta Nuova;ITRMT;Roma Termini;16:19;0;0;0;15:38;Italo
@@ -3453,56 +3757,71 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9939;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;15:35;0;0;1;15:38;Italo
 2026-11-08;9940;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;17:28;0;0;0;16:35;Italo
 2026-11-08;9940;ITA;Napoli Centrale;ITBC_;Bologna Centrale;17:03;0;0;0;16:35;Italo
-2026-11-08;9940;ITA;Napoli Centrale;ITMC_;Milano Centrale;18:20;0;0;0;16:35;Italo
-2026-11-08;9940;ITA;Napoli Centrale;ITOUE;Torino Porta Susa;19:19;0;0;0;16:35;Italo
+2026-11-08;9940;ITA;Napoli Centrale;ITMC_;Milano Centrale;18:20;0;0;0;17:38;Italo
+2026-11-08;9940;ITA;Napoli Centrale;ITOUE;Torino Porta Susa;19:19;0;0;0;17:38;Italo
+2026-11-08;9940;ITA;Napoli Centrale;ITRG_;Milano Rogoredo;18:09;0;0;0;17:38;Italo
 2026-11-08;9940;ITA;Napoli Centrale;ITRMT;Roma Termini;14:30;0;0;0;13:47;Italo
 2026-11-08;9940;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;14:47;0;0;1;14:49;Italo
 2026-11-08;9940;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;16:17;0;0;0;15:38;Italo
-2026-11-08;9940;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;19:30;0;0;0;16:35;Italo
-2026-11-08;9944;ITA;Roma Termini;ITRTB;Roma Tiburtina;18:36;0;0;0;16:35;Italo
-2026-11-08;9946;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;18:33;0;0;0;16:35;Italo
-2026-11-08;9946;ITA;Napoli Centrale;ITBC_;Bologna Centrale;18:03;0;0;0;16:35;Italo
-2026-11-08;9946;ITA;Napoli Centrale;ITOUE;Torino Porta Susa;20:19;0;0;0;16:35;Italo
+2026-11-08;9940;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;19:30;0;0;0;17:38;Italo
+2026-11-08;9944;ITA;Roma Termini;ITBC_;Bologna Centrale;20:38;0;0;0;17:38;Italo
+2026-11-08;9944;ITA;Roma Termini;ITRTB;Roma Tiburtina;18:36;0;0;0;17:38;Italo
+2026-11-08;9946;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;18:33;0;0;0;17:38;Italo
+2026-11-08;9946;ITA;Napoli Centrale;ITBC_;Bologna Centrale;18:03;0;0;0;17:38;Italo
+2026-11-08;9946;ITA;Napoli Centrale;ITMC_;Milano Centrale;19:20;0;0;0;17:38;Italo
+2026-11-08;9946;ITA;Napoli Centrale;ITOUE;Torino Porta Susa;20:19;0;0;0;17:38;Italo
+2026-11-08;9946;ITA;Napoli Centrale;ITRG_;Milano Rogoredo;19:09;0;0;0;17:38;Italo
 2026-11-08;9946;ITA;Napoli Centrale;ITRMT;Roma Termini;15:30;0;0;0;14:49;Italo
 2026-11-08;9946;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;15:47;0;0;0;15:38;Italo
 2026-11-08;9946;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;17:17;0;0;0;16:35;Italo
-2026-11-08;9946;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;20:30;0;0;0;16:35;Italo
+2026-11-08;9946;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;20:30;0;0;0;17:38;Italo
 2026-11-08;9947;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;16:26;5;0;1;16:35;Italo
 2026-11-08;9947;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;16:54;0;0;0;16:35;Italo
 2026-11-08;9947;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;15:30;0;0;0;14:49;Italo
 2026-11-08;9947;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;14:38;0;0;0;13:47;Italo
 2026-11-08;9947;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;15:48;0;0;0;15:38;Italo
-2026-11-08;9947;ITA;Torino Porta Nuova;ITRTB;Roma Tiburtina;19:09;0;0;0;16:35;Italo
-2026-11-08;9947;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;17:35;0;0;0;16:35;Italo
-2026-11-08;9948;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;19:28;0;0;0;16:35;Italo
-2026-11-08;9948;ITA;Napoli Centrale;ITBC_;Bologna Centrale;19:03;0;0;0;16:35;Italo
+2026-11-08;9947;ITA;Torino Porta Nuova;ITRTB;Roma Tiburtina;19:09;0;0;0;17:38;Italo
+2026-11-08;9947;ITA;Torino Porta Nuova;ITSAL;Salerno;21:00;0;0;0;17:38;Italo
+2026-11-08;9947;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;17:35;0;0;1;17:38;Italo
+2026-11-08;9948;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;19:28;0;0;0;17:38;Italo
+2026-11-08;9948;ITA;Napoli Centrale;ITBC_;Bologna Centrale;19:03;0;0;0;17:38;Italo
 2026-11-08;9948;ITA;Napoli Centrale;ITRMT;Roma Termini;16:30;0;0;0;15:38;Italo
 2026-11-08;9948;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;16:47;0;0;0;16:35;Italo
-2026-11-08;9948;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;18:17;0;0;0;16:35;Italo
+2026-11-08;9948;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;18:17;0;0;0;17:38;Italo
+2026-11-08;9950;ITA;Salerno;ITMC_;Milano Centrale;19:15;0;0;0;17:38;Italo
+2026-11-08;9950;ITA;Salerno;ITRG_;Milano Rogoredo;19:04;0;0;0;17:38;Italo
 2026-11-08;9950;ITA;Salerno;ITRMT;Roma Termini;15:45;0;0;0;15:38;Italo
 2026-11-08;9951;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;17:26;0;0;0;16:35;Italo
-2026-11-08;9951;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;17:54;0;0;0;16:35;Italo
+2026-11-08;9951;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;17:54;0;0;0;17:38;Italo
 2026-11-08;9951;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;16:30;0;0;0;15:38;Italo
 2026-11-08;9951;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;15:38;0;0;1;15:38;Italo
 2026-11-08;9951;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;16:48;0;0;0;16:35;Italo
-2026-11-08;9951;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;18:35;0;0;0;16:35;Italo
-2026-11-08;9954;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;21:28;0;0;0;16:35;Italo
-2026-11-08;9954;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;18:48;0;0;0;16:35;Italo
-2026-11-08;9955;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;18:26;0;0;0;16:35;Italo
-2026-11-08;9955;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;18:54;0;0;0;16:35;Italo
+2026-11-08;9951;ITA;Torino Porta Nuova;ITRTB;Roma Tiburtina;20:09;0;0;0;17:38;Italo
+2026-11-08;9951;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;18:35;0;0;0;17:38;Italo
+2026-11-08;9954;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;21:28;0;0;0;17:38;Italo
+2026-11-08;9954;ITA;Napoli Centrale;ITRMT;Roma Termini;18:30;0;0;0;17:38;Italo
+2026-11-08;9954;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;18:48;0;0;0;17:38;Italo
+2026-11-08;9955;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;18:26;0;0;0;17:38;Italo
+2026-11-08;9955;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;18:54;0;0;0;17:38;Italo
 2026-11-08;9955;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;17:30;0;0;0;16:35;Italo
 2026-11-08;9955;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;16:38;0;0;0;16:35;Italo
-2026-11-08;9955;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;17:48;0;0;0;16:35;Italo
-2026-11-08;9958;ITA;Benevento;ITAAV;Reggio Emilia AV;20:28;0;0;0;16:35;Italo
+2026-11-08;9955;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;17:48;0;0;0;17:38;Italo
+2026-11-08;9955;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;19:35;0;0;0;17:38;Italo
+2026-11-08;9958;ITA;Benevento;ITAAV;Reggio Emilia AV;20:28;0;0;0;17:38;Italo
+2026-11-08;9958;ITA;Benevento;ITBC_;Bologna Centrale;20:03;0;0;0;17:38;Italo
 2026-11-08;9958;ITA;Benevento;ITRMT;Roma Termini;17:29;0;0;0;16:35;Italo
-2026-11-08;9959;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;19:26;0;0;0;16:35;Italo
-2026-11-08;9959;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;18:30;0;0;0;16:35;Italo
+2026-11-08;9958;ITA;Benevento;ITSMN;Firenze S.M.N.;19:17;0;0;0;17:38;Italo
+2026-11-08;9959;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;19:26;0;0;0;17:38;Italo
+2026-11-08;9959;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;19:54;0;0;0;17:38;Italo
+2026-11-08;9959;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;18:30;0;0;0;17:38;Italo
 2026-11-08;9959;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;17:23;0;0;0;16:35;Italo
-2026-11-08;9961;ITA;Milano Centrale;ITAAV;Reggio Emilia AV;20:26;0;0;0;16:35;Italo
+2026-11-08;9961;ITA;Milano Centrale;ITAAV;Reggio Emilia AV;20:26;0;0;0;17:38;Italo
+2026-11-08;9961;ITA;Milano Centrale;ITBC_;Bologna Centrale;20:54;0;0;0;17:38;Italo
 2026-11-08;9962;ITA;Salerno;ITMC_;Milano Centrale;00:20;0;0;1;01:58;Italo
 2026-11-08;9962;ITA;Salerno;ITRG_;Milano Rogoredo;00:09;0;0;1;00:09;Italo
-2026-11-08;9963;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;21:26;0;0;0;16:35;Italo
-2026-11-08;9963;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;19:33;0;0;0;16:35;Italo
+2026-11-08;9962;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;20:47;0;0;0;17:38;Italo
+2026-11-08;9963;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;21:26;0;0;0;17:38;Italo
+2026-11-08;9963;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;19:33;0;0;0;17:38;Italo
 2026-11-08;9963;ITA;Torino Porta Nuova;ITRMT;Roma Termini;00:24;0;0;0;00:09;Italo
 2026-11-08;9963;ITA;Torino Porta Nuova;ITRTB;Roma Tiburtina;00:09;0;0;1;00:09;Italo
 2026-11-08;9967;ITA;Milano Centrale;ITNAC;Napoli Centrale;11:06;0;0;0;10:45;Italo
@@ -3553,17 +3872,21 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-08;9985;ITA;Milano Centrale;ITRG_;Milano Rogoredo;14:28;0;0;0;13:47;Italo
 2026-11-08;9985;ITA;Milano Centrale;ITRMT;Roma Termini;17:30;0;0;0;16:35;Italo
 2026-11-08;9986;ITA;Roma Termini;ITBC_;Bologna Centrale;17:08;0;0;0;16:35;Italo
-2026-11-08;9986;ITA;Roma Termini;ITMC_;Milano Centrale;18:15;0;0;0;16:35;Italo
-2026-11-08;9987;ITA;Milano Centrale;ITNAC;Napoli Centrale;20:03;0;0;0;16:35;Italo
+2026-11-08;9986;ITA;Roma Termini;ITMC_;Milano Centrale;18:15;0;0;0;17:38;Italo
+2026-11-08;9987;ITA;Milano Centrale;ITNAC;Napoli Centrale;20:03;0;0;0;17:38;Italo
 2026-11-08;9987;ITA;Milano Centrale;ITRG_;Milano Rogoredo;15:23;0;0;0;14:49;Italo
-2026-11-08;9989;ITA;Milano Centrale;ITNAC;Napoli Centrale;21:08;0;0;0;16:35;Italo
+2026-11-08;9987;ITA;Milano Centrale;ITRMT;Roma Termini;18:25;0;0;0;17:38;Italo
+2026-11-08;9989;ITA;Milano Centrale;ITNAC;Napoli Centrale;21:08;0;0;0;17:38;Italo
 2026-11-08;9989;ITA;Milano Centrale;ITRG_;Milano Rogoredo;16:23;0;0;0;15:38;Italo
-2026-11-08;9990;ITA;Roma Termini;ITBC_;Bologna Centrale;19:08;0;0;0;16:35;Italo
+2026-11-08;9990;ITA;Roma Termini;ITBC_;Bologna Centrale;19:08;0;0;0;17:38;Italo
 2026-11-08;9991;ITA;Milano Centrale;ITRG_;Milano Rogoredo;17:23;0;0;0;16:35;Italo
-2026-11-08;9992;ITA;Salerno;ITRMT;Roma Termini;17:35;0;0;0;16:35;Italo
-2026-11-08;9993;ITA;Milano Centrale;ITBC_;Bologna Centrale;18:49;0;0;0;16:35;Italo
+2026-11-08;9992;ITA;Salerno;ITRMT;Roma Termini;17:35;0;0;1;17:38;Italo
+2026-11-08;9993;ITA;Milano Centrale;ITBC_;Bologna Centrale;18:49;0;0;0;17:38;Italo
+2026-11-08;9993;ITA;Milano Centrale;ITRTB;Roma Tiburtina;20:49;0;0;0;17:38;Italo
+2026-11-08;9994;ITA;Napoli Centrale;ITRMT;Roma Termini;18:45;0;0;0;17:38;Italo
 2026-11-08;9994;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;23:30;0;0;0;01:58;Italo
-2026-11-08;9997;ITA;Milano Centrale;ITBC_;Bologna Centrale;19:49;0;0;0;16:35;Italo
+2026-11-08;9995;ITA;Milano Centrale;ITRG_;Milano Rogoredo;18:28;0;0;0;17:38;Italo
+2026-11-08;9997;ITA;Milano Centrale;ITBC_;Bologna Centrale;19:49;0;0;0;17:38;Italo
 2026-11-08;9998;ITA;Genova Brignole;ITMC_;Milano Centrale;08:05;0;0;0;07:55;Italo
 2026-11-08;9998;ITA;Genova Brignole;ITNAC;Napoli Centrale;13:13;0;0;0;12:37;Italo
 2026-11-08;9998;ITA;Genova Brignole;ITRG_;Milano Rogoredo;08:23;0;0;0;07:55;Italo
