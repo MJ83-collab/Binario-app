@@ -2653,7 +2653,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-10;24573;S5;Varese;S01708;Treviglio;21:52;-4;0;1;23:41;Trenord-RFI
 2026-11-10;24574;REG;Treviglio;S01205;Varese;22:51;-2;0;1;22:55;RFI
 2026-11-10;24575;S5;Varese;S01708;Treviglio;22:18;1;0;1;23:41;Trenord-RFI
-2026-11-10;24576;REG;Treviglio;S01205;Varese;23:21;3;0;0;23:41;RFI
+2026-11-10;24576;REG;Treviglio;S01205;Varese;23:21;3;0;0;00:16;RFI
 2026-11-10;24577;S5;Varese;S01708;Treviglio;22:50;0;0;1;23:41;Trenord-RFI
 2026-11-10;24578;S5;Treviglio;S01205;Varese;23:51;2;0;1;23:41;Trenord-RFI
 2026-11-10;24579;S5;Varese;S01708;Treviglio;23:20;-4;0;1;23:41;Trenord-RFI
@@ -3523,7 +3523,7 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-10;26383;REG;Susa;S00219;Torino Porta Nuova;20:15;9;0;0;19:49;RFI
 2026-11-10;26385;REG;Susa;S00219;Torino Porta Nuova;21:15;4;0;1;21:44;RFI
 2026-11-10;26387;REG;Susa;S00219;Torino Porta Nuova;22:15;-2;0;1;22:40;RFI
-2026-11-10;26389;REG;Susa;S00219;Torino Porta Nuova;23:15;1;0;0;23:41;RFI
+2026-11-10;26389;REG;Susa;S00219;Torino Porta Nuova;23:15;1;0;0;00:16;RFI
 2026-11-10;2639;REG;Milano Centrale;S01717;Brescia;20:31;3;0;0;19:49;RFI
 2026-11-10;2639;REG;Milano Centrale;S02430;Verona Porta Nuova;21:17;2;0;1;21:44;RFI
 2026-11-10;26397;REG;Bussoleno;S00219;Torino Porta Nuova;08:01;1;0;1;08:03;RFI
@@ -3806,11 +3806,11 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-10;2983;RE;Gallarate;S01700;Milano Centrale;23:07;-2;0;1;23:41;Trenord-RFI
 2026-11-10;2983;REG;Gallarate;S01933;Saronno;22:35;2;0;1;22:40;RFI
 2026-11-10;2984;RE;Milano Centrale;S01030;Gallarate;23:36;0;0;1;23:41;Trenord-RFI
-2026-11-10;2984;REG;Milano Centrale;S01933;Saronno;22:54;3;0;0;23:41;RFI
+2026-11-10;2984;REG;Milano Centrale;S01933;Saronno;22:54;3;0;0;00:16;RFI
 2026-11-10;2985;REG;Saronno;S01700;Milano Centrale;23:37;-2;0;1;23:41;RFI
 2026-11-10;2986;RE;Milano Centrale;S01030;Gallarate;00:06;0;0;1;23:41;Trenord-RFI
-2026-11-10;2986;REG;Milano Centrale;S01933;Saronno;23:24;3;0;0;23:41;RFI
-2026-11-10;2988;REG;Milano Centrale;S01933;Saronno;23:54;2;0;0;23:41;RFI
+2026-11-10;2986;REG;Milano Centrale;S01933;Saronno;23:24;3;0;0;00:16;RFI
+2026-11-10;2988;REG;Milano Centrale;S01933;Saronno;23:54;2;0;0;00:16;RFI
 2026-11-10;30;EC;Firenze Santa Maria Novella;S01307;Como S. Giovanni;12:49;4;0;0;12:50;RFI
 2026-11-10;30;EC;Firenze Santa Maria Novella;S01820;Milano Rogoredo;11:45;-1;0;1;11:52;RFI
 2026-11-10;30;REG;Laveno Mombello Lago;S01933;Saronno;09:47;-1;0;0;09:16;RFI
@@ -5574,9 +5574,9 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-10;90024;REG;Vignola;S05043;Bologna Centrale;17:59;-1;0;0;21:44;RFI
 2026-11-10;90026;REG;Vignola;S05043;Bologna Centrale;18:59;-1;0;0;22:40;RFI
 2026-11-10;90028;REG;Vignola;S05043;Bologna Centrale;19:59;-3;0;0;23:41;RFI
-2026-11-10;90030;REG;Vignola;S05043;Bologna Centrale;20:59;-1;0;0;23:41;RFI
-2026-11-10;90032;REG;Vignola;S05043;Bologna Centrale;21:59;1;0;0;23:41;RFI
-2026-11-10;90034;REG;Vignola;S05043;Bologna Centrale;22:33;-2;0;0;23:41;RFI
+2026-11-10;90030;REG;Vignola;S05043;Bologna Centrale;20:59;-1;0;0;00:16;RFI
+2026-11-10;90032;REG;Vignola;S05043;Bologna Centrale;21:59;1;0;0;00:16;RFI
+2026-11-10;90034;REG;Vignola;S05043;Bologna Centrale;22:33;-2;0;0;00:16;RFI
 2026-11-10;90036;REG;Bazzano (Fer);S05043;Bologna Centrale;10:34;1;0;0;13:58;RFI
 2026-11-10;90038;REG;Bazzano (Fer);S05043;Bologna Centrale;12:34;0;1;0;11:52;RFI
 2026-11-10;90040;REG;Bazzano (Fer);S05043;Bologna Centrale;15:34;3;0;0;18:46;RFI

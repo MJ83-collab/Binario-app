@@ -1,22 +1,33 @@
 giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;visto;fonte
-2026-11-11;16866;REG;Venezia S.Lucia;S02581;Padova;00:30;0;0;0;23:41;RFI
-2026-11-11;24186;REG;Lodi;S01820;Milano Rogoredo;00:25;0;0;0;23:41;RFI
-2026-11-11;24383;REG;Milano Bovisa Politecnico;S01860;Pavia;00:21;1;0;0;23:41;RFI
-2026-11-11;24386;REG;Pavia;S01820;Milano Rogoredo;00:06;2;0;0;23:41;RFI
-2026-11-11;24580;REG;Treviglio;S01205;Varese;00:21;2;0;0;23:41;RFI
-2026-11-11;2485;REG;Milano Porta Garibaldi;S05043;Bologna Centrale;00:33;2;0;0;23:41;RFI
-2026-11-11;24886;REG;Milano Centrale;S01520;Lecco;00:24;4;0;0;23:41;RFI
-2026-11-11;25192;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;00:10;0;0;0;23:41;RFI
-2026-11-11;25592;REG;Busto Arsizio;S01205;Varese;00:00;1;0;0;23:41;RFI
+2026-11-11;16866;REG;Venezia S.Lucia;S02581;Padova;00:30;-1;0;0;00:16;RFI
+2026-11-11;24186;REG;Lodi;S01820;Milano Rogoredo;00:25;-3;0;0;00:16;RFI
+2026-11-11;24383;REG;Milano Bovisa Politecnico;S01860;Pavia;00:21;3;0;0;00:16;RFI
+2026-11-11;24386;REG;Pavia;S01820;Milano Rogoredo;00:06;2;0;1;00:16;RFI
+2026-11-11;24580;REG;Treviglio;S01205;Varese;00:21;1;0;0;00:16;RFI
+2026-11-11;2485;REG;Milano Porta Garibaldi;S05043;Bologna Centrale;00:33;6;0;0;00:16;RFI
+2026-11-11;24886;REG;Milano Centrale;S01520;Lecco;00:24;-1;0;0;00:16;RFI
+2026-11-11;25192;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;00:10;-1;0;1;00:16;RFI
+2026-11-11;25592;REG;Busto Arsizio;S01205;Varese;00:00;0;0;1;00:16;RFI
 2026-11-11;33173;REG;Como S.Giovanni;S01322;Monza;00:01;0;1;0;23:41;RFI
-2026-11-11;33193;REG;Seregno;S01322;Monza;00:31;0;0;0;23:41;RFI
-2026-11-11;33303;REG;Milano Centrale;S01717;Brescia;00:33;2;0;0;23:41;RFI
-2026-11-11;4113;REG;Firenze Santa Maria Novella;S08217;Roma Tiburtina;00:34;14;0;0;23:41;RFI
-2026-11-11;4113;REG;Firenze Santa Maria Novella;S08409;Roma Termini;01:06;14;0;0;23:41;RFI
-2026-11-11;597;IC;Milano Centrale;S09818;Salerno;00:35;1;0;0;23:41;RFI
-2026-11-11;801;REG;Milano Cadorna;S01933;Saronno;00:37;0;0;0;23:41;RFI
-2026-11-11;803;REG;Milano Cadorna;S01933;Saronno;01:07;0;0;0;23:41;RFI
-2026-11-11;8596;FA;Roma Termini;S04700;Genova Piazza Principe;00:37;14;0;0;23:41;RFI
-2026-11-11;897;REG;Milano Cadorna;S01933;Saronno;00:07;1;0;0;23:41;RFI
-2026-11-11;9330;FR;Roma Termini;S01700;Milano Centrale;00:25;7;0;0;23:41;RFI
-2026-11-11;9663;FR;Milano Centrale;S09218;Napoli Centrale;00:03;16;0;0;23:41;RFI
+2026-11-11;33193;REG;Seregno;S01322;Monza;00:31;0;0;0;00:16;RFI
+2026-11-11;33303;REG;Milano Centrale;S01717;Brescia;00:33;9;0;0;00:16;RFI
+2026-11-11;33577;REG;Milano Centrale;S01717;Brescia;01:35;1;0;0;00:16;RFI
+2026-11-11;4113;REG;Firenze Santa Maria Novella;S08217;Roma Tiburtina;00:34;15;0;0;00:16;RFI
+2026-11-11;4113;REG;Firenze Santa Maria Novella;S08409;Roma Termini;01:06;15;0;0;00:16;RFI
+2026-11-11;597;IC;Milano Centrale;S09818;Salerno;00:35;7;0;0;00:16;RFI
+2026-11-11;801;REG;Milano Cadorna;S01933;Saronno;00:37;1;0;0;00:16;RFI
+2026-11-11;803;REG;Milano Cadorna;S01933;Saronno;01:07;0;0;0;00:16;RFI
+2026-11-11;8596;FA;Roma Termini;S04700;Genova Piazza Principe;00:37;22;0;0;00:16;RFI
+2026-11-11;897;REG;Milano Cadorna;S01933;Saronno;00:07;0;0;1;00:16;RFI
+2026-11-11;8997;ITA;Milano Centrale;ITVEM;Venezia Mestre;21:52;5;0;0;00:16;Italo
+2026-11-11;8997;ITA;Milano Centrale;ITVSL;Venezia S. Lucia;22:05;5;0;0;00:16;Italo
+2026-11-11;9330;FR;Roma Termini;S01700;Milano Centrale;00:25;0;0;0;00:16;RFI
+2026-11-11;94214;ITA;Torino Stura;ITTOP;Torino Porta Nuova;00:40;0;0;0;00:16;Italo
+2026-11-11;9663;FR;Milano Centrale;S09218;Napoli Centrale;00:03;6;0;1;00:16;RFI
+2026-11-11;9951;ITA;Torino Porta Nuova;ITSAL;Salerno;22:32;50;0;0;00:16;Italo
+2026-11-11;9959;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;23:43;5;0;0;00:16;Italo
+2026-11-11;9962;ITA;Salerno;ITAAV;Reggio Emilia AV;23:28;0;0;0;00:16;Italo
+2026-11-11;9962;ITA;Salerno;ITMC_;Milano Centrale;00:20;0;0;0;00:16;Italo
+2026-11-11;9962;ITA;Salerno;ITRG_;Milano Rogoredo;00:09;0;0;1;00:16;Italo
+2026-11-11;9963;ITA;Torino Porta Nuova;ITRMT;Roma Termini;00:24;0;0;0;00:16;Italo
+2026-11-11;9963;ITA;Torino Porta Nuova;ITRTB;Roma Tiburtina;00:09;0;0;1;00:16;Italo
