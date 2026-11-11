@@ -2417,12 +2417,12 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9961;ITA;Milano Centrale;ITRMT;Roma Termini;1;0;0.0;100.0;2026-11-10:0;Italo
 9961;ITA;Milano Centrale;ITRTB;Roma Tiburtina;6;0;0.8;100.0;2026-11-05:0|2026-11-06:5|2026-11-07:0|2026-11-08:0|2026-11-09:0|2026-11-10:0;Italo
 9961;ITA;Milano Centrale;ITSMN;Firenze S.M.N.;2;0;2.5;100.0;2026-11-06:5|2026-11-08:0;Italo
-9962;ITA;Salerno;ITMC_;Milano Centrale;5;0;0.0;100.0;2026-11-06:0|2026-11-07:0|2026-11-08:0|2026-11-09:0|2026-11-10:0;Italo
+9962;ITA;Salerno;ITMC_;Milano Centrale;6;0;0.0;100.0;2026-11-06:0|2026-11-07:0|2026-11-08:0|2026-11-09:0|2026-11-10:0|2026-11-11:0;Italo
 9962;ITA;Salerno;ITRG_;Milano Rogoredo;6;0;0.0;100.0;2026-11-06:0|2026-11-07:0|2026-11-08:0|2026-11-09:0|2026-11-10:0|2026-11-11:0;Italo
 9962;ITA;Salerno;ITRTB;Roma Tiburtina;3;0;0.0;100.0;2026-11-05:0|2026-11-06:0|2026-11-10:0;Italo
 9963;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;1;0;10.0;0.0;2026-11-08:10;Italo
 9963;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;1;0;5.0;100.0;2026-11-07:5;Italo
-9963;ITA;Torino Porta Nuova;ITRMT;Roma Termini;4;0;0.0;100.0;2026-11-06:0|2026-11-07:0|2026-11-09:0|2026-11-10:0;Italo
+9963;ITA;Torino Porta Nuova;ITRMT;Roma Termini;5;0;0.0;100.0;2026-11-06:0|2026-11-07:0|2026-11-09:0|2026-11-10:0|2026-11-11:0;Italo
 9963;ITA;Torino Porta Nuova;ITRTB;Roma Tiburtina;6;0;0.0;100.0;2026-11-06:0|2026-11-07:0|2026-11-08:0|2026-11-09:0|2026-11-10:0|2026-11-11:0;Italo
 9963;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;3;0;0.0;100.0;2026-11-07:0|2026-11-08:0|2026-11-10:0;Italo
 9967;ITA;Milano Centrale;ITNAC;Napoli Centrale;1;0;0.0;100.0;2026-11-10:0;Italo
@@ -4702,6 +4702,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 94081;REG;Colico;S01322;Monza;1;1;0.0;0.0;2026-11-06:S;RFI
 94081;REG;Colico;S01520;Lecco;3;1;-2.0;100.0;2026-11-05:-2|2026-11-06:S|2026-11-09:-2;RFI
 94170;REG;Milano Rogoredo;S01933;Saronno;2;0;0.0;100.0;2026-11-07:0|2026-11-08:0;RFI
+94214;ITA;Torino Stura;ITTOP;Torino Porta Nuova;1;0;0.0;100.0;2026-11-11:0;Italo
 94298;REG;Milano Rogoredo;S01933;Saronno;1;0;0.0;100.0;2026-11-08:0;RFI
 94299;REG;Saronno;S01322;Monza;1;0;-1.0;100.0;2026-11-08:-1;RFI
 94450;REG;Faenza;S06421;Firenze S.M.N.;2;0;8.0;50.0;2026-11-06:2|2026-11-09:14;RFI
