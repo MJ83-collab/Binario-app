@@ -1594,13 +1594,14 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-11;811;REG;Milano Cadorna;S01933;Saronno;06:37;0;0;1;06:57;RFI
 2026-11-11;8111;ITA;Milano Centrale;ITAAV;Reggio Emilia AV;07:26;0;0;0;06:57;Italo
 2026-11-11;8111;ITA;Milano Centrale;ITBC_;Bologna Centrale;07:54;10;0;1;08:09;Italo
-2026-11-11;8111;ITA;Milano Centrale;ITNAC;Napoli Centrale;11:43;0;0;0;09:54;Italo
+2026-11-11;8111;ITA;Milano Centrale;ITNAC;Napoli Centrale;11:43;15;0;0;10:57;Italo
 2026-11-11;8111;ITA;Milano Centrale;ITRMT;Roma Termini;10:19;10;0;0;09:54;Italo
-2026-11-11;8111;ITA;Milano Centrale;ITSAL;Salerno;12:44;0;0;0;09:54;Italo
+2026-11-11;8111;ITA;Milano Centrale;ITSAL;Salerno;12:44;0;0;0;10:57;Italo
 2026-11-11;8111;ITA;Milano Centrale;ITSMN;Firenze S.M.N.;08:35;0;0;0;08:09;Italo
 2026-11-11;813;REG;Milano Cadorna;S01933;Saronno;07:07;5;0;0;06:57;RFI
-2026-11-11;8134;ITA;Reggio Di Calabria Centrale;ITNAC;Napoli Centrale;11:58;0;0;0;09:54;Italo
-2026-11-11;8134;ITA;Reggio Di Calabria Centrale;ITSAL;Salerno;11:19;0;0;0;09:54;Italo
+2026-11-11;8134;ITA;Reggio Di Calabria Centrale;ITNAC;Napoli Centrale;11:58;0;0;0;10:57;Italo
+2026-11-11;8134;ITA;Reggio Di Calabria Centrale;ITSAL;Salerno;11:19;0;0;0;10:57;Italo
+2026-11-11;8143;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;15:26;0;0;0;10:57;Italo
 2026-11-11;815;REG;Milano Cadorna;S01933;Saronno;07:37;0;0;0;06:57;RFI
 2026-11-11;817;REG;Milano Cadorna;S01933;Saronno;08:07;7;0;0;08:09;RFI
 2026-11-11;821;REG;Milano Cadorna;S01933;Saronno;08:37;4;0;0;08:09;RFI
@@ -1680,57 +1681,76 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-11;8900;ITA;Roma Termini;ITRTB;Roma Tiburtina;06:02;0;0;0;05:57;Italo
 2026-11-11;8900;ITA;Roma Termini;ITSMN;Firenze S.M.N.;07:31;0;0;0;06:57;Italo
 2026-11-11;8900;ITA;Roma Termini;ITVSL;Venezia S. Lucia;09:55;0;0;0;09:54;Italo
-2026-11-11;8902;ITA;Trieste Centrale;ITBC_;Bologna Centrale;11:39;0;0;0;09:54;Italo
+2026-11-11;8902;ITA;Trieste Centrale;ITBC_;Bologna Centrale;11:39;0;0;0;10:57;Italo
 2026-11-11;8902;ITA;Trieste Centrale;ITPD_;Padova;10:33;0;0;0;09:54;Italo
+2026-11-11;8902;ITA;Trieste Centrale;ITSMN;Firenze S.M.N.;12:20;0;0;0;10:57;Italo
 2026-11-11;8902;ITA;Trieste Centrale;ITVEM;Venezia Mestre;09:55;0;0;0;09:54;Italo
 2026-11-11;8903;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;08:39;0;0;0;08:09;Italo
-2026-11-11;8903;ITA;Venezia S.Lucia;ITNAC;Napoli Centrale;12:28;0;0;0;09:54;Italo
+2026-11-11;8903;ITA;Venezia S.Lucia;ITNAC;Napoli Centrale;12:28;0;0;0;10:57;Italo
 2026-11-11;8903;ITA;Venezia S.Lucia;ITPD_;Padova;07:33;0;0;0;06:57;Italo
-2026-11-11;8903;ITA;Venezia S.Lucia;ITRMT;Roma Termini;11:05;0;0;0;09:54;Italo
+2026-11-11;8903;ITA;Venezia S.Lucia;ITRMT;Roma Termini;11:05;0;0;0;10:57;Italo
 2026-11-11;8903;ITA;Venezia S.Lucia;ITRTB;Roma Tiburtina;10:54;0;0;0;09:54;Italo
 2026-11-11;8903;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;09:20;0;0;0;08:09;Italo
 2026-11-11;8903;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;07:15;0;0;0;06:57;Italo
 2026-11-11;8904;ITA;Napoli Centrale;ITBC_;Bologna Centrale;10:18;0;0;0;09:54;Italo
-2026-11-11;8904;ITA;Napoli Centrale;ITPD_;Padova;11:25;0;0;0;09:54;Italo
+2026-11-11;8904;ITA;Napoli Centrale;ITPD_;Padova;11:25;0;0;0;10:57;Italo
 2026-11-11;8904;ITA;Napoli Centrale;ITRMT;Roma Termini;07:35;0;0;0;06:57;Italo
 2026-11-11;8904;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;08:02;0;0;0;06:57;Italo
 2026-11-11;8904;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;09:31;0;0;0;08:09;Italo
-2026-11-11;8904;ITA;Napoli Centrale;ITVEM;Venezia Mestre;11:42;0;0;0;09:54;Italo
-2026-11-11;8904;ITA;Napoli Centrale;ITVSL;Venezia S. Lucia;11:55;0;0;0;09:54;Italo
+2026-11-11;8904;ITA;Napoli Centrale;ITVEM;Venezia Mestre;11:42;0;0;0;10:57;Italo
+2026-11-11;8904;ITA;Napoli Centrale;ITVSL;Venezia S. Lucia;11:55;0;0;0;10:57;Italo
 2026-11-11;8905;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;09:39;0;0;0;08:09;Italo
 2026-11-11;8905;ITA;Venezia S.Lucia;ITPD_;Padova;08:33;0;0;0;08:09;Italo
+2026-11-11;8905;ITA;Venezia S.Lucia;ITRMT;Roma Termini;12:10;0;0;0;10:57;Italo
+2026-11-11;8905;ITA;Venezia S.Lucia;ITRTB;Roma Tiburtina;11:54;0;0;0;10:57;Italo
 2026-11-11;8905;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;10:20;0;0;0;09:54;Italo
 2026-11-11;8905;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;08:15;0;0;0;08:09;Italo
-2026-11-11;8906;ITA;Roma Termini;ITBC_;Bologna Centrale;11:18;0;0;0;09:54;Italo
-2026-11-11;8906;ITA;Roma Termini;ITPD_;Padova;12:25;0;0;0;09:54;Italo
+2026-11-11;8906;ITA;Roma Termini;ITBC_;Bologna Centrale;11:18;5;0;0;10:57;Italo
+2026-11-11;8906;ITA;Roma Termini;ITPD_;Padova;12:25;0;0;0;10:57;Italo
 2026-11-11;8906;ITA;Roma Termini;ITRTB;Roma Tiburtina;09:02;0;0;0;08:09;Italo
 2026-11-11;8906;ITA;Roma Termini;ITSMN;Firenze S.M.N.;10:31;0;0;0;09:54;Italo
-2026-11-11;8906;ITA;Roma Termini;ITVSL;Venezia S. Lucia;12:55;0;0;0;09:54;Italo
+2026-11-11;8906;ITA;Roma Termini;ITVEM;Venezia Mestre;12:42;0;0;0;10:57;Italo
+2026-11-11;8906;ITA;Roma Termini;ITVSL;Venezia S. Lucia;12:55;0;0;0;10:57;Italo
 2026-11-11;8907;ITA;Udine;ITBC_;Bologna Centrale;10:39;0;0;0;09:54;Italo
 2026-11-11;8907;ITA;Udine;ITPD_;Padova;09:33;0;0;0;08:09;Italo
-2026-11-11;8907;ITA;Udine;ITSMN;Firenze S.M.N.;11:20;0;0;0;09:54;Italo
+2026-11-11;8907;ITA;Udine;ITRTB;Roma Tiburtina;12:54;0;0;0;10:57;Italo
+2026-11-11;8907;ITA;Udine;ITSMN;Firenze S.M.N.;11:20;0;0;0;10:57;Italo
 2026-11-11;8907;ITA;Udine;ITVEM;Venezia Mestre;09:08;0;0;0;08:09;Italo
-2026-11-11;8908;ITA;Napoli Centrale;ITBC_;Bologna Centrale;12:18;0;0;0;09:54;Italo
+2026-11-11;8908;ITA;Napoli Centrale;ITBC_;Bologna Centrale;12:18;0;0;0;10:57;Italo
+2026-11-11;8908;ITA;Napoli Centrale;ITPD_;Padova;13:25;0;0;0;10:57;Italo
 2026-11-11;8908;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;10:02;0;0;0;09:54;Italo
-2026-11-11;8908;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;11:31;0;0;0;09:54;Italo
+2026-11-11;8908;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;11:31;0;0;0;10:57;Italo
+2026-11-11;8908;ITA;Napoli Centrale;ITVSL;Venezia S. Lucia;13:55;0;0;0;10:57;Italo
+2026-11-11;8910;ITA;Salerno;ITBC_;Bologna Centrale;13:18;0;0;0;10:57;Italo
 2026-11-11;8910;ITA;Salerno;ITNAC;Napoli Centrale;09:23;0;0;0;08:09;Italo
 2026-11-11;8910;ITA;Salerno;ITRMT;Roma Termini;10:45;5;0;0;09:54;Italo
-2026-11-11;8910;ITA;Salerno;ITRTB;Roma Tiburtina;11:02;0;0;0;09:54;Italo
-2026-11-11;8911;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;12:39;0;0;0;09:54;Italo
-2026-11-11;8911;ITA;Venezia S.Lucia;ITPD_;Padova;11:33;0;0;0;09:54;Italo
-2026-11-11;8911;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;11:15;0;0;0;09:54;Italo
+2026-11-11;8910;ITA;Salerno;ITRTB;Roma Tiburtina;11:02;10;0;0;10:57;Italo
+2026-11-11;8910;ITA;Salerno;ITSMN;Firenze S.M.N.;12:31;0;0;0;10:57;Italo
+2026-11-11;8911;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;12:39;0;0;0;10:57;Italo
+2026-11-11;8911;ITA;Venezia S.Lucia;ITPD_;Padova;11:33;0;0;0;10:57;Italo
+2026-11-11;8911;ITA;Venezia S.Lucia;ITSMN;Firenze S.M.N.;13:20;0;0;0;10:57;Italo
+2026-11-11;8911;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;11:15;0;0;0;10:57;Italo
+2026-11-11;8913;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;14:39;0;0;0;10:57;Italo
+2026-11-11;8913;ITA;Venezia S.Lucia;ITPD_;Padova;13:33;0;0;0;10:57;Italo
+2026-11-11;8914;ITA;Roma Termini;ITBC_;Bologna Centrale;14:18;0;0;0;10:57;Italo
+2026-11-11;8914;ITA;Roma Termini;ITRTB;Roma Tiburtina;12:00;0;0;0;10:57;Italo
+2026-11-11;8914;ITA;Roma Termini;ITSMN;Firenze S.M.N.;13:31;0;0;0;10:57;Italo
+2026-11-11;8916;ITA;Roma Termini;ITRTB;Roma Tiburtina;13:00;0;0;0;10:57;Italo
 2026-11-11;8924;ITA;Roma Termini;ITBC_;Bologna Centrale;09:18;0;0;0;08:09;Italo
 2026-11-11;8924;ITA;Roma Termini;ITPD_;Padova;10:25;0;0;0;09:54;Italo
 2026-11-11;8924;ITA;Roma Termini;ITRTB;Roma Tiburtina;07:02;0;0;0;06:57;Italo
 2026-11-11;8924;ITA;Roma Termini;ITSMN;Firenze S.M.N.;08:31;0;0;0;08:09;Italo
 2026-11-11;8924;ITA;Roma Termini;ITVEM;Venezia Mestre;10:42;0;0;0;09:54;Italo
 2026-11-11;8924;ITA;Roma Termini;ITVSL;Venezia S. Lucia;10:55;0;0;0;09:54;Italo
-2026-11-11;8929;ITA;Venezia S.Lucia;ITPD_;Padova;12:33;0;0;0;09:54;Italo
+2026-11-11;8929;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;13:39;0;0;0;10:57;Italo
+2026-11-11;8929;ITA;Venezia S.Lucia;ITPD_;Padova;12:33;0;0;0;10:57;Italo
+2026-11-11;8929;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;12:15;0;0;0;10:57;Italo
 2026-11-11;8951;ITA;Brescia;ITBC_;Bologna Centrale;08:14;5;0;0;08:09;Italo
 2026-11-11;8951;ITA;Brescia;ITRMT;Roma Termini;10:40;0;0;0;09:54;Italo
 2026-11-11;8951;ITA;Brescia;ITSMN;Firenze S.M.N.;08:54;0;0;0;08:09;Italo
 2026-11-11;8951;ITA;Brescia;ITVPN;Verona Porta Nuova;07:11;0;0;0;06:57;Italo
 2026-11-11;8953;ITA;Bolzano;ITBC_;Bologna Centrale;09:14;0;0;0;08:09;Italo
+2026-11-11;8953;ITA;Bolzano;ITRMT;Roma Termini;11:40;20;0;0;10:57;Italo
 2026-11-11;8953;ITA;Bolzano;ITSMN;Firenze S.M.N.;09:54;15;0;0;09:54;Italo
 2026-11-11;8953;ITA;Bolzano;ITVPN;Verona Porta Nuova;08:10;10;0;0;08:09;Italo
 2026-11-11;8954;ITA;Napoli Centrale;ITBC_;Bologna Centrale;09:43;0;0;0;08:09;Italo
@@ -1740,14 +1760,15 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-11;8956;ITA;Napoli Centrale;ITBC_;Bologna Centrale;10:43;0;0;0;09:54;Italo
 2026-11-11;8956;ITA;Napoli Centrale;ITRMT;Roma Termini;08:15;0;0;0;08:09;Italo
 2026-11-11;8956;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;09:57;0;0;0;09:54;Italo
-2026-11-11;8956;ITA;Napoli Centrale;ITVPN;Verona Porta Nuova;11:38;0;0;0;09:54;Italo
-2026-11-11;8959;ITA;Brescia;ITVPN;Verona Porta Nuova;14:11;0;0;0;09:54;Italo
+2026-11-11;8956;ITA;Napoli Centrale;ITVPN;Verona Porta Nuova;11:38;0;0;0;10:57;Italo
+2026-11-11;8959;ITA;Brescia;ITVPN;Verona Porta Nuova;14:11;0;0;0;10:57;Italo
+2026-11-11;8960;ITA;Roma Termini;ITBC_;Bologna Centrale;14:43;0;0;0;10:57;Italo
 2026-11-11;897;REG;Milano Cadorna;S01933;Saronno;00:07;0;0;1;00:16;RFI
 2026-11-11;8970;ITA;Venezia S.Lucia;ITMC_;Milano Centrale;08:25;0;0;0;08:09;Italo
 2026-11-11;8970;ITA;Venezia S.Lucia;ITPD_;Padova;06:24;0;0;0;05:57;Italo
 2026-11-11;8970;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;06:07;0;0;0;05:57;Italo
 2026-11-11;8970;ITA;Venezia S.Lucia;ITVPN;Verona Porta Nuova;07:10;0;0;0;06:57;Italo
-2026-11-11;8971;ITA;Udine;ITMC_;Milano Centrale;11:25;0;0;0;09:54;Italo
+2026-11-11;8971;ITA;Udine;ITMC_;Milano Centrale;11:25;10;0;0;10:57;Italo
 2026-11-11;8971;ITA;Udine;ITPD_;Padova;09:24;0;0;0;08:09;Italo
 2026-11-11;8971;ITA;Udine;ITVEM;Venezia Mestre;08:55;0;0;0;08:09;Italo
 2026-11-11;8971;ITA;Udine;ITVPN;Verona Porta Nuova;10:10;0;0;0;09:54;Italo
@@ -1755,12 +1776,15 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-11;8974;ITA;Venezia S.Lucia;ITPD_;Padova;08:24;0;0;0;08:09;Italo
 2026-11-11;8974;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;08:07;0;0;1;08:09;Italo
 2026-11-11;8974;ITA;Venezia S.Lucia;ITVPN;Verona Porta Nuova;09:10;0;0;0;08:09;Italo
-2026-11-11;8977;ITA;Milano Centrale;ITPD_;Padova;11:32;0;0;0;09:54;Italo
-2026-11-11;8977;ITA;Milano Centrale;ITVEM;Venezia Mestre;11:52;0;0;0;09:54;Italo
-2026-11-11;8977;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;10:47;0;0;0;09:54;Italo
-2026-11-11;8977;ITA;Milano Centrale;ITVSL;Venezia S. Lucia;12:05;0;0;0;09:54;Italo
-2026-11-11;8981;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;12:47;0;0;0;09:54;Italo
-2026-11-11;8983;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;13:47;0;0;0;09:54;Italo
+2026-11-11;8977;ITA;Milano Centrale;ITPD_;Padova;11:32;20;0;0;10:57;Italo
+2026-11-11;8977;ITA;Milano Centrale;ITVEM;Venezia Mestre;11:52;15;0;0;10:57;Italo
+2026-11-11;8977;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;10:47;20;0;0;10:57;Italo
+2026-11-11;8977;ITA;Milano Centrale;ITVSL;Venezia S. Lucia;12:05;10;0;0;10:57;Italo
+2026-11-11;8981;ITA;Milano Centrale;ITPD_;Padova;13:32;0;0;0;10:57;Italo
+2026-11-11;8981;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;12:47;0;0;0;10:57;Italo
+2026-11-11;8981;ITA;Milano Centrale;ITVSL;Venezia S. Lucia;14:05;0;0;0;10:57;Italo
+2026-11-11;8983;ITA;Milano Centrale;ITVPN;Verona Porta Nuova;13:47;0;0;0;10:57;Italo
+2026-11-11;8984;ITA;Venezia S.Lucia;ITVPN;Verona Porta Nuova;15:10;0;0;0;10:57;Italo
 2026-11-11;899;ICN;Torino Porta Nuova;S09218;Napoli Centrale;08:17;7;0;0;08:09;RFI
 2026-11-11;899;ICN;Torino Porta Nuova;S09818;Salerno;09:11;7;0;0;08:09;RFI
 2026-11-11;8997;ITA;Milano Centrale;ITVEM;Venezia Mestre;21:52;5;0;0;01:58;Italo
@@ -2044,67 +2068,91 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-11;9908;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;09:28;0;0;0;08:09;Italo
 2026-11-11;9908;ITA;Napoli Centrale;ITBC_;Bologna Centrale;09:03;0;0;0;08:09;Italo
 2026-11-11;9908;ITA;Napoli Centrale;ITMC_;Milano Centrale;10:20;0;0;0;09:54;Italo
-2026-11-11;9908;ITA;Napoli Centrale;ITOUE;Torino Porta Susa;11:24;0;0;0;09:54;Italo
+2026-11-11;9908;ITA;Napoli Centrale;ITOUE;Torino Porta Susa;11:24;0;0;0;10:57;Italo
 2026-11-11;9908;ITA;Napoli Centrale;ITRMT;Roma Termini;06:30;0;0;0;05:57;Italo
 2026-11-11;9908;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;06:45;0;0;0;05:57;Italo
 2026-11-11;9908;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;08:17;0;0;0;08:09;Italo
-2026-11-11;9908;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;11:35;0;0;0;09:54;Italo
+2026-11-11;9908;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;11:35;0;0;0;10:57;Italo
 2026-11-11;9912;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;10:28;0;0;0;09:54;Italo
 2026-11-11;9912;ITA;Napoli Centrale;ITBC_;Bologna Centrale;10:03;5;0;0;09:54;Italo
-2026-11-11;9912;ITA;Napoli Centrale;ITMC_;Milano Centrale;11:20;0;0;0;09:54;Italo
+2026-11-11;9912;ITA;Napoli Centrale;ITMC_;Milano Centrale;11:20;0;0;0;10:57;Italo
+2026-11-11;9912;ITA;Napoli Centrale;ITOUE;Torino Porta Susa;12:29;0;0;0;10:57;Italo
 2026-11-11;9912;ITA;Napoli Centrale;ITRMT;Roma Termini;07:30;5;0;0;06:57;Italo
 2026-11-11;9912;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;07:47;0;0;0;06:57;Italo
 2026-11-11;9912;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;09:17;0;0;0;08:09;Italo
-2026-11-11;9912;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;12:40;0;0;0;09:54;Italo
-2026-11-11;9916;ITA;Salerno;ITAAV;Reggio Emilia AV;11:28;0;0;0;09:54;Italo
-2026-11-11;9916;ITA;Salerno;ITBC_;Bologna Centrale;11:03;0;0;0;09:54;Italo
+2026-11-11;9912;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;12:40;0;0;0;10:57;Italo
+2026-11-11;9916;ITA;Salerno;ITAAV;Reggio Emilia AV;11:28;0;0;0;10:57;Italo
+2026-11-11;9916;ITA;Salerno;ITBC_;Bologna Centrale;11:03;0;0;0;10:57;Italo
+2026-11-11;9916;ITA;Salerno;ITMC_;Milano Centrale;12:20;0;0;0;10:57;Italo
 2026-11-11;9916;ITA;Salerno;ITNAC;Napoli Centrale;06:58;0;0;0;06:57;Italo
+2026-11-11;9916;ITA;Salerno;ITOUE;Torino Porta Susa;13:18;0;0;0;10:57;Italo
+2026-11-11;9916;ITA;Salerno;ITRG_;Milano Rogoredo;12:09;0;0;0;10:57;Italo
 2026-11-11;9916;ITA;Salerno;ITRMT;Roma Termini;08:30;0;0;0;08:09;Italo
 2026-11-11;9916;ITA;Salerno;ITRTB;Roma Tiburtina;08:47;0;0;0;08:09;Italo
 2026-11-11;9916;ITA;Salerno;ITSMN;Firenze S.M.N.;10:17;0;0;0;09:54;Italo
-2026-11-11;9916;ITA;Salerno;ITTOP;Torino Porta Nuova;13:30;0;0;0;09:54;Italo
+2026-11-11;9916;ITA;Salerno;ITTOP;Torino Porta Nuova;13:30;0;0;0;10:57;Italo
 2026-11-11;9917;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;08:26;0;0;0;08:09;Italo
 2026-11-11;9917;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;08:54;0;0;0;08:09;Italo
 2026-11-11;9917;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;07:30;0;0;0;06:57;Italo
 2026-11-11;9917;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;06:33;0;0;0;05:57;Italo
 2026-11-11;9917;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;07:48;0;0;0;06:57;Italo
-2026-11-11;9917;ITA;Torino Porta Nuova;ITRMT;Roma Termini;11:19;0;0;0;09:54;Italo
+2026-11-11;9917;ITA;Torino Porta Nuova;ITRMT;Roma Termini;11:19;0;0;0;10:57;Italo
 2026-11-11;9917;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;09:35;0;0;0;08:09;Italo
 2026-11-11;9919;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;09:26;0;0;0;08:09;Italo
 2026-11-11;9919;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;09:54;5;0;0;09:54;Italo
 2026-11-11;9919;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;08:30;0;0;0;08:09;Italo
+2026-11-11;9919;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;13:43;0;0;0;10:57;Italo
 2026-11-11;9919;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;07:38;0;0;0;06:57;Italo
 2026-11-11;9919;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;08:48;0;0;0;08:09;Italo
+2026-11-11;9919;ITA;Torino Porta Nuova;ITRMT;Roma Termini;12:19;0;0;0;10:57;Italo
 2026-11-11;9919;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;10:35;0;0;0;09:54;Italo
-2026-11-11;9920;ITA;Salerno;ITAAV;Reggio Emilia AV;12:28;0;0;0;09:54;Italo
-2026-11-11;9920;ITA;Salerno;ITBC_;Bologna Centrale;12:03;0;0;0;09:54;Italo
+2026-11-11;9920;ITA;Salerno;ITAAV;Reggio Emilia AV;12:28;0;0;0;10:57;Italo
+2026-11-11;9920;ITA;Salerno;ITBC_;Bologna Centrale;12:03;0;0;0;10:57;Italo
+2026-11-11;9920;ITA;Salerno;ITMC_;Milano Centrale;13:20;0;0;0;10:57;Italo
 2026-11-11;9920;ITA;Salerno;ITNAC;Napoli Centrale;07:58;0;0;0;06:57;Italo
 2026-11-11;9920;ITA;Salerno;ITRTB;Roma Tiburtina;09:48;0;0;0;08:09;Italo
-2026-11-11;9920;ITA;Salerno;ITSMN;Firenze S.M.N.;11:17;0;0;0;09:54;Italo
-2026-11-11;9920;ITA;Salerno;ITTOP;Torino Porta Nuova;14:30;0;0;0;09:54;Italo
+2026-11-11;9920;ITA;Salerno;ITSMN;Firenze S.M.N.;11:17;0;0;0;10:57;Italo
+2026-11-11;9920;ITA;Salerno;ITTOP;Torino Porta Nuova;14:30;0;0;0;10:57;Italo
 2026-11-11;9923;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;10:26;0;0;0;09:54;Italo
 2026-11-11;9923;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;10:54;0;0;0;09:54;Italo
 2026-11-11;9923;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;09:30;0;0;0;08:09;Italo
 2026-11-11;9923;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;08:38;0;0;0;08:09;Italo
-2026-11-11;9923;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;11:35;0;0;0;09:54;Italo
-2026-11-11;9924;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;13:28;0;0;0;09:54;Italo
+2026-11-11;9923;ITA;Torino Porta Nuova;ITRTB;Roma Tiburtina;13:07;0;0;0;10:57;Italo
+2026-11-11;9923;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;11:35;0;0;0;10:57;Italo
+2026-11-11;9924;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;13:28;0;0;0;10:57;Italo
+2026-11-11;9924;ITA;Napoli Centrale;ITBC_;Bologna Centrale;13:03;0;0;0;10:57;Italo
 2026-11-11;9924;ITA;Napoli Centrale;ITRMT;Roma Termini;10:30;0;0;0;09:54;Italo
 2026-11-11;9924;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;10:47;0;0;0;09:54;Italo
-2026-11-11;9927;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;11:26;0;0;0;09:54;Italo
-2026-11-11;9927;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;11:54;0;0;0;09:54;Italo
+2026-11-11;9924;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;12:17;0;0;0;10:57;Italo
+2026-11-11;9924;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;15:30;0;0;0;10:57;Italo
+2026-11-11;9927;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;11:26;0;0;0;10:57;Italo
+2026-11-11;9927;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;11:54;0;0;0;10:57;Italo
 2026-11-11;9927;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;10:30;0;0;0;09:54;Italo
 2026-11-11;9927;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;09:38;0;0;0;08:09;Italo
 2026-11-11;9927;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;10:48;0;0;0;09:54;Italo
-2026-11-11;9928;ITA;Bari Centrale;ITAAV;Reggio Emilia AV;14:33;0;0;0;09:54;Italo
-2026-11-11;9931;ITA;Milano Centrale;ITAAV;Reggio Emilia AV;12:26;0;0;0;09:54;Italo
-2026-11-11;9931;ITA;Milano Centrale;ITBC_;Bologna Centrale;12:54;0;0;0;09:54;Italo
-2026-11-11;9935;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;13:26;0;0;0;09:54;Italo
-2026-11-11;9935;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;11:38;0;0;0;09:54;Italo
-2026-11-11;9939;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;14:26;0;0;0;09:54;Italo
+2026-11-11;9927;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;12:35;0;0;0;10:57;Italo
+2026-11-11;9928;ITA;Bari Centrale;ITAAV;Reggio Emilia AV;14:33;0;0;0;10:57;Italo
+2026-11-11;9928;ITA;Bari Centrale;ITBC_;Bologna Centrale;14:03;0;0;0;10:57;Italo
+2026-11-11;9928;ITA;Bari Centrale;ITRMT;Roma Termini;11:30;0;0;0;10:57;Italo
+2026-11-11;9928;ITA;Bari Centrale;ITSMN;Firenze S.M.N.;13:17;0;0;0;10:57;Italo
+2026-11-11;9931;ITA;Milano Centrale;ITAAV;Reggio Emilia AV;12:26;0;0;0;10:57;Italo
+2026-11-11;9931;ITA;Milano Centrale;ITBC_;Bologna Centrale;12:54;0;0;0;10:57;Italo
+2026-11-11;9931;ITA;Milano Centrale;ITRG_;Milano Rogoredo;11:48;0;0;0;10:57;Italo
+2026-11-11;9931;ITA;Milano Centrale;ITSMN;Firenze S.M.N.;13:35;0;0;0;10:57;Italo
+2026-11-11;9932;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;15:28;0;0;0;10:57;Italo
+2026-11-11;9932;ITA;Napoli Centrale;ITRMT;Roma Termini;12:30;0;0;0;10:57;Italo
+2026-11-11;9935;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;13:26;0;0;0;10:57;Italo
+2026-11-11;9935;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;13:54;0;0;0;10:57;Italo
+2026-11-11;9935;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;12:30;0;0;0;10:57;Italo
+2026-11-11;9935;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;11:38;0;0;0;10:57;Italo
+2026-11-11;9939;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;14:26;0;0;0;10:57;Italo
+2026-11-11;9939;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;13:30;0;0;0;10:57;Italo
+2026-11-11;9939;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;12:28;0;0;0;10:57;Italo
 2026-11-11;9941;ITA;Brescia;ITBC_;Bologna Centrale;08:49;0;0;0;08:09;Italo
 2026-11-11;9941;ITA;Brescia;ITMC_;Milano Centrale;07:30;0;0;0;06:57;Italo
-2026-11-11;9941;ITA;Brescia;ITRMT;Roma Termini;11:00;0;0;0;09:54;Italo
+2026-11-11;9941;ITA;Brescia;ITRMT;Roma Termini;11:00;0;0;0;10:57;Italo
 2026-11-11;9941;ITA;Brescia;ITRTB;Roma Tiburtina;10:49;0;0;0;09:54;Italo
+2026-11-11;9950;ITA;Salerno;ITNAC;Napoli Centrale;14:23;0;0;0;10:57;Italo
 2026-11-11;9951;ITA;Torino Porta Nuova;ITSAL;Salerno;22:32;50;0;0;01:58;Italo
 2026-11-11;9959;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;23:43;5;0;0;01:58;Italo
 2026-11-11;9962;ITA;Salerno;ITAAV;Reggio Emilia AV;23:28;0;0;0;01:58;Italo
@@ -2128,19 +2176,26 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-11;9970;ITA;Napoli Centrale;ITRMT;Roma Termini;07:20;0;0;0;06:57;Italo
 2026-11-11;9970;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;07:37;0;0;0;06:57;Italo
 2026-11-11;9971;ITA;Torino Porta Nuova;ITMC_;Milano Centrale;06:57;0;0;0;05:57;Italo
-2026-11-11;9971;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;11:53;0;0;0;09:54;Italo
+2026-11-11;9971;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;11:53;5;0;0;10:57;Italo
 2026-11-11;9971;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;06:08;0;0;0;05:57;Italo
 2026-11-11;9971;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;07:23;0;0;0;06:57;Italo
 2026-11-11;9971;ITA;Torino Porta Nuova;ITRMT;Roma Termini;10:25;0;0;0;09:54;Italo
-2026-11-11;9971;ITA;Torino Porta Nuova;ITSAL;Salerno;12:52;0;0;0;09:54;Italo
+2026-11-11;9971;ITA;Torino Porta Nuova;ITSAL;Salerno;12:52;0;0;0;10:57;Italo
 2026-11-11;9972;ITA;Caserta;ITBC_;Bologna Centrale;10:08;0;0;0;09:54;Italo
-2026-11-11;9972;ITA;Caserta;ITMC_;Milano Centrale;11:15;0;0;0;09:54;Italo
+2026-11-11;9972;ITA;Caserta;ITMC_;Milano Centrale;11:15;0;0;0;10:57;Italo
 2026-11-11;9972;ITA;Caserta;ITRMT;Roma Termini;07:50;0;0;0;06:57;Italo
-2026-11-11;9974;ITA;Napoli Centrale;ITBC_;Bologna Centrale;11:08;0;0;0;09:54;Italo
+2026-11-11;9974;ITA;Napoli Centrale;ITBC_;Bologna Centrale;11:08;0;0;0;10:57;Italo
+2026-11-11;9974;ITA;Napoli Centrale;ITMC_;Milano Centrale;12:15;0;0;0;10:57;Italo
 2026-11-11;9974;ITA;Napoli Centrale;ITRMT;Roma Termini;08:51;0;0;0;08:09;Italo
-2026-11-11;9976;ITA;Roma Termini;ITBC_;Bologna Centrale;12:08;0;0;0;09:54;Italo
+2026-11-11;9975;ITA;Milano Centrale;ITNAC;Napoli Centrale;13:53;0;0;0;10:57;Italo
+2026-11-11;9975;ITA;Milano Centrale;ITRMT;Roma Termini;12:25;0;0;0;10:57;Italo
+2026-11-11;9976;ITA;Roma Termini;ITBC_;Bologna Centrale;12:08;0;0;0;10:57;Italo
+2026-11-11;9976;ITA;Roma Termini;ITMC_;Milano Centrale;13:15;0;0;0;10:57;Italo
 2026-11-11;9977;ITA;Milano Centrale;ITRG_;Milano Rogoredo;10:23;0;0;0;09:54;Italo
-2026-11-11;9979;ITA;Milano Centrale;ITRG_;Milano Rogoredo;11:23;0;0;0;09:54;Italo
+2026-11-11;9978;ITA;Roma Termini;ITBC_;Bologna Centrale;13:08;0;0;0;10:57;Italo
+2026-11-11;9979;ITA;Milano Centrale;ITRG_;Milano Rogoredo;11:23;0;0;0;10:57;Italo
+2026-11-11;9981;ITA;Milano Centrale;ITRG_;Milano Rogoredo;12:28;0;0;0;10:57;Italo
 2026-11-11;9998;ITA;Genova Brignole;ITMC_;Milano Centrale;08:05;0;0;1;08:09;Italo
-2026-11-11;9998;ITA;Genova Brignole;ITNAC;Napoli Centrale;12:53;0;0;0;09:54;Italo
+2026-11-11;9998;ITA;Genova Brignole;ITNAC;Napoli Centrale;12:53;0;0;0;10:57;Italo
 2026-11-11;9998;ITA;Genova Brignole;ITRG_;Milano Rogoredo;08:23;0;0;0;08:09;Italo
+2026-11-11;9998;ITA;Genova Brignole;ITRMT;Roma Termini;11:25;0;0;0;10:57;Italo
