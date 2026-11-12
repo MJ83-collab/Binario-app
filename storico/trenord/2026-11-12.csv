@@ -1,0 +1,809 @@
+giorno;numero;categoria;linea;rete;origine_id;origine;destinazione_id;destinazione;partenza;arrivo;stato;ritardo_finale;ritardo_max;fermate_totali;fermate_soppresse;programmato;sostituito_da;sostituisce;visto
+2026-11-12;13;REG;R22;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;06:39;08:23;senza_dati;0;0;23;0;1;;;14:06
+2026-11-12;19;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;07:52;09:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;20;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;06:38;08:09;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;25;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;08:52;10:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;26;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;07:38;09:09;senza_dati;0;0;16;0;1;;;14:06
+2026-11-12;29;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;09:52;11:23;arrivato;1;2;15;0;1;;;14:06
+2026-11-12;30;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;08:38;10:09;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;31;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;10:52;12:23;arrivato;1;5;15;0;1;;;14:06
+2026-11-12;36;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;09:38;11:09;arrivato;1;2;15;0;1;;;14:06
+2026-11-12;40;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;10:38;12:09;arrivato;4;4;15;0;1;;;14:06
+2026-11-12;44;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;11:38;13:09;arrivato;11;11;15;0;1;;;14:06
+2026-11-12;47;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;13:52;15:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;51;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;14:52;16:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;55;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;15:52;17:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;56;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;14:38;16:09;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;58;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;15:38;17:09;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;61;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;16:52;18:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;66;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;16:38;18:09;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;67;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;17:52;19:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;70;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;17:38;19:09;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;75;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;18:52;20:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;78;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;18:38;20:09;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;82;REG;R22;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;19:38;21:22;senza_dati;0;0;23;0;1;;;14:06
+2026-11-12;83;REG;R22;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;20:39;22:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;84;REG;R22;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;20:38;22:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;110;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;05:16;06:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;114;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;06:16;07:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;117;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;07:43;08:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;122;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;07:16;08:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;123;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;08:43;09:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;126;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;08:16;09:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;129;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;09:43;10:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;131;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;10:43;11:44;arrivato;6;8;15;0;1;;;14:06
+2026-11-12;132;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;09:16;10:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;135;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;11:43;12:44;arrivato;4;7;15;0;1;;;14:06
+2026-11-12;136;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;10:16;11:18;arrivato;2;2;15;0;1;;;14:06
+2026-11-12;140;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;11:16;12:18;arrivato;3;3;15;0;1;;;14:06
+2026-11-12;141;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;12:43;13:44;arrivato;3;6;15;0;1;;;14:06
+2026-11-12;144;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;12:16;13:18;arrivato;6;7;15;0;1;;;14:06
+2026-11-12;145;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;13:43;14:44;in_corso;2;4;15;0;1;;;14:06
+2026-11-12;146;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;13:16;14:18;in_corso;3;4;15;0;1;;;14:06
+2026-11-12;149;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;14:43;15:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;150;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;14:16;15:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;154;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;15:16;16:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;155;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;15:43;16:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;159;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;16:43;17:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;160;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;16:16;17:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;165;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;17:43;18:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;166;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;17:16;18:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;168;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;17:46;18:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;169;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;18:13;19:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;170;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;18:16;19:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;173;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;18:43;19:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;176;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;19:16;20:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;178;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;19:46;20:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;179;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;19:43;20:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;180;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;20:16;21:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;183;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;20:43;21:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;184;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;21:16;22:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;187;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;21:43;22:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;188;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;22:16;23:18;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;191;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;22:43;23:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;303;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;04:26;05:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;305;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;04:56;05:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;307;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;05:26;06:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;309;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;05:56;06:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;310;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;05:20;06:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;311;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;06:26;07:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;312;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;05:50;06:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;313;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;06:56;07:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;314;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;06:20;07:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;315;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;07:26;08:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;316;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;06:50;07:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;318;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;07:20;08:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;319;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;07:56;08:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;321;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;08:26;09:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;324;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;07:50;08:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;325;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;08:56;09:40;senza_dati;0;0;7;1;1;;;14:06
+2026-11-12;326;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;08:20;09:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;327;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;09:26;10:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;328;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;08:50;09:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;329;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;09:56;10:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;330;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;09:20;10:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;331;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;10:26;11:10;arrivato;2;2;7;0;1;;;14:06
+2026-11-12;332;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;09:50;10:35;senza_dati;0;0;7;1;1;;;14:06
+2026-11-12;333;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;10:56;11:40;arrivato;7;8;7;0;1;;;14:06
+2026-11-12;334;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;10:20;11:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;335;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;11:26;12:10;arrivato;0;1;7;0;1;;;14:06
+2026-11-12;336;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;10:50;11:35;arrivato;6;6;7;0;1;;;14:06
+2026-11-12;337;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;11:56;12:40;arrivato;2;3;7;0;1;;;14:06
+2026-11-12;338;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;11:20;12:05;arrivato;3;4;7;0;1;;;14:06
+2026-11-12;339;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;12:26;13:10;arrivato;4;6;7;0;1;;;14:06
+2026-11-12;340;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;11:50;12:35;arrivato;4;7;7;0;1;;;14:06
+2026-11-12;342;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;12:20;13:05;arrivato;9;11;7;0;1;;;14:06
+2026-11-12;343;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;12:56;13:40;arrivato;5;5;7;0;1;;;14:06
+2026-11-12;344;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;12:50;13:35;arrivato;10;10;7;0;1;;;14:06
+2026-11-12;345;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;13:26;14:10;in_corso;0;1;7;0;1;;;14:06
+2026-11-12;346;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;13:20;14:05;arrivato;2;4;7;0;1;;;14:06
+2026-11-12;347;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;13:56;14:40;in_corso;2;3;7;0;1;;;14:06
+2026-11-12;348;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;13:50;14:35;in_corso;5;6;7;0;1;;;14:06
+2026-11-12;349;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;14:26;15:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;350;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;14:20;15:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;351;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;14:56;15:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;352;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;14:50;15:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;353;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;15:26;16:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;354;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;15:20;16:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;355;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;15:56;16:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;356;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;15:50;16:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;357;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;16:26;17:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;358;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;16:20;17:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;360;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;16:50;17:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;361;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;16:56;17:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;362;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;17:20;18:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;365;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;17:26;18:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;366;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;17:50;18:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;367;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;17:56;18:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;368;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;18:20;19:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;371;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;18:26;19:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;372;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;18:50;19:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;374;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;19:20;20:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;375;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;18:56;19:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;377;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;19:26;20:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;378;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;19:50;20:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;379;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;19:56;20:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;380;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;20:20;21:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;382;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;20:50;21:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;383;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;20:26;21:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;384;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;21:20;22:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;385;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;20:56;21:40;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;386;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;21:50;22:35;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;387;RE;RE54;FN;S01066;Milano Cadorna;S01146;Malpensa Aeroporto T2;21:26;22:10;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;388;RE;RE54;FN;S01146;Malpensa Aeroporto T2;S01066;Milano Cadorna;22:20;23:05;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;612;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;05:33;06:57;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;618;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;06:33;07:53;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;621;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;08:09;09:38;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;624;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;07:33;08:59;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;625;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;09:09;10:45;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;628;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;08:33;10:03;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;631;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;10:09;11:38;arrivato;6;14;19;0;1;;;14:06
+2026-11-12;632;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;09:33;11:06;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;635;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;11:09;12:31;arrivato;1;7;19;0;1;;;14:06
+2026-11-12;636;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;10:33;11:57;arrivato;12;13;19;0;1;;;14:06
+2026-11-12;637;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;12:09;13:37;arrivato;2;9;19;0;1;;;14:06
+2026-11-12;640;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;11:33;12:58;arrivato;1;10;19;0;1;;;14:06
+2026-11-12;643;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;13:09;14:38;in_corso;7;7;19;0;1;;;14:06
+2026-11-12;644;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;12:33;14:00;arrivato;3;8;19;0;1;;;14:06
+2026-11-12;647;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;14:09;15:31;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;648;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;13:33;15:05;in_corso;5;8;19;0;1;;;14:06
+2026-11-12;651;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;15:09;16:30;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;652;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;14:33;16:01;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;656;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;15:33;16:55;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;657;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;16:09;17:32;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;662;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;16:33;18:04;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;663;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;17:09;18:37;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;668;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;17:33;19:00;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;669;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;18:09;19:38;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;672;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;18:33;20:00;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;677;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;19:09;20:44;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;678;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;19:33;21:05;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;680;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;20:33;21:59;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;681;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;20:09;21:36;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;685;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;21:09;22:30;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;701;S4;S4;FN;S01066;Milano Cadorna;S01925;Seveso;00:23;00:58;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;711;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;06:23;07:10;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;712;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;06:25;07:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;715;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;06:53;07:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;716;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;06:55;07:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;717;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;07:23;08:10;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;719;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;07:53;08:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;720;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;07:25;08:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;723;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;08:23;09:10;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;724;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;07:55;08:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;725;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;08:53;09:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;726;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;08:25;09:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;728;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;08:55;09:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;730;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;09:25;10:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;761;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;16:53;17:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;762;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;17:25;18:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;765;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;17:23;18:10;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;768;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;17:55;18:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;769;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;17:53;18:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;770;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;18:25;19:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;771;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;18:23;19:10;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;772;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;18:55;19:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;774;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;19:25;20:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;775;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;18:53;19:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;777;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;19:23;20:10;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;778;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;19:55;20:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;780;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;20:25;21:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;781;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;19:53;20:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;782;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;20:55;21:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;783;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;20:23;21:10;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;784;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;21:25;22:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;785;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;20:53;21:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;786;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;21:55;22:37;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;787;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;21:23;22:10;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;788;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;22:25;23:07;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;789;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;21:53;22:40;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;790;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;22:55;23:37;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;791;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;22:23;23:10;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;792;S4;S4;FN;S01316;Camnago-Lentate;S01066;Milano Cadorna;23:25;00:07;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;793;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;22:53;23:40;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;795;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;23:23;00:10;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;797;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;23:53;00:40;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;801;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;00:02;00:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;802;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;00:23;00:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;803;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;00:32;01:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;806;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;05:53;06:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;811;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;06:02;06:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;812;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;06:23;06:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;813;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;06:32;07:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;814;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;06:53;07:28;soppresso;0;0;13;13;1;;;14:06
+2026-11-12;815;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;07:02;07:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;817;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;07:32;08:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;818;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;07:23;07:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;821;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;08:02;08:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;822;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;07:53;08:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;823;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;08:32;09:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;824;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;08:23;08:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;825;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;09:02;09:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;826;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;08:53;09:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;827;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;09:32;10:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;828;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;09:23;09:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;829;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;10:02;10:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;830;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;09:53;10:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;831;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;10:32;11:07;arrivato;5;8;13;0;1;;;14:06
+2026-11-12;832;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;10:23;10:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;833;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;11:02;11:37;arrivato;0;3;13;0;1;;;14:06
+2026-11-12;834;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;10:53;11:28;arrivato;2;6;13;0;1;;;14:06
+2026-11-12;835;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;11:32;12:07;arrivato;0;3;13;0;1;;;14:06
+2026-11-12;836;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;11:23;11:58;arrivato;5;7;13;0;1;;;14:06
+2026-11-12;837;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;12:02;12:37;arrivato;0;4;13;0;1;;;14:06
+2026-11-12;838;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;11:53;12:28;arrivato;2;4;13;0;1;;;14:06
+2026-11-12;839;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;12:32;13:07;in_corso;31;31;13;4;1;;;14:06
+2026-11-12;840;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;12:23;12:58;arrivato;2;4;13;0;1;;;14:06
+2026-11-12;841;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;13:02;13:37;soppresso;0;0;13;13;1;;;14:06
+2026-11-12;842;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;12:53;13:28;arrivato;7;11;13;0;1;;;14:06
+2026-11-12;844;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;13:23;13:58;in_corso;14;15;13;4;1;;;14:06
+2026-11-12;845;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;13:32;14:07;soppresso;0;0;13;13;1;;;14:06
+2026-11-12;846;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;13:53;14:28;soppresso;0;0;13;13;1;;;14:06
+2026-11-12;847;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;14:02;14:37;in_corso;6;6;13;0;1;;;14:06
+2026-11-12;848;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;14:23;14:58;soppresso;0;0;13;13;1;;;14:06
+2026-11-12;849;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;14:32;15:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;850;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;14:53;15:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;851;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;15:02;15:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;852;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;15:23;15:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;854;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;15:53;16:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;855;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;15:32;16:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;856;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;16:23;16:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;857;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;16:02;16:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;858;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;16:53;17:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;859;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;16:32;17:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;861;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;17:02;17:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;862;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;17:23;17:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;865;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;17:32;18:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;866;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;17:53;18:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;868;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;18:23;18:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;869;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;18:02;18:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;871;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;18:32;19:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;872;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;18:53;19:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;874;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;19:23;19:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;875;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;19:02;19:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;876;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;19:53;20:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;877;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;19:32;20:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;878;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;20:23;20:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;880;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;20:53;21:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;881;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;20:02;20:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;882;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;21:23;21:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;883;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;20:32;21:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;884;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;21:53;22:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;885;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;21:02;21:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;886;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;22:23;22:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;887;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;21:32;22:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;888;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;22:53;23:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;889;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;22:02;22:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;890;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;23:23;23:58;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;892;S3;S3;FN;S01933;Saronno;S01066;Milano Cadorna;23:53;00:28;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;893;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;22:32;23:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;895;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;23:02;23:37;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;897;S3;S3;FN;S01066;Milano Cadorna;S01933;Saronno;23:32;00:07;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;919;REG;R3;FN;S01002;Edolo;S09999;Brescia;06:41;08:56;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;922;REG;R3;FN;S09999;Brescia;S01002;Edolo;08:06;10:25;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;923;RE;RE3;FN;S01002;Edolo;S09999;Brescia;07:51;09:56;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;926;RE;RE3;FN;S09999;Brescia;S01002;Edolo;09:06;11:14;arrivato;-2;-2;13;0;1;;;14:06
+2026-11-12;927;REG;R3;FN;S01002;Edolo;S09999;Brescia;08:41;10:56;arrivato;28;28;22;0;1;;;14:06
+2026-11-12;930;REG;R3;FN;S09999;Brescia;S01002;Edolo;10:06;12:20;arrivato;-6;11;22;0;1;;;14:06
+2026-11-12;931;RE;RE3;FN;S01002;Edolo;S09999;Brescia;09:51;11:56;arrivato;27;27;13;0;1;;;14:06
+2026-11-12;934;RE;RE3;FN;S09999;Brescia;S01002;Edolo;11:06;13:14;arrivato;-1;11;13;0;1;;;14:06
+2026-11-12;935;REG;R3;FN;S01002;Edolo;S09999;Brescia;10:41;12:56;arrivato;2;9;22;0;1;;;14:06
+2026-11-12;938;REG;R3;FN;S09999;Brescia;S01002;Edolo;12:06;14:20;in_corso;5;9;22;0;1;;;14:06
+2026-11-12;939;RE;RE3;FN;S01002;Edolo;S09999;Brescia;11:51;13:53;arrivato;3;11;13;0;1;;;14:06
+2026-11-12;942;RE;RE3;FN;S09999;Brescia;S01002;Edolo;13:06;15:14;in_corso;8;10;13;0;1;;;14:06
+2026-11-12;943;REG;R3;FN;S01002;Edolo;S09999;Brescia;12:41;14:53;in_corso;6;10;22;0;1;;;14:06
+2026-11-12;946;REG;R3;FN;S09999;Brescia;S01002;Edolo;14:06;16:25;in_corso;0;0;22;0;1;;;14:06
+2026-11-12;947;RE;RE3;FN;S01002;Edolo;S09999;Brescia;13:51;15:56;in_corso;7;7;13;0;1;;;14:06
+2026-11-12;950;RE;RE3;FN;S09999;Brescia;S01002;Edolo;15:06;17:14;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;951;REG;R3;FN;S01002;Edolo;S09999;Brescia;14:41;16:53;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;954;REG;R3;FN;S09999;Brescia;S01002;Edolo;16:06;18:20;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;955;RE;RE3;FN;S01002;Edolo;S09999;Brescia;15:51;17:56;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;958;RE;RE3;FN;S09999;Brescia;S01002;Edolo;17:06;19:09;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;959;REG;R3;FN;S01002;Edolo;S09999;Brescia;16:41;18:53;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;962;REG;R3;FN;S09999;Brescia;S01002;Edolo;18:06;20:25;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;963;RE;RE3;FN;S01002;Edolo;S09999;Brescia;17:51;19:56;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;966;RE;RE3;FN;S09999;Brescia;S01002;Edolo;19:06;21:09;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;967;REG;R3;FN;S01002;Edolo;S09999;Brescia;18:41;20:53;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;970;REG;R3;FN;S09999;Brescia;S01005;Breno;20:06;21:34;senza_dati;0;0;16;0;1;;;14:06
+2026-11-12;1011;REG;R22;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;06:09;07:53;senza_dati;0;0;24;0;1;;;14:06
+2026-11-12;1015;REG;R22;FN;S01066;Milano Cadorna;S01739;Varese Casbeno;07:09;08:21;senza_dati;0;0;16;0;1;;;14:06
+2026-11-12;1030;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;08:08;09:39;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1035;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;11:52;13:23;arrivato;3;6;16;0;1;;;14:06
+2026-11-12;1037;REG;R22;FN;S01738;Varese Nord;S01747;Laveno Mombello Lago;13:05;13:51;in_corso;-2;1;10;1;1;;;14:06
+2026-11-12;1039;REG;R22;FN;S01066;Milano Cadorna;S01739;Varese Casbeno;12:09;13:21;arrivato;3;3;16;0;1;;;14:06
+2026-11-12;1041;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;12:52;14:23;in_corso;4;5;16;0;1;;;14:06
+2026-11-12;1046;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;12:38;14:09;in_corso;6;7;16;0;1;;;14:06
+2026-11-12;1048;REG;R22;FN;S01739;Varese Casbeno;S01066;Milano Cadorna;13:41;14:52;in_corso;0;1;16;0;1;;;14:06
+2026-11-12;1052;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;13:38;15:09;in_corso;2;2;16;0;1;;;14:06
+2026-11-12;1054;REG;R22;FN;S01747;Laveno Mombello Lago;S01738;Varese Nord;14:09;14:56;senza_dati;0;0;9;0;1;;;14:06
+2026-11-12;1111;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;06:13;07:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1112;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;05:46;06:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1115;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;07:13;08:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1118;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;06:46;07:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1126;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;07:46;08:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1128;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;08:46;09:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1129;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;10:13;11:14;arrivato;2;3;15;0;1;;;14:06
+2026-11-12;1133;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;11:13;12:14;arrivato;1;2;15;0;1;;;14:06
+2026-11-12;1138;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;10:46;11:48;arrivato;0;1;15;0;1;;;14:06
+2026-11-12;1139;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;12:13;13:14;arrivato;1;3;15;0;1;;;14:06
+2026-11-12;1142;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;11:46;12:48;arrivato;3;7;15;0;1;;;14:06
+2026-11-12;1143;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;13:13;14:14;in_corso;6;9;15;0;1;;;14:06
+2026-11-12;1144;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;12:46;13:48;arrivato;5;6;15;0;1;;;14:06
+2026-11-12;1148;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;13:46;14:48;in_corso;4;5;15;0;1;;;14:06
+2026-11-12;1163;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;17:13;18:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1174;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;18:46;19:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1177;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;19:13;20:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1181;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;20:13;21:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1182;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;20:46;21:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1211;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;06:17;07:25;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;1224;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;07:41;08:44;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;1611;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;06:09;07:37;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1613;REG;R16;FN;S01066;Milano Cadorna;S01096;Erba;06:39;07:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1614;REG;R16;FN;S01096;Erba;S01066;Milano Cadorna;06:16;07:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1615;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;07:09;08:39;senza_dati;0;0;16;0;1;;;14:06
+2026-11-12;1617;REG;R16;FN;S01066;Milano Cadorna;S01096;Erba;07:39;08:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1622;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;07:02;08:23;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;1626;REG;R16;FN;S01096;Erba;S01066;Milano Cadorna;08:16;09:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1630;REG;R16;FN;S01096;Erba;S01066;Milano Cadorna;09:16;10:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1641;REG;R16;FN;S01066;Milano Cadorna;S01096;Erba;12:39;13:44;arrivato;6;8;15;0;1;;;14:06
+2026-11-12;1645;REG;R16;FN;S01066;Milano Cadorna;S01096;Erba;13:39;14:44;in_corso;4;4;15;0;1;;;14:06
+2026-11-12;1646;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;13:03;14:30;in_corso;9;9;18;0;1;;;14:06
+2026-11-12;1650;REG;R16;FN;S01096;Erba;S01066;Milano Cadorna;14:16;15:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1654;REG;R16;FN;S01096;Erba;S01066;Milano Cadorna;15:16;16:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1659;REG;R16;FN;S01066;Milano Cadorna;S01096;Erba;16:39;17:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1665;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;17:39;19:01;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;1670;REG;R16;FN;S01096;Erba;S01066;Milano Cadorna;18:16;19:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1673;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;18:39;20:10;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;1709;S4;S4;FN;S01066;Milano Cadorna;S01316;Camnago-Lentate;05:53;06:40;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;1908;REG;R3;FN;S01021;Iseo;S01002;Edolo;05:30;07:32;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;1910;REG;R3;FN;S09999;Brescia;S01002;Edolo;06:06;08:25;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;1911;REG;R3;FN;S01014;Pisogne;S09999;Brescia;06:01;07:11;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;1913;REG;R3;FN;S01005;Breno;S09999;Brescia;05:50;07:43;senza_dati;0;0;24;0;1;;;14:06
+2026-11-12;1915;RE;RE3;FN;S01002;Edolo;S09999;Brescia;05:51;07:56;senza_dati;0;0;13;0;1;;;14:06
+2026-11-12;1917;REG;R3;FN;S01005;Breno;S09999;Brescia;06:35;08:32;senza_dati;0;0;24;0;1;;;14:06
+2026-11-12;1944;REG;R3;FN;S09999;Brescia;S01014;Pisogne;13:18;14:38;in_corso;8;11;17;0;1;;;14:06
+2026-11-12;2014;REG;R22;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;05:38;07:22;senza_dati;0;0;23;0;1;;;14:06
+2026-11-12;2016;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;06:08;07:39;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2024;RE;RE1;FN;S01747;Laveno Mombello Lago;S01066;Milano Cadorna;07:08;08:39;senza_dati;0;0;16;0;1;;;14:06
+2026-11-12;2065;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;17:22;18:53;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2071;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;18:22;19:53;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2075;REG;R22;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;19:09;20:53;senza_dati;0;0;23;0;1;;;14:06
+2026-11-12;2081;RE;RE1;FN;S01066;Milano Cadorna;S01747;Laveno Mombello Lago;19:52;21:23;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;2107;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;05:43;06:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2113;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;06:43;07:55;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2116;RE;RE7;FN;S01765;Como Lago;S01066;Milano Cadorna;06:35;07:30;senza_dati;0;0;9;0;1;;;14:06
+2026-11-12;2120;RE;RE7;FN;S01765;Como Lago;S01066;Milano Cadorna;07:05;08:00;senza_dati;0;0;9;0;1;;;14:06
+2026-11-12;2121;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;08:13;09:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2125;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;09:13;10:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2134;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;09:46;10:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2147;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;14:13;15:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2152;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;14:46;15:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2153;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;15:13;16:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2156;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;15:46;16:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2157;RE;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;16:13;17:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2162;REG;R17;FN;S01765;Como Lago;S01066;Milano Cadorna;16:46;17:48;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2169;RE;RE7;FN;S01066;Milano Cadorna;S01765;Como Lago;18:00;18:55;senza_dati;0;0;9;0;1;;;14:06
+2026-11-12;2185;REG;R17;FN;S01066;Milano Cadorna;S01765;Como Lago;21:13;22:14;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2213;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;06:47;07:55;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2214;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;06:11;07:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2217;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;07:47;08:50;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2218;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;06:41;07:44;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2222;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;07:11;08:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2223;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;08:47;09:49;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2226;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;08:11;09:14;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2229;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;09:47;10:49;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2231;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;10:47;11:51;arrivato;8;12;12;0;1;;;14:06
+2026-11-12;2232;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;09:11;10:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2235;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;11:47;12:51;arrivato;3;7;12;0;1;;;14:06
+2026-11-12;2236;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;10:11;11:16;arrivato;1;2;12;0;1;;;14:06
+2026-11-12;2240;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;11:11;12:16;arrivato;4;5;12;0;1;;;14:06
+2026-11-12;2241;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;12:47;13:50;arrivato;3;8;12;0;1;;;14:06
+2026-11-12;2244;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;12:11;13:16;arrivato;8;8;12;0;1;;;14:06
+2026-11-12;2245;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;13:47;14:51;in_corso;4;4;12;0;1;;;14:06
+2026-11-12;2246;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;13:11;14:16;in_corso;4;5;12;0;1;;;14:06
+2026-11-12;2249;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;14:47;15:49;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2250;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;14:11;15:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2254;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;15:11;16:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2255;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;15:47;16:50;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2259;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;16:47;17:50;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2260;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;16:11;17:14;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2263;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;17:17;18:26;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2265;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;17:47;18:50;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2266;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;17:11;18:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2269;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;18:17;19:26;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2270;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;18:11;19:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2273;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;18:47;19:51;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2276;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;19:11;20:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2277;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;19:17;20:26;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2279;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;19:47;20:49;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2280;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;20:11;21:14;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2283;REG;R27;FN;S01066;Milano Cadorna;S00023;Novara Nord;20:47;21:49;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2284;REG;R27;FN;S00023;Novara Nord;S01066;Milano Cadorna;21:11;22:14;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;2411;RE;RE;RFI;S01003;Domodossola;S01700;Milano Centrale;04:55;06:38;senza_dati;0;0;9;0;0;;;14:06
+2026-11-12;2413;RE;RE;RFI;S01003;Domodossola;S01700;Milano Centrale;05:55;07:38;senza_dati;0;0;9;0;0;;;14:06
+2026-11-12;2415;RE;RE;RFI;S01003;Domodossola;S01700;Milano Centrale;06:53;08:38;senza_dati;0;0;10;0;0;;;14:06
+2026-11-12;2417;RE;RE;RFI;S01003;Domodossola;S01700;Milano Centrale;07:55;09:38;senza_dati;0;0;9;0;0;;;14:06
+2026-11-12;2419;RE;RE;RFI;S01003;Domodossola;S01700;Milano Centrale;08:55;10:38;senza_dati;0;0;9;0;0;;;14:06
+2026-11-12;2421;RE;RE;RFI;S01020;Arona;S01700;Milano Centrale;10:35;11:38;arrivato;5;9;6;0;0;;;14:06
+2026-11-12;2427;RE;RE;RFI;S01020;Arona;S01700;Milano Centrale;13:35;14:38;in_corso;4;7;6;0;0;;;14:06
+2026-11-12;2456;RV;RV;RFI;S05043;Bologna;S01645;Milano Porta Garibaldi;05:40;08:32;senza_dati;0;0;14;0;0;;;14:06
+2026-11-12;2600;RE;RE6;FN;S09999;Brescia;S01700;Milano Centrale;13:28;14:38;in_corso;3;4;8;0;1;;;14:06
+2026-11-12;2601;RE;RE6;FN;S01700;Milano Centrale;S09999;Brescia;10:25;11:36;arrivato;42;45;8;0;1;;;14:06
+2026-11-12;2649;REG;R16;FN;S01066;Milano Cadorna;S01096;Erba;14:39;15:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2655;REG;R16;FN;S01066;Milano Cadorna;S01096;Erba;15:39;16:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2656;RE;RE6;FN;S09999;Brescia;S01700;Milano Centrale;05:52;07:03;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;2658;RE;RE6;FN;S09999;Brescia;S01700;Milano Centrale;06:52;08:03;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;2660;RE;RE6;FN;S09999;Brescia;S01700;Milano Centrale;07:52;08:58;senza_dati;0;0;4;0;1;;;14:06
+2026-11-12;2660;REG;R16;FN;S01096;Erba;S01066;Milano Cadorna;16:16;17:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2666;REG;R16;FN;S01096;Erba;S01066;Milano Cadorna;17:16;18:23;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2675;RE;RE6;FN;S01700;Milano Centrale;S09999;Brescia;17:50;18:53;senza_dati;0;0;6;0;1;;;14:06
+2026-11-12;2676;REG;R16;FN;S01101;Asso;S01066;Milano Cadorna;19:03;20:23;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;2677;RE;RE6;FN;S01700;Milano Centrale;S09999;Brescia;18:50;19:53;senza_dati;0;0;4;0;1;;;14:06
+2026-11-12;2679;REG;R16;FN;S01066;Milano Cadorna;S01101;Asso;19:39;21:11;senza_dati;0;0;19;0;1;;;14:06
+2026-11-12;2683;REG;R16;FN;S01066;Milano Cadorna;S01096;Erba;20:39;21:44;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;2727;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;09:23;09:48;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2729;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;09:53;10:18;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2731;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;10:23;10:48;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2732;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;10:11;10:37;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2733;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;10:53;11:18;arrivato;0;4;8;0;1;;;14:06
+2026-11-12;2734;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;10:41;11:07;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2735;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;11:23;11:48;arrivato;-2;2;8;0;1;;;14:06
+2026-11-12;2736;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;11:11;11:37;arrivato;-1;0;8;0;1;;;14:06
+2026-11-12;2737;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;11:53;12:18;arrivato;-2;1;8;0;1;;;14:06
+2026-11-12;2738;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;11:41;12:07;arrivato;3;5;8;0;1;;;14:06
+2026-11-12;2739;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;12:23;12:48;arrivato;-2;2;8;0;1;;;14:06
+2026-11-12;2740;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;12:11;12:37;arrivato;0;1;8;0;1;;;14:06
+2026-11-12;2742;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;12:41;13:07;arrivato;0;2;8;0;1;;;14:06
+2026-11-12;2743;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;12:53;13:18;in_corso;3;3;8;0;1;;;14:06
+2026-11-12;2744;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;13:11;13:37;arrivato;3;4;8;0;1;;;14:06
+2026-11-12;2745;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;13:23;13:48;arrivato;2;6;8;0;1;;;14:06
+2026-11-12;2746;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;13:41;14:07;arrivato;0;1;8;0;1;;;14:06
+2026-11-12;2747;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;13:53;14:18;in_corso;-1;0;8;0;1;;;14:06
+2026-11-12;2748;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;14:11;14:37;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2749;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;14:23;14:48;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2750;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;14:41;15:07;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2751;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;14:53;15:18;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2752;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;15:11;15:37;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2754;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;15:41;16:07;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2755;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;15:23;15:48;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2756;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;16:11;16:37;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2757;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;15:53;16:18;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2758;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;16:41;17:07;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2759;S4;S4;FN;S01066;Milano Cadorna;S01083;Palazzolo Milanese;16:23;16:48;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2760;S4;S4;FN;S01083;Palazzolo Milanese;S01066;Milano Cadorna;17:11;17:37;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;2960;REG;R3;FN;S09999;Brescia;S01005;Breno;17:18;19:10;senza_dati;0;0;22;0;1;;;14:06
+2026-11-12;3017;RV;RV;RFI;S01700;Milano Centrale;S04801;Savona;08:25;11:57;senza_dati;0;0;21;0;0;;;14:06
+2026-11-12;7441;RE;RE;RFI;S00462;Asti;S01700;Milano Centrale;08:50;10:35;senza_dati;0;0;8;0;0;;;14:06
+2026-11-12;7443;RE;RE;RFI;S00462;Asti;S01700;Milano Centrale;12:50;14:35;in_corso;8;11;8;0;0;;;14:06
+2026-11-12;10009;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;05:39;06:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10010;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;05:20;06:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10017;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;07:39;08:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10022;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;07:20;08:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10023;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;08:39;09:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10028;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;08:20;09:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10029;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;09:39;10:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10031;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;10:39;11:40;arrivato;5;6;15;0;1;;;14:06
+2026-11-12;10032;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;09:20;10:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10035;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;11:39;12:40;arrivato;5;6;15;0;1;;;14:06
+2026-11-12;10036;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;10:20;11:22;arrivato;1;2;15;0;1;;;14:06
+2026-11-12;10040;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;11:20;12:22;arrivato;5;7;15;0;1;;;14:06
+2026-11-12;10041;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;12:39;13:40;arrivato;4;6;15;0;1;;;14:06
+2026-11-12;10044;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;12:20;13:22;arrivato;17;18;15;0;1;;;14:06
+2026-11-12;10045;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;13:39;14:40;in_corso;2;4;15;0;1;;;14:06
+2026-11-12;10046;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;13:20;14:22;in_corso;7;8;15;0;1;;;14:06
+2026-11-12;10049;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;14:39;15:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10052;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;14:20;15:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10055;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;15:39;16:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10056;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;15:20;16:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10059;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;16:39;17:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10060;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;16:20;17:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10065;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;17:39;18:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10066;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;17:20;18:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10072;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;18:20;19:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10073;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;18:39;19:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10078;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;19:20;20:22;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;10089;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;21:39;22:40;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;10090;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;22:20;23:22;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;10091;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;22:39;23:40;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;10101;REG;R1;FN;S01529;Bergamo;S09999;Brescia;07:27;08:22;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;10102;REG;R1;FN;S09999;Brescia;S01529;Bergamo;06:15;07:18;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;10103;REG;R1;FN;S01529;Bergamo;S09999;Brescia;13:42;14:36;in_corso;3;3;10;0;1;;;14:06
+2026-11-12;10104;REG;R1;FN;S09999;Brescia;S01529;Bergamo;12:42;13:32;arrivato;3;3;3;0;1;;;14:06
+2026-11-12;10105;REG;R1;FN;S01529;Bergamo;S09999;Brescia;19:42;20:38;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;10106;REG;R1;FN;S09999;Brescia;S01529;Bergamo;18:37;19:32;senza_dati;0;0;9;0;1;;;14:06
+2026-11-12;10110;REG;R1;FN;S09999;Brescia;S01529;Bergamo;05:15;06:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10112;REG;R1;FN;S09999;Brescia;S01529;Bergamo;05:57;06:56;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10114;REG;R1;FN;S09999;Brescia;S01529;Bergamo;06:57;07:56;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10115;REG;R1;FN;S01529;Bergamo;S09999;Brescia;06:06;07:05;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;10116;REG;R1;FN;S09999;Brescia;S01529;Bergamo;07:57;08:54;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10117;REG;R1;FN;S01529;Bergamo;S09999;Brescia;07:06;08:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10118;REG;R1;FN;S09999;Brescia;S01529;Bergamo;08:57;09:54;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10119;REG;R1;FN;S01529;Bergamo;S09999;Brescia;08:06;09:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10120;REG;R1;FN;S09999;Brescia;S01529;Bergamo;09:57;10:56;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10121;REG;R1;FN;S01529;Bergamo;S09999;Brescia;09:06;10:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10123;REG;R1;FN;S01529;Bergamo;S09999;Brescia;10:06;11:03;arrivato;13;13;12;0;1;;;14:06
+2026-11-12;10124;REG;R1;FN;S09999;Brescia;S01529;Bergamo;11:57;12:56;arrivato;4;4;12;0;1;;;14:06
+2026-11-12;10126;REG;R1;FN;S09999;Brescia;S01529;Bergamo;12:57;13:54;arrivato;4;4;12;0;1;;;14:06
+2026-11-12;10127;REG;R1;FN;S01529;Bergamo;S09999;Brescia;12:06;13:03;arrivato;9;9;12;0;1;;;14:06
+2026-11-12;10128;REG;R1;FN;S09999;Brescia;S01529;Bergamo;13:57;14:54;in_corso;0;0;12;0;1;;;14:06
+2026-11-12;10129;REG;R1;FN;S01529;Bergamo;S09999;Brescia;13:06;14:03;in_corso;10;10;12;0;1;;;14:06
+2026-11-12;10130;REG;R1;FN;S09999;Brescia;S01529;Bergamo;14:57;15:54;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10131;REG;R1;FN;S01529;Bergamo;S09999;Brescia;14:06;15:03;in_corso;1;1;12;0;1;;;14:06
+2026-11-12;10132;REG;R1;FN;S09999;Brescia;S01529;Bergamo;15:57;16:56;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10133;REG;R1;FN;S01529;Bergamo;S09999;Brescia;15:06;16:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10134;REG;R1;FN;S09999;Brescia;S01529;Bergamo;16:57;17:54;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10135;REG;R1;FN;S01529;Bergamo;S09999;Brescia;16:06;17:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10136;REG;R1;FN;S09999;Brescia;S01529;Bergamo;17:57;18:54;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10137;REG;R1;FN;S01529;Bergamo;S09999;Brescia;17:06;18:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10138;REG;R1;FN;S09999;Brescia;S01529;Bergamo;18:57;19:56;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10139;REG;R1;FN;S01529;Bergamo;S09999;Brescia;18:06;19:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10140;REG;R1;FN;S09999;Brescia;S01529;Bergamo;19:57;20:56;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10141;REG;R1;FN;S01529;Bergamo;S09999;Brescia;19:06;20:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10142;REG;R1;FN;S09999;Brescia;S01529;Bergamo;20:57;21:56;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10143;REG;R1;FN;S01529;Bergamo;S09999;Brescia;20:06;21:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10145;REG;R1;FN;S01529;Bergamo;S09999;Brescia;21:06;22:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10147;REG;R1;FN;S01529;Bergamo;S09999;Brescia;22:06;23:03;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10512;REG;R5;FN;S01915;Cremona;S09999;Brescia;05:24;06:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10513;REG;R5;FN;S09999;Brescia;S01915;Cremona;06:40;07:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10514;REG;R5;FN;S01915;Cremona;S09999;Brescia;06:24;07:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10516;REG;R5;FN;S01915;Cremona;S09999;Brescia;07:24;08:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10517;REG;R5;FN;S09999;Brescia;S01915;Cremona;08:40;09:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10518;REG;R5;FN;S01915;Cremona;S09999;Brescia;08:24;09:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10519;REG;R5;FN;S09999;Brescia;S01915;Cremona;09:40;10:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10520;REG;R5;FN;S01915;Cremona;S09999;Brescia;09:24;10:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10521;REG;R5;FN;S09999;Brescia;S01915;Cremona;10:40;11:38;arrivato;8;11;8;0;1;;;14:06
+2026-11-12;10522;REG;R5;FN;S01915;Cremona;S09999;Brescia;10:24;11:22;arrivato;9;9;8;0;1;;;14:06
+2026-11-12;10523;REG;R5;FN;S09999;Brescia;S01915;Cremona;11:40;12:38;arrivato;0;8;8;0;1;;;14:06
+2026-11-12;10524;REG;R5;FN;S01915;Cremona;S09999;Brescia;11:24;12:22;arrivato;9;12;8;0;1;;;14:06
+2026-11-12;10525;REG;R5;FN;S09999;Brescia;S01915;Cremona;12:40;13:38;arrivato;0;3;8;0;1;;;14:06
+2026-11-12;10526;REG;R5;FN;S01915;Cremona;S09999;Brescia;12:24;13:22;arrivato;2;7;8;0;1;;;14:06
+2026-11-12;10527;REG;R5;FN;S09999;Brescia;S01915;Cremona;13:40;14:38;in_corso;4;4;8;0;1;;;14:06
+2026-11-12;10528;REG;R5;FN;S01915;Cremona;S09999;Brescia;13:24;14:22;in_corso;3;8;8;0;1;;;14:06
+2026-11-12;10529;REG;R5;FN;S09999;Brescia;S01915;Cremona;14:40;15:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10530;REG;R5;FN;S01915;Cremona;S09999;Brescia;14:24;15:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10531;REG;R5;FN;S09999;Brescia;S01915;Cremona;15:40;16:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10532;REG;R5;FN;S01915;Cremona;S09999;Brescia;15:24;16:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10533;REG;R5;FN;S09999;Brescia;S01915;Cremona;16:40;17:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10534;REG;R5;FN;S01915;Cremona;S09999;Brescia;16:24;17:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10535;REG;R5;FN;S09999;Brescia;S01915;Cremona;17:40;18:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10536;REG;R5;FN;S01915;Cremona;S09999;Brescia;17:24;18:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10537;REG;R5;FN;S09999;Brescia;S01915;Cremona;18:40;19:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10538;REG;R5;FN;S01915;Cremona;S09999;Brescia;18:24;19:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10539;REG;R5;FN;S09999;Brescia;S01915;Cremona;19:40;20:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10540;REG;R5;FN;S01915;Cremona;S09999;Brescia;19:24;20:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10541;REG;R5;FN;S09999;Brescia;S01915;Cremona;20:40;21:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10542;REG;R5;FN;S01915;Cremona;S09999;Brescia;20:24;21:22;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10543;REG;R5;FN;S09999;Brescia;S01915;Cremona;21:40;22:38;senza_dati;0;0;8;0;1;;;14:06
+2026-11-12;10610;REG;R16;FN;S01925;Seveso;S01066;Milano Cadorna;06:02;06:37;soppresso;0;0;12;12;1;;;14:06
+2026-11-12;10812;REG;R8;FN;S05014;Parma;S09999;Brescia;05:12;07:21;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10813;REG;R8;FN;S09999;Brescia;S05014;Parma;05:49;08:01;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10814;REG;R8;FN;S05014;Parma;S09999;Brescia;06:12;08:14;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10815;REG;R8;FN;S09999;Brescia;S05014;Parma;06:49;09:10;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10816;REG;R8;FN;S05014;Parma;S09999;Brescia;07:12;09:20;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10817;REG;R8;FN;S09999;Brescia;S05014;Parma;07:49;10:21;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10818;REG;R8;FN;S05014;Parma;S09999;Brescia;08:12;10:22;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10819;REG;R8;FN;S09999;Brescia;S05014;Parma;08:49;10:57;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10820;REG;R8;FN;S05014;Parma;S09999;Brescia;09:12;11:24;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10821;REG;R8;FN;S09999;Brescia;S05014;Parma;09:49;11:51;arrivato;-3;8;18;0;1;;;14:06
+2026-11-12;10822;REG;R8;FN;S05014;Parma;S09999;Brescia;10:12;12:20;arrivato;0;6;18;0;1;;;14:06
+2026-11-12;10823;REG;R8;FN;S09999;Brescia;S05014;Parma;10:49;13:00;arrivato;0;8;18;0;1;;;14:06
+2026-11-12;10824;REG;R8;FN;S05014;Parma;S09999;Brescia;11:12;13:23;arrivato;-1;8;18;0;1;;;14:06
+2026-11-12;10825;REG;R8;FN;S09999;Brescia;S05014;Parma;11:49;14:08;arrivato;-7;5;18;0;1;;;14:06
+2026-11-12;10826;REG;R8;FN;S05014;Parma;S09999;Brescia;12:12;14:20;arrivato;0;5;18;0;1;;;14:06
+2026-11-12;10827;REG;R8;FN;S09999;Brescia;S05014;Parma;12:49;15:02;in_corso;2;3;18;0;1;;;14:06
+2026-11-12;10828;REG;R8;FN;S05014;Parma;S09999;Brescia;13:12;15:20;in_corso;2;3;18;0;1;;;14:06
+2026-11-12;10829;REG;R8;FN;S09999;Brescia;S05014;Parma;13:49;15:59;in_corso;0;2;18;0;1;;;14:06
+2026-11-12;10830;REG;R8;FN;S05014;Parma;S09999;Brescia;14:12;16:23;in_corso;-2;-2;18;0;1;;;14:06
+2026-11-12;10831;REG;R8;FN;S09999;Brescia;S05014;Parma;14:49;17:13;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10832;REG;R8;FN;S05014;Parma;S09999;Brescia;15:12;17:20;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10833;REG;R8;FN;S09999;Brescia;S05014;Parma;15:49;18:21;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10834;REG;R8;FN;S05014;Parma;S09999;Brescia;16:12;18:21;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10835;REG;R8;FN;S09999;Brescia;S05014;Parma;16:49;19:01;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10836;REG;R8;FN;S05014;Parma;S09999;Brescia;17:25;19:43;senza_dati;0;0;9;0;1;;;14:06
+2026-11-12;10837;REG;R8;FN;S09999;Brescia;S05014;Parma;17:49;19:59;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10838;REG;R8;FN;S05014;Parma;S09999;Brescia;18:12;20:23;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10839;REG;R8;FN;S09999;Brescia;S05014;Parma;18:49;21:02;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10840;REG;R8;FN;S05014;Parma;S09999;Brescia;19:12;21:26;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10841;REG;R8;FN;S09999;Brescia;S05014;Parma;19:49;21:55;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10842;REG;R8;FN;S05014;Parma;S09999;Brescia;20:12;22:25;senza_dati;0;0;18;0;1;;;14:06
+2026-11-12;10843;REG;R8;FN;S09999;Brescia;S01919;Piadena;20:49;21:56;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10904;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;06:06;07:24;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10905;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;17:15;18:27;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;10906;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;07:06;08:24;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10907;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;18:15;19:27;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;10910;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;04:37;06:05;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;10913;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;05:53;07:16;soppresso;0;0;12;12;1;;;14:06
+2026-11-12;10914;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;06:38;07:58;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10915;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;06:53;08:13;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10916;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;07:43;09:10;senza_dati;0;0;12;2;1;;;14:06
+2026-11-12;10917;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;07:53;09:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10918;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;08:47;10:10;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10919;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;08:53;10:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10920;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;09:47;11:10;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10925;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;11:53;13:16;arrivato;4;4;12;0;1;;;14:06
+2026-11-12;10926;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;12:47;14:07;arrivato;3;3;12;0;1;;;14:06
+2026-11-12;10928;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;13:47;15:07;in_corso;1;1;12;0;1;;;14:06
+2026-11-12;10929;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;13:53;15:16;in_corso;1;3;12;0;1;;;14:06
+2026-11-12;10930;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;14:47;16:10;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10931;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;14:53;16:13;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10932;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;15:47;17:07;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10933;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;15:53;17:13;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10934;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;16:47;18:07;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10935;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;16:53;18:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10936;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;17:43;19:10;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10937;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;17:53;19:13;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10938;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;18:47;20:10;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10939;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;18:53;20:13;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10940;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;19:47;21:10;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10941;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;19:53;21:16;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10943;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;20:53;22:13;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10944;REG;R4;FN;S09999;Brescia;S01326;Milano Greco Pirelli;21:47;23:10;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;10945;REG;R4;FN;S01326;Milano Greco Pirelli;S09999;Brescia;21:53;23:13;senza_dati;0;0;12;0;1;;;14:06
+2026-11-12;11012;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;05:50;06:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;11030;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;08:50;09:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;11043;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;13:09;14:10;in_corso;9;9;15;0;1;;;14:06
+2026-11-12;11044;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;12:50;13:52;arrivato;5;6;15;0;1;;;14:06
+2026-11-12;11054;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;14:50;15:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;11069;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;18:09;19:10;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;11078;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;19:50;20:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;11081;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;20:09;21:10;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;11606;REG;R16;FN;S01089;Mariano Comense;S01066;Milano Cadorna;05:20;06:07;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12018;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;06:50;07:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12021;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;08:09;09:10;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12026;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;07:50;08:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12047;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;14:09;15:10;in_corso;1;2;15;0;1;;;14:06
+2026-11-12;12053;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;15:09;16:10;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12057;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;16:09;17:10;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12058;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;15:50;16:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12062;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;16:50;17:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12063;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;17:09;18:10;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12068;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;17:50;18:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12074;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;18:50;19:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12079;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;19:39;20:40;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12082;REG;R22;FN;S01738;Varese Nord;S01066;Milano Cadorna;20:50;21:52;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;12085;REG;R22;FN;S01066;Milano Cadorna;S01738;Varese Nord;21:09;22:10;senza_dati;0;0;15;0;1;;;14:06
+2026-11-12;20909;S;S31;FN;S01021;Iseo;S09999;Brescia;05:36;06:13;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20920;S;S31;FN;S09999;Brescia;S01021;Iseo;07:46;08:24;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20921;S;S31;FN;S01021;Iseo;S09999;Brescia;08:36;09:15;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20924;S;S31;FN;S09999;Brescia;S01021;Iseo;08:46;09:27;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20925;S;S31;FN;S01021;Iseo;S09999;Brescia;09:36;10:13;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20928;S;S31;FN;S09999;Brescia;S01021;Iseo;09:46;10:27;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20929;S;S31;FN;S01021;Iseo;S09999;Brescia;10:36;11:14;arrivato;-2;-2;10;0;1;;;14:06
+2026-11-12;20932;S;S31;FN;S09999;Brescia;S01021;Iseo;10:46;11:27;arrivato;-6;-3;10;0;1;;;14:06
+2026-11-12;20933;S;S31;FN;S01021;Iseo;S09999;Brescia;11:36;12:12;arrivato;-3;3;10;0;1;;;14:06
+2026-11-12;20936;S;S31;FN;S09999;Brescia;S01021;Iseo;11:46;12:24;arrivato;-5;1;10;0;1;;;14:06
+2026-11-12;20937;S;S31;FN;S01021;Iseo;S09999;Brescia;12:36;13:16;arrivato;1;7;10;0;1;;;14:06
+2026-11-12;20940;S;S31;FN;S09999;Brescia;S01021;Iseo;12:46;13:27;arrivato;-1;7;10;0;1;;;14:06
+2026-11-12;20941;S;S31;FN;S01021;Iseo;S09999;Brescia;13:36;14:13;in_corso;7;10;10;0;1;;;14:06
+2026-11-12;20944;S;S31;FN;S09999;Brescia;S01021;Iseo;13:46;14:25;in_corso;9;9;10;0;1;;;14:06
+2026-11-12;20945;S;S31;FN;S01021;Iseo;S09999;Brescia;14:36;15:16;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20948;S;S31;FN;S09999;Brescia;S01021;Iseo;14:46;15:24;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20949;S;S31;FN;S01021;Iseo;S09999;Brescia;15:36;16:17;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20952;S;S31;FN;S09999;Brescia;S01021;Iseo;15:46;16:28;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20953;S;S31;FN;S01021;Iseo;S09999;Brescia;16:36;17:12;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20956;S;S31;FN;S09999;Brescia;S01021;Iseo;16:46;17:25;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20957;S;S31;FN;S01021;Iseo;S09999;Brescia;17:36;18:16;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20960;S;S31;FN;S09999;Brescia;S01021;Iseo;17:46;18:26;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20961;S;S31;FN;S01021;Iseo;S09999;Brescia;18:36;19:17;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20964;S;S31;FN;S09999;Brescia;S01021;Iseo;18:46;19:27;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20965;S;S31;FN;S01021;Iseo;S09999;Brescia;19:36;20:17;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20968;S;S31;FN;S09999;Brescia;S01021;Iseo;19:46;20:28;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20969;S;S31;FN;S01021;Iseo;S09999;Brescia;20:36;21:14;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20972;S;S31;FN;S09999;Brescia;S01021;Iseo;20:46;21:24;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;20976;S;S31;FN;S09999;Brescia;S01021;Iseo;21:46;22:28;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;21908;S;S31;FN;S09999;Brescia;S01021;Iseo;05:46;06:27;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;21913;S;S31;FN;S01021;Iseo;S09999;Brescia;06:46;07:25;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;21914;S;S31;FN;S09999;Brescia;S01021;Iseo;06:59;07:42;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;21966;S;S31;FN;S09999;Brescia;S01021;Iseo;19:18;20:00;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;22613;S2;S2;FN;S01642;Milano Bovisa Politecnico;S01925;Seveso;06:51;07:18;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;22619;S2;S2;FN;S01642;Milano Bovisa Politecnico;S01925;Seveso;07:51;08:18;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;22680;S2;S2;FN;S01925;Seveso;S01642;Milano Bovisa Politecnico;20:42;21:09;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;22682;S2;S2;FN;S01925;Seveso;S01642;Milano Bovisa Politecnico;21:12;21:39;senza_dati;0;0;10;0;1;;;14:06
+2026-11-12;24218;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;06:53;07:48;senza_dati;0;0;17;7;1;;;14:06
+2026-11-12;24219;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;06:42;07:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24220;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;07:53;08:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24221;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;07:12;08:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24222;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;08:23;09:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24223;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;07:42;08:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24224;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;08:53;09:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24225;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;08:12;09:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24226;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;09:23;10:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24227;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;08:42;09:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24228;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;09:53;10:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24229;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;09:12;10:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24230;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;10:23;11:18;arrivato;3;4;17;0;1;;;14:06
+2026-11-12;24231;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;09:42;10:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24232;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;10:53;11:48;arrivato;2;6;17;0;1;;;14:06
+2026-11-12;24233;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;10:12;11:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24234;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;11:23;12:18;arrivato;-1;3;17;0;1;;;14:06
+2026-11-12;24235;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;10:42;11:37;arrivato;2;8;17;0;1;;;14:06
+2026-11-12;24236;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;11:53;12:48;arrivato;3;4;17;0;1;;;14:06
+2026-11-12;24237;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;11:12;12:07;arrivato;3;6;17;0;1;;;14:06
+2026-11-12;24238;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;12:23;13:18;arrivato;0;3;17;0;1;;;14:06
+2026-11-12;24239;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;11:42;12:37;arrivato;6;6;17;0;1;;;14:06
+2026-11-12;24240;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;12:53;13:48;arrivato;3;5;17;0;1;;;14:06
+2026-11-12;24241;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;12:12;13:07;arrivato;1;5;17;0;1;;;14:06
+2026-11-12;24242;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;13:23;14:18;in_corso;1;3;17;0;1;;;14:06
+2026-11-12;24243;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;12:42;13:37;arrivato;1;7;17;0;1;;;14:06
+2026-11-12;24244;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;13:53;14:48;in_corso;0;4;17;0;1;;;14:06
+2026-11-12;24245;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;13:12;14:07;arrivato;2;7;17;0;1;;;14:06
+2026-11-12;24246;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;14:23;15:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24247;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;13:42;14:37;in_corso;0;3;17;0;1;;;14:06
+2026-11-12;24248;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;14:53;15:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24249;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;14:12;15:07;in_corso;0;0;17;0;1;;;14:06
+2026-11-12;24250;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;15:23;16:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24251;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;14:42;15:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24252;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;15:53;16:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24253;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;15:12;16:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24254;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;16:23;17:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24255;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;15:42;16:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24256;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;16:53;17:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24257;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;16:12;17:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24258;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;17:23;18:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24259;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;16:42;17:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24260;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;17:53;18:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24261;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;17:12;18:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24262;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;18:23;19:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24263;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;17:42;18:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24264;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;18:53;19:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24265;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;18:12;19:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24266;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;19:23;20:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24267;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;18:42;19:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24268;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;19:53;20:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24269;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;19:12;20:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24270;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;20:23;21:18;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24271;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;19:42;20:37;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24272;S2;S2;FN;S01820;Milano Rogoredo;S01925;Seveso;20:53;21:48;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;24273;S2;S2;FN;S01925;Seveso;S01820;Milano Rogoredo;20:12;21:07;senza_dati;0;0;17;0;1;;;14:06
+2026-11-12;25504;RE;RE;RFI;S01326;Milano Greco Pirelli;S01301;Chiasso;05:43;06:29;senza_dati;0;0;7;0;0;;;14:06
+2026-11-12;25553;S50;S50;FN;S13143;Mendrisio;S01146;Malpensa Aeroporto T2;04:33;05:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25553;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;04:37;05:47;senza_dati;0;0;11;0;0;;;14:06
+2026-11-12;25555;S50;S50;FN;S05213;Bellinzona;S01146;Malpensa Aeroporto T2;04:33;06:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25555;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;05:37;06:47;senza_dati;0;0;11;0;0;;;14:06
+2026-11-12;25557;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;05:15;07:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25557;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;06:37;07:47;senza_dati;0;0;11;0;0;;;14:06
+2026-11-12;25558;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05213;Bellinzona;06:13;08:07;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25559;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;06:25;08:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25560;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;07:13;09:37;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25561;S50;S50;FN;S05201;Airolo;S01146;Malpensa Aeroporto T2;06:38;09:47;senza_dati;0;0;11;4;1;;;14:06
+2026-11-12;25562;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;08:13;10:37;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25563;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;08:25;10:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25564;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;09:13;11:37;senza_dati;0;0;11;7;1;;;14:06
+2026-11-12;25565;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;09:25;11:47;soppresso;0;0;11;11;1;;;14:06
+2026-11-12;25565;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;10:37;11:47;soppresso;0;0;11;11;0;;;14:06
+2026-11-12;25566;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;10:13;12:37;soppresso;0;0;11;11;1;;;14:06
+2026-11-12;25567;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;10:25;12:47;arrivato;1;4;11;0;1;;;14:06
+2026-11-12;25567;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;11:37;12:47;arrivato;1;4;11;0;0;;;14:06
+2026-11-12;25568;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;11:13;13:37;arrivato;0;3;11;0;1;;;14:06
+2026-11-12;25569;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;11:25;13:47;arrivato;3;4;11;0;1;;;14:06
+2026-11-12;25569;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;12:37;13:47;arrivato;3;4;11;0;0;;;14:06
+2026-11-12;25570;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;12:13;14:37;arrivato;-1;6;11;0;1;;;14:06
+2026-11-12;25571;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;12:25;14:47;in_corso;1;4;11;0;1;;;14:06
+2026-11-12;25571;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;13:37;14:47;in_corso;2;4;11;0;0;;;14:06
+2026-11-12;25572;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;13:13;15:37;in_corso;0;4;11;0;1;;;14:06
+2026-11-12;25573;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;13:25;15:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25573;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;14:37;15:47;senza_dati;0;0;11;0;0;;;14:06
+2026-11-12;25574;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;14:13;16:37;in_corso;0;0;11;0;1;;;14:06
+2026-11-12;25575;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;14:25;16:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25575;;;FN;S19919;Stabio;S01146;Malpensa Aeroporto T2;15:37;16:47;senza_dati;0;0;11;0;0;;;14:06
+2026-11-12;25576;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05201;Airolo;15:13;18:20;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25577;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;15:25;17:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25578;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;16:13;18:37;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25579;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;16:25;18:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25580;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;17:13;19:37;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25581;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;17:25;19:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25582;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;18:13;20:37;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25583;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;18:25;20:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25584;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;19:13;21:37;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25585;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;19:25;21:47;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25586;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;20:13;22:37;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25587;S50;S50;FN;S05209;Biasca;S01146;Malpensa Aeroporto T2;20:25;22:47;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;25588;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05209;Biasca;21:13;23:37;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25590;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05213;Bellinzona;22:13;00:26;senza_dati;0;0;11;0;1;;;14:06
+2026-11-12;25592;S50;S50;FN;S01146;Malpensa Aeroporto T2;S05213;Bellinzona;23:13;01:26;senza_dati;0;0;7;0;1;;;14:06
+2026-11-12;33173;S11;S11;RFI;S01307;Como S.Giovanni;S01645;Milano Porta Garibaldi;23:20;00:27;senza_dati;0;0;13;0;0;;;14:06
+2026-11-12;33193;S11;S11;RFI;S01318;Seregno;S01645;Milano Porta Garibaldi;00:19;00:58;senza_dati;0;0;7;0;0;;;14:06
+2026-11-12;33303;RE;RE;FN;S01700;Milano Centrale;S09999;Brescia;23:25;00:33;senza_dati;0;0;8;0;0;;;14:06
+2026-11-12;33577;REG;REG;FN;S01700;Milano Centrale;S09999;Brescia;00:15;01:35;senza_dati;0;0;11;0;0;;;14:06
+2026-11-12;88488;RE;RE;RFI;S01529;Bergamo;S01700;Milano Centrale;05:58;06:50;senza_dati;0;0;7;0;0;;;14:06
+2026-11-12;88490;RE;RE;RFI;S01529;Bergamo;S01700;Milano Centrale;06:58;07:50;senza_dati;0;0;7;0;0;;;14:06
