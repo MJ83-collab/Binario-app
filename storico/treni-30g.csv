@@ -116,7 +116,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 169;REG;Milano Cadorna;S01933;Saronno;4;0;5.0;50.0;2026-11-07:1|2026-11-08:2|2026-11-11:9|2026-11-12:8;RFI
 170;REG;Como Lago;S01933;Saronno;1;0;2.0;100.0;2026-11-09:2;RFI
 173;EC;Chiasso;S01307;Como S. Giovanni;2;0;-7.0;100.0;2026-11-09:-7|2026-11-11:-7;RFI
-173;EC;Chiasso;S01700;Milano Centrale;4;0;-3.5;100.0;2026-11-05:-6|2026-11-09:-2|2026-11-10:-5|2026-11-11:-1;RFI
+173;EC;Chiasso;S01700;Milano Centrale;5;0;-2.8;100.0;2026-11-05:-6|2026-11-09:-2|2026-11-10:-5|2026-11-11:-1|2026-11-12:0;RFI
 176;REG;Como Lago;S01066;Milano Cadorna;1;0;0.0;100.0;2026-11-11:0;Trenord-FN
 178;REG;Como Lago;S01066;Milano Cadorna;7;0;-1.1;100.0;2026-11-05:1|2026-11-06:-4|2026-11-07:-1|2026-11-08:-1|2026-11-09:-2|2026-11-10:0|2026-11-11:-1;Trenord-FN
 178;EC;Milano Centrale;S01307;Como S. Giovanni;3;0;-2.0;100.0;2026-11-06:1|2026-11-10:-7|2026-11-12:0;RFI
@@ -196,7 +196,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 368;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;5;0;5.6;40.0;2026-11-06:3|2026-11-09:8|2026-11-10:3|2026-11-11:7|2026-11-12:7;RFI
 371;REG;Milano Cadorna;S01933;Saronno;4;0;3.5;75.0;2026-11-06:2|2026-11-09:3|2026-11-11:6|2026-11-12:3;RFI
 374;REG;Malpensa Aeroporto Terminal 2;S01933;Saronno;4;0;3.5;100.0;2026-11-05:3|2026-11-06:4|2026-11-09:3|2026-11-10:4;RFI
-377;REG;Milano Cadorna;S01933;Saronno;5;0;2.2;80.0;2026-11-05:1|2026-11-06:1|2026-11-09:2|2026-11-10:-1|2026-11-11:8;RFI
+377;REG;Milano Cadorna;S01933;Saronno;6;0;2.0;83.3;2026-11-05:1|2026-11-06:1|2026-11-09:2|2026-11-10:-1|2026-11-11:8|2026-11-12:1;RFI
 378;RE;Malpensa Aeroporto T2;S01066;Milano Cadorna;1;0;6.0;0.0;2026-11-11:6;Trenord-FN
 379;RE;Milano Cadorna;S01146;Malpensa Aeroporto T2;3;0;1.7;100.0;2026-11-07:1|2026-11-10:5|2026-11-11:-1;Trenord-FN
 380;RE;Malpensa Aeroporto T2;S01066;Milano Cadorna;7;0;1.1;100.0;2026-11-05:1|2026-11-06:0|2026-11-07:2|2026-11-08:-3|2026-11-09:3|2026-11-10:3|2026-11-11:2;Trenord-FN
@@ -250,7 +250,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 556;IC;Reggio Di Calabria Centrale;S09818;Salerno;1;0;7.0;0.0;2026-11-07:7;RFI
 560;IC;Reggio Di Calabria Centrale;S08409;Roma Termini;5;0;-0.6;100.0;2026-11-05:2|2026-11-08:-2|2026-11-09:4|2026-11-10:-6|2026-11-11:-1;RFI
 560;IC;Reggio Di Calabria Centrale;S09218;Napoli Centrale;1;0;17.0;0.0;2026-11-05:17;RFI
-560;IC;Reggio Di Calabria Centrale;S09818;Salerno;2;0;5.0;50.0;2026-11-08:3|2026-11-10:7;RFI
+560;IC;Reggio Di Calabria Centrale;S09818;Salerno;3;0;7.0;33.3;2026-11-08:3|2026-11-10:7|2026-11-12:11;RFI
 561;IC;Roma Termini;S09818;Salerno;3;0;11.3;0.0;2026-11-06:8|2026-11-10:12|2026-11-11:14;RFI
 580;IC;Terni;S01700;Milano Centrale;1;0;-6.0;100.0;2026-11-08:-6;RFI
 580;IC;Terni;S05043;Bologna Centrale;1;0;17.0;0.0;2026-11-06:17;RFI
@@ -467,7 +467,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 865;REG;Milano Cadorna;S01933;Saronno;1;0;0.0;100.0;2026-11-05:0;RFI
 869;REG;Milano Cadorna;S01933;Saronno;5;1;0.0;100.0;2026-11-05:S|2026-11-06:0|2026-11-09:0|2026-11-11:0|2026-11-12:0;RFI
 872;S3;Saronno;S01066;Milano Cadorna;1;1;0.0;0.0;2026-11-06:S;Trenord-FN
-875;REG;Milano Cadorna;S01933;Saronno;7;0;0.0;100.0;2026-11-05:0|2026-11-06:0|2026-11-07:0|2026-11-08:0|2026-11-09:0|2026-11-10:0|2026-11-11:0;RFI
+875;REG;Milano Cadorna;S01933;Saronno;8;0;0.0;100.0;2026-11-05:0|2026-11-06:0|2026-11-07:0|2026-11-08:0|2026-11-09:0|2026-11-10:0|2026-11-11:0|2026-11-12:0;RFI
 876;S3;Saronno;S01066;Milano Cadorna;1;0;3.0;100.0;2026-11-11:3;Trenord-FN
 878;S3;Saronno;S01066;Milano Cadorna;6;0;5.0;66.7;2026-11-06:-1|2026-11-07:10|2026-11-08:-1|2026-11-09:17|2026-11-10:1|2026-11-11:4;Trenord-FN
 880;S3;Saronno;S01066;Milano Cadorna;6;0;1.2;100.0;2026-11-06:-1|2026-11-07:0|2026-11-08:0|2026-11-09:1|2026-11-10:5|2026-11-11:2;Trenord-FN
@@ -641,7 +641,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2134;REG;Alessandria;S00219;Torino Porta Nuova;2;0;-5.0;100.0;2026-11-10:-6|2026-11-11:-4;RFI
 2136;REG;Genova Brignole;S00219;Torino Porta Nuova;5;0;-1.4;100.0;2026-11-08:-2|2026-11-09:1|2026-11-10:-7|2026-11-11:1|2026-11-12:0;RFI
 2137;REG;Torino Porta Nuova;S04700;Genova Piazza Principe;2;0;-5.0;100.0;2026-11-07:-3|2026-11-08:-7;RFI
-2138;REG;Genova Brignole;S00219;Torino Porta Nuova;4;0;-1.8;100.0;2026-11-08:1|2026-11-09:-3|2026-11-10:-5|2026-11-11:0;RFI
+2138;REG;Genova Brignole;S00219;Torino Porta Nuova;5;0;-1.2;100.0;2026-11-08:1|2026-11-09:-3|2026-11-10:-5|2026-11-11:0|2026-11-12:1;RFI
 2139;REG;Torino Porta Nuova;S04700;Genova Piazza Principe;2;0;0.5;100.0;2026-11-07:0|2026-11-08:1;RFI
 2140;REG;Genova Brignole;S00219;Torino Porta Nuova;2;0;1.5;100.0;2026-11-09:0|2026-11-10:3;RFI
 2140;REG;Genova Brignole;S04700;Genova Piazza Principe;1;0;11.0;0.0;2026-11-07:11;RFI
@@ -731,7 +731,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2238;RE;Bergamo;S01700;Milano Centrale;2;1;1.0;100.0;2026-11-09:1|2026-11-11:S;Trenord-RFI
 2239;REG;Milano Centrale;S01529;Bergamo;1;0;-6.0;100.0;2026-11-05:-6;RFI
 2240;REG;Novara Nord;S01066;Milano Cadorna;3;0;2.0;100.0;2026-11-06:2|2026-11-09:3|2026-11-11:1;Trenord-FN
-2240;REG;Bergamo;S01700;Milano Centrale;2;0;3.0;100.0;2026-11-05:2|2026-11-11:4;RFI
+2240;REG;Bergamo;S01700;Milano Centrale;3;0;1.7;100.0;2026-11-05:2|2026-11-11:4|2026-11-12:-1;RFI
 2240;REG;Novara Nord;S01933;Saronno;3;0;5.3;33.3;2026-11-06:6|2026-11-11:4|2026-11-12:6;RFI
 2241;REG;Milano Cadorna;S00023;Novara Nord;3;0;4.3;100.0;2026-11-06:5|2026-11-09:3|2026-11-11:5;Trenord-FN
 2241;RE;Milano Centrale;S01529;Bergamo;6;0;3.7;50.0;2026-11-06:0|2026-11-07:-8|2026-11-08:-1|2026-11-09:12|2026-11-10:9|2026-11-11:10;Trenord-RFI
@@ -759,8 +759,8 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2273;REG;Milano Porta Garibaldi;S01529;Bergamo;2;0;-2.0;100.0;2026-11-10:-7|2026-11-11:3;RFI
 2275;REG;Milano Porta Garibaldi;S01529;Bergamo;5;0;-0.8;100.0;2026-11-06:-3|2026-11-09:5|2026-11-10:2|2026-11-11:-3|2026-11-12:-5;RFI
 2277;REG;Milano Cadorna;S00023;Novara Nord;1;0;3.0;100.0;2026-11-11:3;Trenord-FN
-2277;REG;Milano Porta Garibaldi;S01529;Bergamo;5;0;-2.6;100.0;2026-11-05:-1|2026-11-06:-5|2026-11-09:1|2026-11-10:-4|2026-11-11:-4;RFI
-2277;REG;Milano Cadorna;S01933;Saronno;4;0;7.0;50.0;2026-11-06:3|2026-11-09:14|2026-11-10:2|2026-11-11:9;RFI
+2277;REG;Milano Porta Garibaldi;S01529;Bergamo;6;0;-0.2;83.3;2026-11-05:-1|2026-11-06:-5|2026-11-09:1|2026-11-10:-4|2026-11-11:-4|2026-11-12:12;RFI
+2277;REG;Milano Cadorna;S01933;Saronno;5;0;6.8;40.0;2026-11-06:3|2026-11-09:14|2026-11-10:2|2026-11-11:9|2026-11-12:6;RFI
 2278;RE;Bergamo;S01645;Milano Porta Garibaldi;1;1;0.0;0.0;2026-11-06:S;Trenord-RFI
 2279;REG;Milano Cadorna;S00023;Novara Nord;4;0;16.0;25.0;2026-11-06:23|2026-11-09:26|2026-11-10:5|2026-11-11:10;Trenord-FN
 2279;RE;Milano Porta Garibaldi;S01529;Bergamo;5;0;0.4;100.0;2026-11-05:-1|2026-11-06:2|2026-11-09:4|2026-11-10:2|2026-11-11:-5;Trenord-RFI
@@ -829,7 +829,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2431;REG;Domodossola;S01700;Milano Centrale;6;0;0.2;100.0;2026-11-05:-2|2026-11-06:-1|2026-11-09:1|2026-11-10:2|2026-11-11:3|2026-11-12:-2;RFI
 2433;REG;Domodossola;S01700;Milano Centrale;4;0;1.2;100.0;2026-11-06:1|2026-11-08:-4|2026-11-10:5|2026-11-11:3;RFI
 2435;REG;Domodossola;S01700;Milano Centrale;4;0;4.5;75.0;2026-11-06:-1|2026-11-09:0|2026-11-10:3|2026-11-11:16;RFI
-2437;REG;Domodossola;S01700;Milano Centrale;6;0;2.7;83.3;2026-11-05:2|2026-11-06:-2|2026-11-07:1|2026-11-09:-1|2026-11-10:5|2026-11-11:11;RFI
+2437;REG;Domodossola;S01700;Milano Centrale;7;0;2.6;85.7;2026-11-05:2|2026-11-06:-2|2026-11-07:1|2026-11-09:-1|2026-11-10:5|2026-11-11:11|2026-11-12:2;RFI
 2439;REG;Domodossola;S01700;Milano Centrale;6;0;2.2;83.3;2026-11-05:13|2026-11-06:2|2026-11-08:-2|2026-11-09:-1|2026-11-10:0|2026-11-11:1;RFI
 2443;RE;Domodossola;S01700;Milano Centrale;6;0;1.2;100.0;2026-11-05:3|2026-11-06:2|2026-11-08:-4|2026-11-09:3|2026-11-10:3|2026-11-11:0;Trenord-RFI
 2451;REG;Milano Centrale;S05043;Bologna Centrale;4;0;-0.8;100.0;2026-11-06:-1|2026-11-09:-3|2026-11-11:2|2026-11-12:-1;RFI
@@ -863,7 +863,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2478;REG;Bologna Centrale;S01700;Milano Centrale;4;0;3.5;75.0;2026-11-06:-2|2026-11-09:7|2026-11-11:5|2026-11-12:4;RFI
 2478;REG;Bologna Centrale;S01820;Milano Rogoredo;1;0;2.0;100.0;2026-11-08:2;RFI
 2479;REG;Milano Centrale;S01820;Milano Rogoredo;2;0;3.5;100.0;2026-11-07:5|2026-11-08:2;RFI
-2480;REG;Parma;S01700;Milano Centrale;4;0;0.2;100.0;2026-11-05:1|2026-11-09:4|2026-11-10:-2|2026-11-11:-2;RFI
+2480;REG;Parma;S01700;Milano Centrale;5;0;1.4;80.0;2026-11-05:1|2026-11-09:4|2026-11-10:-2|2026-11-11:-2|2026-11-12:6;RFI
 2480;REG;Parma;S01820;Milano Rogoredo;3;0;7.3;33.3;2026-11-06:11|2026-11-07:8|2026-11-08:3;RFI
 2482;REG;Bologna Centrale;S01700;Milano Centrale;2;0;4.0;100.0;2026-11-09:5|2026-11-11:3;RFI
 2482;REG;Bologna Centrale;S01820;Milano Rogoredo;3;0;10.3;33.3;2026-11-06:16|2026-11-07:3|2026-11-10:12;RFI
@@ -896,7 +896,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2537;REG;Porto Ceresio;S01205;Varese;2;0;7.5;50.0;2026-11-06:4|2026-11-10:11;RFI
 2538;RE;Milano Porta Garibaldi;S01200;Porto Ceresio;7;0;10.6;28.6;2026-11-05:27|2026-11-06:4|2026-11-07:8|2026-11-08:0|2026-11-09:20|2026-11-10:8|2026-11-11:7;Trenord-RFI
 2538;REG;Milano Porta Garibaldi;S01205;Varese;1;0;15.0;0.0;2026-11-07:15;RFI
-2539;REG;Porto Ceresio;S01205;Varese;4;0;4.2;100.0;2026-11-06:5|2026-11-07:3|2026-11-08:4|2026-11-11:5;RFI
+2539;REG;Porto Ceresio;S01205;Varese;5;0;5.4;80.0;2026-11-06:5|2026-11-07:3|2026-11-08:4|2026-11-11:5|2026-11-12:10;RFI
 2539;RE;Porto Ceresio;S01645;Milano Porta Garibaldi;1;0;1.0;100.0;2026-11-11:1;Trenord-RFI
 2540;RE;Milano Porta Garibaldi;S01200;Porto Ceresio;7;0;7.7;85.7;2026-11-05:4|2026-11-06:4|2026-11-07:53|2026-11-08:-4|2026-11-09:-2|2026-11-10:0|2026-11-11:-1;Trenord-RFI
 2541;REG;Porto Ceresio;S01205;Varese;3;0;5.3;66.7;2026-11-06:10|2026-11-07:2|2026-11-08:4;RFI
@@ -937,13 +937,13 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2635;REG;Milano Centrale;S02430;Verona Porta Nuova;2;0;0.0;100.0;2026-11-07:-1|2026-11-08:1;RFI
 2636;REG;Verona Porta Nuova;S01700;Milano Centrale;4;0;4.5;75.0;2026-11-06:4|2026-11-08:1|2026-11-10:8|2026-11-11:5;RFI
 2636;REG;Verona Porta Nuova;S01717;Brescia;2;0;-2.0;100.0;2026-11-07:-2|2026-11-08:-2;RFI
-2637;REG;Milano Centrale;S01717;Brescia;3;0;5.7;33.3;2026-11-07:6|2026-11-08:2|2026-11-10:9;RFI
+2637;REG;Milano Centrale;S01717;Brescia;4;0;9.8;25.0;2026-11-07:6|2026-11-08:2|2026-11-10:9|2026-11-12:22;RFI
 2637;REG;Milano Centrale;S02430;Verona Porta Nuova;2;0;0.5;100.0;2026-11-07:2|2026-11-08:-1;RFI
 2638;REG;Verona Porta Nuova;S01700;Milano Centrale;3;0;4.7;66.7;2026-11-06:3|2026-11-09:4|2026-11-10:7;RFI
 2638;REG;Verona Porta Nuova;S01717;Brescia;2;0;-2.5;100.0;2026-11-07:-2|2026-11-08:-3;RFI
 2639;REG;Milano Centrale;S01717;Brescia;4;0;6.8;50.0;2026-11-05:16|2026-11-06:12|2026-11-07:0|2026-11-08:-1;RFI
 2639;RE;Milano Centrale;S02430;Verona Porta Nuova;7;0;2.0;71.4;2026-11-05:12|2026-11-06:8|2026-11-07:-5|2026-11-08:-4|2026-11-09:0|2026-11-10:2|2026-11-11:1;Trenord-RFI
-2640;REG;Verona Porta Nuova;S01700;Milano Centrale;6;0;5.3;66.7;2026-11-05:-1|2026-11-06:13|2026-11-08:5|2026-11-09:4|2026-11-10:5|2026-11-11:6;RFI
+2640;REG;Verona Porta Nuova;S01700;Milano Centrale;7;0;5.1;71.4;2026-11-05:-1|2026-11-06:13|2026-11-08:5|2026-11-09:4|2026-11-10:5|2026-11-11:6|2026-11-12:4;RFI
 2640;REG;Verona Porta Nuova;S01717;Brescia;1;0;8.0;0.0;2026-11-07:8;RFI
 2641;REG;Milano Centrale;S01717;Brescia;2;0;1.0;100.0;2026-11-08:1|2026-11-10:1;RFI
 2641;REG;Milano Centrale;S02430;Verona Porta Nuova;7;0;1.9;85.7;2026-11-05:2|2026-11-06:-3|2026-11-07:10|2026-11-08:-1|2026-11-09:4|2026-11-10:2|2026-11-11:-1;RFI
@@ -975,7 +975,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2691;REG;Milano Porta Garibaldi;S01717;Brescia;1;0;-2.0;100.0;2026-11-08:-2;RFI
 2693;REG;Milano Porta Garibaldi;S01717;Brescia;2;0;6.5;50.0;2026-11-10:4|2026-11-11:9;RFI
 2695;RE;Bolzano;S01645;Milano Porta Garibaldi;5;0;5.6;40.0;2026-11-05:12|2026-11-06:-2|2026-11-09:-1|2026-11-10:12|2026-11-11:7;Trenord-RFI
-2695;REG;Bolzano;S01717;Brescia;1;0;5.0;100.0;2026-11-06:5;RFI
+2695;REG;Bolzano;S01717;Brescia;2;0;10.5;50.0;2026-11-06:5|2026-11-12:16;RFI
 2697;RE;Bolzano;S01645;Milano Porta Garibaldi;2;0;-1.5;100.0;2026-11-07:-2|2026-11-08:-1;Trenord-RFI
 2697;REG;Bolzano;S01717;Brescia;2;0;-0.5;100.0;2026-11-07:-1|2026-11-08:0;RFI
 2712;REG;Ivrea;S00219;Torino Porta Nuova;1;1;0.0;0.0;2026-11-10:S;RFI
@@ -1057,8 +1057,8 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2836;REG;Milano Centrale;S01322;Monza;5;0;7.8;40.0;2026-11-06:4|2026-11-08:3|2026-11-10:7|2026-11-11:19|2026-11-12:6;RFI
 2836;RE;Milano Centrale;S01440;Tirano;5;0;4.8;80.0;2026-11-05:2|2026-11-06:1|2026-11-07:-3|2026-11-08:1|2026-11-11:23;Trenord-RFI
 2837;REG;Tirano;S01322;Monza;1;0;8.0;0.0;2026-11-08:8;RFI
-2837;REG;Tirano;S01700;Milano Centrale;5;0;4.6;80.0;2026-11-05:4|2026-11-06:4|2026-11-09:5|2026-11-10:1|2026-11-11:9;RFI
-2838;REG;Milano Centrale;S01322;Monza;3;0;1.0;100.0;2026-11-06:2|2026-11-07:-1|2026-11-08:2;RFI
+2837;REG;Sondrio;S01700;Milano Centrale;6;0;4.7;83.3;2026-11-05:4|2026-11-06:4|2026-11-09:5|2026-11-10:1|2026-11-11:9|2026-11-12:5;RFI
+2838;REG;Milano Centrale;S01322;Monza;4;0;2.5;75.0;2026-11-06:2|2026-11-07:-1|2026-11-08:2|2026-11-12:7;RFI
 2838;RE;Milano Centrale;S01440;Tirano;7;0;0.3;100.0;2026-11-05:3|2026-11-06:3|2026-11-07:-4|2026-11-08:0|2026-11-09:1|2026-11-10:-2|2026-11-11:1;Trenord-RFI
 2839;RE;Tirano;S01700;Milano Centrale;6;0;9.3;50.0;2026-11-05:3|2026-11-07:18|2026-11-08:8|2026-11-09:2|2026-11-10:2|2026-11-11:23;Trenord-RFI
 2840;REG;Milano Centrale;S01322;Monza;2;0;4.5;50.0;2026-11-07:6|2026-11-08:3;RFI
@@ -1080,7 +1080,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2868;REG;Milano Rogoredo;S01322;Monza;3;0;5.7;66.7;2026-11-06:9|2026-11-10:3|2026-11-11:5;RFI
 2874;REG;Milano Centrale;S01322;Monza;2;1;9.0;0.0;2026-11-05:9|2026-11-09:S;RFI
 2874;REG;Milano Centrale;S01520;Lecco;4;1;1.3;100.0;2026-11-06:1|2026-11-09:S|2026-11-10:4|2026-11-12:-1;RFI
-2876;REG;Milano Rogoredo;S01520;Lecco;5;0;2.4;80.0;2026-11-05:1|2026-11-07:4|2026-11-09:0|2026-11-10:0|2026-11-11:7;RFI
+2876;REG;Milano Rogoredo;S01520;Lecco;6;0;3.5;66.7;2026-11-05:1|2026-11-07:4|2026-11-09:0|2026-11-10:0|2026-11-11:7|2026-11-12:9;RFI
 2913;REG;Saronno;S01700;Milano Centrale;6;0;-1.0;100.0;2026-11-06:0|2026-11-07:-3|2026-11-08:-1|2026-11-10:-1|2026-11-11:-2|2026-11-12:1;RFI
 2916;REG;Milano Centrale;S01933;Saronno;4;0;0.5;100.0;2026-11-06:1|2026-11-09:1|2026-11-11:1|2026-11-12:-1;RFI
 2917;REG;Gallarate;S01700;Milano Centrale;6;0;4.3;66.7;2026-11-06:6|2026-11-07:6|2026-11-08:2|2026-11-10:4|2026-11-11:5|2026-11-12:3;RFI
@@ -1132,7 +1132,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 2966;REG;Milano Centrale;S01933;Saronno;2;0;3.5;100.0;2026-11-07:4|2026-11-08:3;RFI
 2967;REG;Gallarate;S01933;Saronno;4;0;-3.0;100.0;2026-11-06:-3|2026-11-07:-6|2026-11-08:-5|2026-11-10:2;RFI
 2968;REG;Milano Centrale;S01933;Saronno;1;0;1.0;100.0;2026-11-09:1;RFI
-2969;REG;Gallarate;S01700;Milano Centrale;7;0;3.1;85.7;2026-11-05:16|2026-11-06:3|2026-11-07:3|2026-11-08:1|2026-11-09:-3|2026-11-10:1|2026-11-11:1;RFI
+2969;REG;Gallarate;S01700;Milano Centrale;8;0;3.4;87.5;2026-11-05:16|2026-11-06:3|2026-11-07:3|2026-11-08:1|2026-11-09:-3|2026-11-10:1|2026-11-11:1|2026-11-12:5;RFI
 2971;REG;Gallarate;S01933;Saronno;2;0;-1.5;100.0;2026-11-07:-2|2026-11-08:-1;RFI
 2972;RE;Milano Centrale;S01030;Gallarate;2;0;4.0;50.0;2026-11-07:10|2026-11-11:-2;Trenord-RFI
 2973;REG;Malpensa Aeroporto Terminal 2;S01700;Milano Centrale;6;0;3.7;66.7;2026-11-05:8|2026-11-06:8|2026-11-08:-1|2026-11-09:0|2026-11-10:3|2026-11-11:4;RFI
@@ -1202,7 +1202,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 3038;REG;Genova Piazza Principe;S01820;Milano Rogoredo;1;0;-1.0;100.0;2026-11-11:-1;RFI
 3038;REG;Genova Piazza Principe;S01860;Pavia;3;0;4.0;66.7;2026-11-06:1|2026-11-10:11|2026-11-12:0;RFI
 3039;REG;Milano Lambrate;S01860;Pavia;1;0;6.0;0.0;2026-11-07:6;RFI
-3040;REG;Genova Brignole;S01700;Milano Centrale;5;0;1.6;80.0;2026-11-05:-1|2026-11-06:11|2026-11-09:4|2026-11-10:-1|2026-11-11:-5;RFI
+3040;REG;Genova Brignole;S01700;Milano Centrale;6;0;1.2;83.3;2026-11-05:-1|2026-11-06:11|2026-11-09:4|2026-11-10:-1|2026-11-11:-5|2026-11-12:-1;RFI
 3040;REG;Genova Brignole;S04700;Genova Piazza Principe;3;0;0.3;100.0;2026-11-06:-1|2026-11-10:1|2026-11-11:1;RFI
 3041;REG;Milano Centrale;S01820;Milano Rogoredo;2;0;5.5;50.0;2026-11-06:7|2026-11-08:4;RFI
 3041;REG;Milano Centrale;S04700;Genova Piazza Principe;1;0;9.0;0.0;2026-11-06:9;RFI
@@ -1239,7 +1239,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 3126;REG;Savona;S00219;Torino Porta Nuova;3;0;1.3;100.0;2026-11-07:0|2026-11-08:1|2026-11-10:3;RFI
 3128;REG;Savona;S00219;Torino Porta Nuova;4;0;2.8;75.0;2026-11-05:-1|2026-11-07:-1|2026-11-08:2|2026-11-09:11;RFI
 3134;REG;Savona;S00219;Torino Porta Nuova;4;0;1.5;100.0;2026-11-06:1|2026-11-08:1|2026-11-10:3|2026-11-11:1;RFI
-3137;REG;Taggia Arma;S00219;Torino Porta Nuova;7;0;3.7;71.4;2026-11-05:10|2026-11-06:12|2026-11-07:-1|2026-11-08:-2|2026-11-09:-1|2026-11-10:3|2026-11-11:5;RFI
+3137;REG;Ventimiglia;S00219;Torino Porta Nuova;8;0;3.1;75.0;2026-11-05:10|2026-11-06:12|2026-11-07:-1|2026-11-08:-2|2026-11-09:-1|2026-11-10:3|2026-11-11:5|2026-11-12:-1;RFI
 3141;REG;Ventimiglia;S00219;Torino Porta Nuova;5;0;2.2;80.0;2026-11-05:0|2026-11-06:2|2026-11-08:1|2026-11-09:1|2026-11-10:7;RFI
 3145;REG;Ventimiglia;S00219;Torino Porta Nuova;5;0;-0.2;100.0;2026-11-05:-2|2026-11-06:-1|2026-11-09:1|2026-11-10:0|2026-11-11:1;RFI
 3206;REG;Cuneo;S00219;Torino Porta Nuova;3;0;-1.7;100.0;2026-11-06:-1|2026-11-09:-1|2026-11-12:-3;RFI
@@ -1264,7 +1264,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 3376;REG;Genova Brignole;S04700;Genova Piazza Principe;2;0;1.5;100.0;2026-11-05:0|2026-11-09:3;RFI
 3380;REG;Genova Brignole;S04700;Genova Piazza Principe;3;0;5.0;33.3;2026-11-06:2|2026-11-10:6|2026-11-11:7;RFI
 3383;REG;Ventimiglia;S04700;Genova Piazza Principe;4;0;1.0;100.0;2026-11-07:2|2026-11-08:0|2026-11-10:3|2026-11-11:-1;RFI
-3384;REG;Genova Brignole;S04700;Genova Piazza Principe;6;0;1.7;100.0;2026-11-05:3|2026-11-06:2|2026-11-08:-1|2026-11-09:4|2026-11-10:1|2026-11-11:1;RFI
+3384;REG;Genova Brignole;S04700;Genova Piazza Principe;7;0;3.0;85.7;2026-11-05:3|2026-11-06:2|2026-11-08:-1|2026-11-09:4|2026-11-10:1|2026-11-11:1|2026-11-12:11;RFI
 3406;REG;Trieste Centrale;S02593;Venezia S. Lucia;2;0;-3.5;100.0;2026-11-07:-6|2026-11-08:-1;RFI
 3414;REG;Trieste Centrale;S02593;Venezia S. Lucia;2;0;-5.5;100.0;2026-11-07:-4|2026-11-08:-7;RFI
 3426;REG;Trieste Centrale;S02593;Venezia S. Lucia;2;0;0.0;100.0;2026-11-07:1|2026-11-08:-1;RFI
@@ -1315,12 +1315,12 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 3504;REG;Venezia S.Lucia;S02581;Padova;3;0;9.3;0.0;2026-11-06:9|2026-11-10:11|2026-11-11:8;RFI
 3505;REG;Verona Porta Nuova;S02581;Padova;2;0;11.0;0.0;2026-11-07:16|2026-11-08:6;RFI
 3505;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;3;0;1.7;100.0;2026-11-05:1|2026-11-09:4|2026-11-11:0;RFI
-3506;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;4;0;7.2;25.0;2026-11-05:7|2026-11-09:11|2026-11-10:6|2026-11-11:5;RFI
+3506;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;5;0;7.2;20.0;2026-11-05:7|2026-11-09:11|2026-11-10:6|2026-11-11:5|2026-11-12:7;RFI
 3506;REG;Venezia S.Lucia;S02581;Padova;5;0;5.8;60.0;2026-11-06:5|2026-11-09:8|2026-11-10:6|2026-11-11:5|2026-11-12:5;RFI
 3507;REG;Verona Porta Nuova;S02581;Padova;1;0;7.0;0.0;2026-11-08:7;RFI
 3507;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;1;0;6.0;0.0;2026-11-09:6;RFI
 3508;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;7;0;2.9;71.4;2026-11-05:-2|2026-11-06:1|2026-11-07:0|2026-11-08:-2|2026-11-09:8|2026-11-10:5|2026-11-11:10;RFI
-3508;REG;Venezia S.Lucia;S02581;Padova;7;0;5.1;57.1;2026-11-05:3|2026-11-06:10|2026-11-07:2|2026-11-08:0|2026-11-09:8|2026-11-10:-1|2026-11-11:14;RFI
+3508;REG;Venezia Mestre;S02581;Padova;8;0;5.9;50.0;2026-11-05:3|2026-11-06:10|2026-11-07:2|2026-11-08:0|2026-11-09:8|2026-11-10:-1|2026-11-11:14|2026-11-12:11;RFI
 3513;REG;Verona Porta Nuova;S02581;Padova;2;0;8.5;50.0;2026-11-07:3|2026-11-08:14;RFI
 3513;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;2;0;-1.0;100.0;2026-11-09:-1|2026-11-11:-1;RFI
 3515;REG;Sacile;S02593;Venezia S. Lucia;6;0;0.0;100.0;2026-11-05:-1|2026-11-06:-1|2026-11-07:1|2026-11-08:-1|2026-11-09:0|2026-11-10:2;RFI
@@ -1329,7 +1329,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 3521;REG;Verona Porta Nuova;S02581;Padova;1;0;5.0;100.0;2026-11-07:5;RFI
 3521;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;4;0;-1.5;100.0;2026-11-05:1|2026-11-07:-2|2026-11-08:-2|2026-11-11:-3;RFI
 3523;REG;Verona Porta Nuova;S02593;Venezia S. Lucia;1;0;-2.0;100.0;2026-11-11:-2;RFI
-3524;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;1;0;-1.0;100.0;2026-11-11:-1;RFI
+3524;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;2;0;1.0;100.0;2026-11-11:-1|2026-11-12:3;RFI
 3524;REG;Venezia S.Lucia;S02581;Padova;1;0;6.0;0.0;2026-11-11:6;RFI
 3538;REG;Venezia S.Lucia;S02581;Padova;1;0;4.0;100.0;2026-11-08:4;RFI
 3551;REG;Verona Porta Nuova;S02581;Padova;1;0;7.0;0.0;2026-11-08:7;RFI
@@ -1414,7 +1414,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 3983;REG;Venezia S.Lucia;S05043;Bologna Centrale;3;0;-0.7;100.0;2026-11-09:2|2026-11-10:-2|2026-11-11:-2;RFI
 3984;REG;Bologna Centrale;S02581;Padova;4;0;-4.2;100.0;2026-11-06:-7|2026-11-10:-6|2026-11-11:-5|2026-11-12:1;RFI
 3984;REG;Bologna Centrale;S02593;Venezia S. Lucia;2;0;3.5;100.0;2026-11-07:5|2026-11-08:2;RFI
-3985;REG;Venezia S.Lucia;S05043;Bologna Centrale;1;0;-1.0;100.0;2026-11-06:-1;RFI
+3985;REG;Venezia S.Lucia;S05043;Bologna Centrale;2;0;0.5;100.0;2026-11-06:-1|2026-11-12:2;RFI
 3986;REG;Bologna Centrale;S02581;Padova;4;0;-0.8;100.0;2026-11-09:3|2026-11-10:-7|2026-11-11:2|2026-11-12:-1;RFI
 3986;REG;Bologna Centrale;S02593;Venezia S. Lucia;2;0;0.0;100.0;2026-11-07:-1|2026-11-08:1;RFI
 3987;REG;Venezia S.Lucia;S05043;Bologna Centrale;3;0;2.3;100.0;2026-11-05:1|2026-11-10:1|2026-11-11:5;RFI
@@ -1452,7 +1452,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 4048;REG;Laveno Mombello Lago;S01933;Saronno;1;0;-4.0;100.0;2026-11-08:-4;RFI
 4048;REG;Piombino Marittima;S06421;Firenze S.M.N.;6;0;0.2;100.0;2026-11-06:0|2026-11-07:-1|2026-11-09:1|2026-11-10:1|2026-11-11:-1|2026-11-12:1;RFI
 4050;REG;Livorno Centrale;S06421;Firenze S.M.N.;1;0;1.0;100.0;2026-11-08:1;RFI
-4052;REG;Livorno Centrale;S06421;Firenze S.M.N.;6;0;0.5;100.0;2026-11-05:1|2026-11-06:1|2026-11-07:-1|2026-11-09:1|2026-11-10:0|2026-11-11:1;RFI
+4052;REG;Livorno Centrale;S06421;Firenze S.M.N.;7;0;0.6;100.0;2026-11-05:1|2026-11-06:1|2026-11-07:-1|2026-11-09:1|2026-11-10:0|2026-11-11:1|2026-11-12:1;RFI
 4054;REG;Laveno Mombello Lago;S01933;Saronno;1;0;-1.0;100.0;2026-11-08:-1;RFI
 4058;REG;Pisa Centrale;S06421;Firenze S.M.N.;7;0;1.0;100.0;2026-11-05:4|2026-11-06:1|2026-11-07:0|2026-11-08:1|2026-11-09:1|2026-11-10:2|2026-11-11:-2;RFI
 4060;REG;Piombino Marittima;S06421;Firenze S.M.N.;4;0;-0.5;100.0;2026-11-05:4|2026-11-06:1|2026-11-09:-4|2026-11-10:-3;RFI
@@ -1473,14 +1473,14 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 4105;REG;Firenze Santa Maria Novella;S08409;Roma Termini;1;0;-8.0;100.0;2026-11-09:-8;RFI
 4106;REG;Roma Termini;S08217;Roma Tiburtina;2;0;2.0;100.0;2026-11-07:0|2026-11-08:4;RFI
 4107;REG;Firenze Santa Maria Novella;S08217;Roma Tiburtina;2;0;1.5;100.0;2026-11-07:1|2026-11-08:2;RFI
-4107;REG;Firenze Santa Maria Novella;S08409;Roma Termini;5;0;-0.6;100.0;2026-11-05:-1|2026-11-06:0|2026-11-09:0|2026-11-10:-1|2026-11-11:-1;RFI
+4107;REG;Firenze Santa Maria Novella;S08409;Roma Termini;6;0;-0.2;100.0;2026-11-05:-1|2026-11-06:0|2026-11-09:0|2026-11-10:-1|2026-11-11:-1|2026-11-12:2;RFI
 4110;REG;Roma Termini;S06421;Firenze S.M.N.;3;0;-1.0;100.0;2026-11-05:-6|2026-11-07:2|2026-11-08:1;RFI
 4111;REG;Firenze Santa Maria Novella;S08217;Roma Tiburtina;1;0;13.0;0.0;2026-11-11:13;RFI
 4111;REG;Firenze Santa Maria Novella;S08409;Roma Termini;5;0;-4.4;100.0;2026-11-06:5|2026-11-07:-9|2026-11-08:-8|2026-11-09:-5|2026-11-10:-5;RFI
 4125;REG;Pisa Centrale;S08409;Roma Termini;5;0;1.2;100.0;2026-11-06:5|2026-11-07:-2|2026-11-09:-2|2026-11-11:1|2026-11-12:4;RFI
 4131;REG;Pisa Centrale;S08409;Roma Termini;2;0;-0.5;100.0;2026-11-05:0|2026-11-09:-1;RFI
 4133;REG;Pisa Centrale;S08409;Roma Termini;6;0;0.5;100.0;2026-11-05:0|2026-11-06:-1|2026-11-09:1|2026-11-10:2|2026-11-11:0|2026-11-12:1;RFI
-4135;REG;Pisa Centrale;S08409;Roma Termini;3;0;0.3;100.0;2026-11-05:2|2026-11-09:0|2026-11-10:-1;RFI
+4135;REG;Pisa Centrale;S08409;Roma Termini;4;0;0.2;100.0;2026-11-05:2|2026-11-09:0|2026-11-10:-1|2026-11-12:0;RFI
 4137;REG;Pisa Centrale;S08409;Roma Termini;2;0;-1.5;100.0;2026-11-05:-3|2026-11-09:0;RFI
 4139;REG;Pisa Centrale;S08409;Roma Termini;2;0;7.0;0.0;2026-11-07:6|2026-11-08:8;RFI
 4150;REG;Roma Termini;S08217;Roma Tiburtina;3;0;4.0;66.7;2026-11-06:4|2026-11-09:7|2026-11-11:1;RFI
@@ -1629,7 +1629,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 4883;REG;Caserta;S09818;Salerno;6;0;-1.8;100.0;2026-11-05:-6|2026-11-06:1|2026-11-09:1|2026-11-10:-5|2026-11-11:-4|2026-11-12:2;RFI
 4885;REG;Caserta;S09818;Salerno;6;0;3.2;66.7;2026-11-05:2|2026-11-06:-1|2026-11-09:1|2026-11-10:1|2026-11-11:7|2026-11-12:9;RFI
 4887;REG;Caserta;S09818;Salerno;4;0;3.5;100.0;2026-11-06:4|2026-11-09:4|2026-11-11:1|2026-11-12:5;RFI
-4889;REG;Caserta;S09818;Salerno;5;1;-4.8;100.0;2026-11-05:S|2026-11-06:-2|2026-11-09:-8|2026-11-10:-13|2026-11-11:4;RFI
+4889;REG;Caserta;S09818;Salerno;6;1;-4.6;100.0;2026-11-05:S|2026-11-06:-2|2026-11-09:-8|2026-11-10:-13|2026-11-11:4|2026-11-12:-4;RFI
 4891;REG;Caserta;S09818;Salerno;5;0;2.8;80.0;2026-11-05:7|2026-11-06:3|2026-11-09:-4|2026-11-10:5|2026-11-11:3;RFI
 4893;REG;Caserta;S09818;Salerno;5;0;3.4;80.0;2026-11-06:4|2026-11-07:12|2026-11-08:0|2026-11-10:2|2026-11-11:-1;RFI
 4897;REG;Caserta;S09818;Salerno;1;1;0.0;0.0;2026-11-07:S;RFI
@@ -1639,11 +1639,11 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 4968;REG;Velletri;S08217;Roma Tiburtina;2;0;2.5;50.0;2026-11-06:6|2026-11-11:-1;RFI
 4970;REG;Velletri;S08217;Roma Tiburtina;3;0;5.7;66.7;2026-11-06:8|2026-11-10:5|2026-11-12:4;RFI
 4971;RE;Edolo;S09999;Brescia;1;0;5.0;100.0;2026-11-08:5;Trenord-FN
-4972;REG;Velletri;S08217;Roma Tiburtina;4;2;3.0;50.0;2026-11-05:S|2026-11-09:8|2026-11-10:-2|2026-11-11:S;RFI
+4972;REG;Velletri;S08217;Roma Tiburtina;5;2;4.7;33.3;2026-11-05:S|2026-11-09:8|2026-11-10:-2|2026-11-11:S|2026-11-12:8;RFI
 5001;REG;Mercato S.Severino;S09818;Salerno;1;0;4.0;100.0;2026-11-10:4;RFI
 5005;REG;Mercato S.Severino;S09818;Salerno;3;0;-3.7;100.0;2026-11-06:-6|2026-11-10:-8|2026-11-12:3;RFI
 5007;REG;Mercato S.Severino;S09818;Salerno;3;0;3.3;100.0;2026-11-09:4|2026-11-11:3|2026-11-12:3;RFI
-5009;REG;Mercato S.Severino;S09818;Salerno;3;0;-1.0;100.0;2026-11-05:-2|2026-11-06:-2|2026-11-09:1;RFI
+5009;REG;Mercato S.Severino;S09818;Salerno;4;0;-0.5;100.0;2026-11-05:-2|2026-11-06:-2|2026-11-09:1|2026-11-12:1;RFI
 5011;REG;Mercato S.Severino;S09818;Salerno;2;1;-3.0;100.0;2026-11-08:-3|2026-11-11:S;RFI
 5021;REG;Mercato S.Severino;S09818;Salerno;6;0;0.7;83.3;2026-11-06:5|2026-11-08:-6|2026-11-09:-1|2026-11-10:1|2026-11-11:6|2026-11-12:-1;RFI
 5023;REG;Mercato S.Severino;S09818;Salerno;4;0;2.5;100.0;2026-11-09:3|2026-11-10:-1|2026-11-11:4|2026-11-12:4;RFI
@@ -1683,12 +1683,13 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 5344;REG;Sicignano Degli Alburni;S09818;Salerno;4;0;5.2;50.0;2026-11-06:6|2026-11-10:4|2026-11-11:3|2026-11-12:8;RFI
 5346;REG;Eboli;S09818;Salerno;1;0;11.0;0.0;2026-11-07:11;RFI
 5347;REG;Napoli Centrale;S09818;Salerno;1;0;2.0;100.0;2026-11-07:2;RFI
-5348;REG;Eboli;S09218;Napoli Centrale;5;0;0.2;80.0;2026-11-05:-8|2026-11-06:3|2026-11-09:4|2026-11-10:8|2026-11-11:-6;RFI
+5348;REG;Eboli;S09218;Napoli Centrale;6;0;1.2;66.7;2026-11-05:-8|2026-11-06:3|2026-11-09:4|2026-11-10:8|2026-11-11:-6|2026-11-12:6;RFI
 5349;REG;Napoli Centrale;S09818;Salerno;1;0;1.0;100.0;2026-11-09:1;RFI
 5576;REG;Paola;S09818;Salerno;1;0;13.0;0.0;2026-11-08:13;RFI
 5578;REG;Cosenza;S09818;Salerno;1;0;7.0;0.0;2026-11-08:7;RFI
 5583;REG;Napoli Centrale;S09818;Salerno;1;0;8.0;0.0;2026-11-07:8;RFI
 5584;REG;Cosenza;S09818;Salerno;1;0;5.0;100.0;2026-11-07:5;RFI
+5585;REG;Napoli Centrale;S09818;Salerno;1;0;-7.0;100.0;2026-11-12:-7;RFI
 5590;REG;Cosenza;S09818;Salerno;1;0;6.0;0.0;2026-11-08:6;RFI
 5655;REG;Napoli Centrale;S09818;Salerno;1;0;2.0;100.0;2026-11-08:2;RFI
 5700;REG;Arechi;S09818;Salerno;5;0;0.8;100.0;2026-11-06:0|2026-11-09:1|2026-11-10:0|2026-11-11:2|2026-11-12:1;RFI
@@ -1723,7 +1724,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 5781;REG;Caserta;S09218;Napoli Centrale;6;0;-1.0;100.0;2026-11-05:2|2026-11-06:3|2026-11-09:-3|2026-11-10:-3|2026-11-11:-3|2026-11-12:-2;RFI
 5783;REG;Caserta;S09218;Napoli Centrale;6;0;-1.8;100.0;2026-11-05:-4|2026-11-06:-2|2026-11-09:-3|2026-11-10:-2|2026-11-11:-3|2026-11-12:3;RFI
 5785;REG;Caserta;S09218;Napoli Centrale;4;0;-0.2;100.0;2026-11-06:-2|2026-11-09:-2|2026-11-10:-2|2026-11-11:5;RFI
-5787;REG;Caserta;S09218;Napoli Centrale;4;0;-1.8;100.0;2026-11-05:0|2026-11-06:-3|2026-11-09:-1|2026-11-11:-3;RFI
+5787;REG;Caserta;S09218;Napoli Centrale;5;0;-1.6;100.0;2026-11-05:0|2026-11-06:-3|2026-11-09:-1|2026-11-11:-3|2026-11-12:-1;RFI
 5789;REG;Caserta;S09218;Napoli Centrale;5;0;-2.4;100.0;2026-11-05:-2|2026-11-06:-3|2026-11-09:-2|2026-11-10:-3|2026-11-11:-2;RFI
 5791;REG;Caserta;S09218;Napoli Centrale;1;0;-3.0;100.0;2026-11-09:-3;RFI
 5793;REG;Caserta;S09218;Napoli Centrale;6;0;-1.7;100.0;2026-11-06:1|2026-11-07:0|2026-11-08:-4|2026-11-09:-3|2026-11-11:-2|2026-11-12:-2;RFI
@@ -1923,14 +1924,14 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 8914;ITA;Roma Termini;ITVEM;Venezia Mestre;1;0;10.0;0.0;2026-11-05:10;Italo
 8914;ITA;Roma Termini;ITVSL;Venezia S. Lucia;2;0;5.0;50.0;2026-11-07:0|2026-11-12:10;Italo
 8915;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;1;0;0.0;100.0;2026-11-07:0;Italo
-8915;ITA;Venezia S.Lucia;ITNAC;Napoli Centrale;2;0;12.5;50.0;2026-11-05:25|2026-11-08:0;Italo
+8915;ITA;Venezia S.Lucia;ITNAC;Napoli Centrale;3;0;15.0;33.3;2026-11-05:25|2026-11-08:0|2026-11-12:20;Italo
 8915;ITA;Venezia S.Lucia;ITRMT;Roma Termini;1;0;0.0;100.0;2026-11-09:0;Italo
 8916;ITA;Roma Termini;ITVEM;Venezia Mestre;1;0;15.0;0.0;2026-11-09:15;Italo
 8916;ITA;Roma Termini;ITVSL;Venezia S. Lucia;2;0;0.0;100.0;2026-11-05:0|2026-11-12:0;Italo
 8918;ITA;Napoli Centrale;ITRMT;Roma Termini;2;0;25.0;50.0;2026-11-07:50|2026-11-08:0;Italo
 8918;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;1;0;15.0;0.0;2026-11-06:15;Italo
 8919;ITA;Venezia S.Lucia;ITBC_;Bologna Centrale;1;0;5.0;100.0;2026-11-06:5;Italo
-8919;ITA;Venezia S.Lucia;ITRTB;Roma Tiburtina;1;0;0.0;100.0;2026-11-11:0;Italo
+8919;ITA;Venezia S.Lucia;ITRTB;Roma Tiburtina;2;0;27.5;50.0;2026-11-11:0|2026-11-12:55;Italo
 8919;ITA;Venezia S.Lucia;ITVEM;Venezia Mestre;1;0;0.0;100.0;2026-11-11:0;Italo
 8920;ITA;Napoli Centrale;ITRMT;Roma Termini;1;0;10.0;0.0;2026-11-09:10;Italo
 8920;ITA;Napoli Centrale;ITSMN;Firenze S.M.N.;2;0;7.5;50.0;2026-11-07:0|2026-11-10:15;Italo
@@ -2042,7 +2043,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9321;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;2;0;2.5;100.0;2026-11-05:1|2026-11-09:4;RFI
 9321;FR;Torino Porta Nuova;S08409;Roma Termini;3;0;1.7;100.0;2026-11-07:-1|2026-11-09:4|2026-11-11:2;RFI
 9323;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;4;0;0.5;100.0;2026-11-06:-3|2026-11-09:2|2026-11-11:4|2026-11-12:-1;RFI
-9323;FR;Torino Porta Nuova;S08409;Roma Termini;7;0;-1.4;100.0;2026-11-05:0|2026-11-06:3|2026-11-07:-7|2026-11-08:1|2026-11-09:-4|2026-11-10:-2|2026-11-11:-1;RFI
+9323;FR;Torino Porta Nuova;S08409;Roma Termini;8;0;-1.2;100.0;2026-11-05:0|2026-11-06:3|2026-11-07:-7|2026-11-08:1|2026-11-09:-4|2026-11-10:-2|2026-11-11:-1|2026-11-12:0;RFI
 9325;FR;Torino Porta Nuova;S06421;Firenze S.M.N.;1;0;3.0;100.0;2026-11-09:3;RFI
 9325;FR;Torino Porta Nuova;S08217;Roma Tiburtina;1;0;7.0;0.0;2026-11-07:7;RFI
 9325;FR;Torino Porta Nuova;S08409;Roma Termini;4;0;10.8;25.0;2026-11-05:12|2026-11-08:4|2026-11-09:9|2026-11-11:18;RFI
@@ -2113,7 +2114,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9425;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;3;0;6.3;33.3;2026-11-06:4|2026-11-09:9|2026-11-11:6;RFI
 9425;FR;Bologna Centrale;S08409;Roma Termini;2;0;-2.0;100.0;2026-11-07:-3|2026-11-08:-1;RFI
 9425;FR;Venezia S.Lucia;S09218;Napoli Centrale;3;0;1.0;66.7;2026-11-06:-3|2026-11-09:0|2026-11-11:6;RFI
-9426;FR;Napoli Centrale;S02593;Venezia S. Lucia;4;0;7.0;50.0;2026-11-05:9|2026-11-08:4|2026-11-09:10|2026-11-11:5;RFI
+9426;FR;Napoli Centrale;S02593;Venezia S. Lucia;5;0;6.8;40.0;2026-11-05:9|2026-11-08:4|2026-11-09:10|2026-11-11:5|2026-11-12:6;RFI
 9426;FR;Napoli Centrale;S05043;Bologna Centrale;2;0;4.0;100.0;2026-11-05:4|2026-11-09:4;RFI
 9426;FR;Napoli Centrale;S08409;Roma Termini;1;0;14.0;0.0;2026-11-07:14;RFI
 9427;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;3;0;4.0;66.7;2026-11-07:-1|2026-11-10:8|2026-11-11:5;RFI
@@ -2135,7 +2136,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9432;FR;Napoli Centrale;S06421;Firenze S.M.N.;4;0;9.0;0.0;2026-11-07:6|2026-11-08:6|2026-11-09:10|2026-11-10:14;RFI
 9432;FR;Napoli Centrale;S08409;Roma Termini;1;0;10.0;0.0;2026-11-08:10;RFI
 9433;FR;Venezia S.Lucia;S02581;Padova;3;0;4.3;66.7;2026-11-09:9|2026-11-11:-1|2026-11-12:5;RFI
-9433;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;3;0;8.7;0.0;2026-11-05:8|2026-11-09:10|2026-11-11:8;RFI
+9433;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;4;0;9.0;0.0;2026-11-05:8|2026-11-09:10|2026-11-11:8|2026-11-12:10;RFI
 9433;FR;Venezia S.Lucia;S08409;Roma Termini;5;0;-0.8;100.0;2026-11-05:-6|2026-11-06:-1|2026-11-08:2|2026-11-09:-3|2026-11-10:4;RFI
 9434;FR;Napoli Centrale;S02593;Venezia S. Lucia;5;0;1.8;80.0;2026-11-05:13|2026-11-06:-1|2026-11-08:0|2026-11-09:2|2026-11-10:-5;RFI
 9435;FR;Venezia S.Lucia;S06421;Firenze S.M.N.;4;0;7.2;50.0;2026-11-05:2|2026-11-06:5|2026-11-09:11|2026-11-11:11;RFI
@@ -2145,7 +2146,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9437;FR;Venezia S.Lucia;S08409;Roma Termini;6;0;-4.3;100.0;2026-11-05:-7|2026-11-07:-8|2026-11-08:-6|2026-11-09:-2|2026-11-10:-6|2026-11-11:3;RFI
 9466;FR;Trieste Centrale;S05043;Bologna Centrale;2;0;2.0;50.0;2026-11-08:-2|2026-11-12:6;RFI
 9466;FR;Trieste Centrale;S08217;Roma Tiburtina;3;0;6.7;33.3;2026-11-06:11|2026-11-09:3|2026-11-11:6;RFI
-9480;FR;Roma Termini;S02581;Padova;3;0;11.0;0.0;2026-11-05:10|2026-11-07:13|2026-11-09:10;RFI
+9480;FR;Roma Termini;S02581;Padova;4;0;9.2;25.0;2026-11-05:10|2026-11-07:13|2026-11-09:10|2026-11-12:4;RFI
 9480;FR;Roma Termini;S05043;Bologna Centrale;1;0;-4.0;100.0;2026-11-07:-4;RFI
 9480;FR;Roma Termini;S08217;Roma Tiburtina;3;0;1.7;100.0;2026-11-06:1|2026-11-10:3|2026-11-11:1;RFI
 9490;FR;Salerno;S02593;Venezia S. Lucia;4;0;4.0;75.0;2026-11-09:8|2026-11-10:3|2026-11-11:4|2026-11-12:1;RFI
@@ -2374,7 +2375,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9652;FR;Napoli Centrale;S01700;Milano Centrale;5;0;10.6;40.0;2026-11-05:4|2026-11-06:12|2026-11-09:1|2026-11-10:15|2026-11-11:21;RFI
 9653;FR;Milano Centrale;S09218;Napoli Centrale;5;0;3.6;80.0;2026-11-05:2|2026-11-06:2|2026-11-09:2|2026-11-10:17|2026-11-11:-5;RFI
 9653;FR;Milano Centrale;S09818;Salerno;4;0;-1.2;75.0;2026-11-06:-5|2026-11-09:-4|2026-11-10:11|2026-11-11:-7;RFI
-9657;FR;Milano Centrale;S05043;Bologna Centrale;3;0;7.3;0.0;2026-11-06:7|2026-11-07:6|2026-11-10:9;RFI
+9657;FR;Milano Centrale;S05043;Bologna Centrale;4;0;8.8;0.0;2026-11-06:7|2026-11-07:6|2026-11-10:9|2026-11-12:13;RFI
 9657;FR;Milano Centrale;S08409;Roma Termini;3;0;1.3;100.0;2026-11-05:3|2026-11-06:0|2026-11-09:1;RFI
 9657;FR;Milano Centrale;S09218;Napoli Centrale;1;0;6.0;0.0;2026-11-08:6;RFI
 9660;FR;Napoli Centrale;S01700;Milano Centrale;4;0;4.0;75.0;2026-11-06:5|2026-11-07:2|2026-11-08:-1|2026-11-10:10;RFI
@@ -2386,7 +2387,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9663;FR;Milano Centrale;S08409;Roma Termini;6;0;-3.5;100.0;2026-11-05:-4|2026-11-06:0|2026-11-07:-6|2026-11-08:-6|2026-11-09:0|2026-11-10:-5;RFI
 9663;FR;Milano Centrale;S09218;Napoli Centrale;5;0;-0.6;80.0;2026-11-06:-4|2026-11-07:-13|2026-11-10:5|2026-11-11:6|2026-11-12:3;RFI
 9668;FR;Napoli Centrale;S01700;Milano Centrale;2;0;7.0;50.0;2026-11-05:-3|2026-11-11:17;RFI
-9668;FR;Napoli Centrale;S08409;Roma Termini;4;0;1.8;75.0;2026-11-05:0|2026-11-08:-5|2026-11-09:0|2026-11-11:12;RFI
+9668;FR;Napoli Centrale;S08409;Roma Termini;5;0;2.0;80.0;2026-11-05:0|2026-11-08:-5|2026-11-09:0|2026-11-11:12|2026-11-12:3;RFI
 9674;FR;Napoli Centrale;S06421;Firenze S.M.N.;4;0;-6.0;100.0;2026-11-07:-3|2026-11-08:-7|2026-11-10:-6|2026-11-11:-8;RFI
 9674;FR;Napoli Centrale;S08409;Roma Termini;3;0;-2.0;100.0;2026-11-06:-5|2026-11-09:1|2026-11-10:-2;RFI
 9681;FR;Milano Centrale;S08409;Roma Termini;4;0;3.8;75.0;2026-11-06:4|2026-11-08:3|2026-11-09:6|2026-11-10:2;RFI
@@ -2476,12 +2477,12 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9750;FR;Venezia S.Lucia;S02581;Padova;1;0;7.0;0.0;2026-11-11:7;RFI
 9751;FR;Milano Centrale;S01717;Brescia;2;0;4.0;100.0;2026-11-07:5|2026-11-08:3;RFI
 9752;FR;Venezia S.Lucia;S01700;Milano Centrale;2;0;12.0;0.0;2026-11-07:13|2026-11-08:11;RFI
-9752;FR;Venezia S.Lucia;S01717;Brescia;3;0;10.7;33.3;2026-11-05:14|2026-11-10:5|2026-11-11:13;RFI
+9752;FR;Venezia S.Lucia;S01717;Brescia;4;0;11.2;25.0;2026-11-05:14|2026-11-10:5|2026-11-11:13|2026-11-12:13;RFI
 9753;FR;Torino Porta Nuova;S01717;Brescia;1;0;9.0;0.0;2026-11-09:9;RFI
 9753;FR;Torino Porta Nuova;S02430;Verona Porta Nuova;1;0;8.0;0.0;2026-11-07:8;RFI
 9753;FR;Torino Porta Nuova;S02593;Venezia S. Lucia;1;0;6.0;0.0;2026-11-05:6;RFI
 9754;FR;Venezia S.Lucia;S01700;Milano Centrale;1;0;8.0;0.0;2026-11-11:8;RFI
-9754;FR;Venezia S.Lucia;S02430;Verona Porta Nuova;5;0;11.6;20.0;2026-11-06:20|2026-11-07:5|2026-11-08:8|2026-11-09:13|2026-11-10:12;RFI
+9754;FR;Venezia S.Lucia;S02430;Verona Porta Nuova;6;0;11.3;16.7;2026-11-06:20|2026-11-07:5|2026-11-08:8|2026-11-09:13|2026-11-10:12|2026-11-12:10;RFI
 9754;FR;Venezia S.Lucia;S02581;Padova;3;0;5.3;66.7;2026-11-09:7|2026-11-11:5|2026-11-12:4;RFI
 9755;FR;Milano Centrale;S01717;Brescia;1;0;7.0;0.0;2026-11-08:7;RFI
 9755;FR;Milano Centrale;S02581;Padova;2;0;9.0;0.0;2026-11-09:7|2026-11-11:11;RFI
@@ -2557,6 +2558,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9935;ITA;Torino Porta Nuova;ITRG_;Milano Rogoredo;2;0;0.0;100.0;2026-11-10:0|2026-11-12:0;Italo
 9935;ITA;Torino Porta Nuova;ITRMT;Roma Termini;1;0;25.0;0.0;2026-11-06:25;Italo
 9939;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;2;0;0.0;100.0;2026-11-07:0|2026-11-08:0;Italo
+9940;ITA;Napoli Centrale;ITMC_;Milano Centrale;1;0;90.0;0.0;2026-11-12:90;Italo
 9940;ITA;Napoli Centrale;ITRMT;Roma Termini;1;0;15.0;0.0;2026-11-07:15;Italo
 9940;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;3;0;31.7;33.3;2026-11-08:0|2026-11-09:65|2026-11-12:30;Italo
 9941;ITA;Brescia;ITBC_;Bologna Centrale;1;0;5.0;100.0;2026-11-07:5;Italo
@@ -2564,6 +2566,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9941;ITA;Brescia;ITRMT;Roma Termini;2;0;0.0;100.0;2026-11-06:0|2026-11-12:0;Italo
 9946;ITA;Napoli Centrale;ITBC_;Bologna Centrale;2;0;2.5;100.0;2026-11-05:5|2026-11-09:0;Italo
 9946;ITA;Napoli Centrale;ITOUE;Torino Porta Susa;1;0;30.0;0.0;2026-11-10:30;Italo
+9946;ITA;Napoli Centrale;ITRG_;Milano Rogoredo;1;0;40.0;0.0;2026-11-12:40;Italo
 9946;ITA;Napoli Centrale;ITRMT;Roma Termini;1;0;10.0;0.0;2026-11-07:10;Italo
 9946;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;1;0;5.0;100.0;2026-11-05:5;Italo
 9947;ITA;Torino Porta Nuova;ITAAV;Reggio Emilia AV;1;0;5.0;100.0;2026-11-08:5;Italo
@@ -2573,6 +2576,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9947;ITA;Torino Porta Nuova;ITSMN;Firenze S.M.N.;1;0;0.0;100.0;2026-11-08:0;Italo
 9948;ITA;Napoli Centrale;ITAAV;Reggio Emilia AV;1;0;20.0;0.0;2026-11-06:20;Italo
 9948;ITA;Napoli Centrale;ITRTB;Roma Tiburtina;2;0;0.0;100.0;2026-11-10:0|2026-11-11:0;Italo
+9950;ITA;Salerno;ITMC_;Milano Centrale;1;0;35.0;0.0;2026-11-12:35;Italo
 9951;ITA;Torino Porta Nuova;ITBC_;Bologna Centrale;1;0;0.0;100.0;2026-11-11:0;Italo
 9951;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;3;0;20.0;66.7;2026-11-05:0|2026-11-09:5|2026-11-10:55;Italo
 9951;ITA;Torino Porta Nuova;ITOUE;Torino Porta Susa;2;0;0.0;100.0;2026-11-07:0|2026-11-08:0;Italo
@@ -2629,6 +2633,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 9983;ITA;Milano Centrale;ITRMT;Roma Termini;1;0;25.0;0.0;2026-11-05:25;Italo
 9985;ITA;Milano Centrale;ITRMT;Roma Termini;1;0;20.0;0.0;2026-11-06:20;Italo
 9989;ITA;Milano Centrale;ITNAC;Napoli Centrale;1;0;0.0;100.0;2026-11-09:0;Italo
+9990;ITA;Roma Termini;ITBC_;Bologna Centrale;1;0;45.0;0.0;2026-11-12:45;Italo
 9990;ITA;Roma Termini;ITMC_;Milano Centrale;2;0;37.5;0.0;2026-11-06:35|2026-11-11:40;Italo
 9992;ITA;Salerno;ITRMT;Roma Termini;2;0;0.0;100.0;2026-11-07:0|2026-11-08:0;Italo
 9993;ITA;Milano Centrale;ITBC_;Bologna Centrale;2;0;5.0;100.0;2026-11-09:5|2026-11-11:5;Italo
@@ -2693,7 +2698,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 10066;REG;Mortara;S01820;Milano Rogoredo;5;0;3.0;80.0;2026-11-06:1|2026-11-09:2|2026-11-10:1|2026-11-11:1|2026-11-12:10;RFI
 10066;REG;Varese Nord;S01933;Saronno;2;0;0.0;100.0;2026-11-05:1|2026-11-09:-1;RFI
 10069;REG;Milano Rogoredo;S00470;Alessandria;2;0;10.5;50.0;2026-11-06:21|2026-11-11:0;Trenord-RFI
-10070;REG;Mortara;S01820;Milano Rogoredo;4;0;1.2;100.0;2026-11-05:0|2026-11-09:2|2026-11-10:-1|2026-11-11:4;RFI
+10070;REG;Mortara;S01820;Milano Rogoredo;5;0;2.0;100.0;2026-11-05:0|2026-11-09:2|2026-11-10:-1|2026-11-11:4|2026-11-12:5;RFI
 10071;REG;Milano Rogoredo;S00034;Mortara;1;0;4.0;100.0;2026-11-11:4;Trenord-RFI
 10073;REG;Milano Rogoredo;S00470;Alessandria;4;0;11.0;75.0;2026-11-06:47|2026-11-09:-2|2026-11-10:1|2026-11-11:-2;Trenord-RFI
 10073;REG;Milano Cadorna;S01933;Saronno;1;0;-2.0;100.0;2026-11-09:-2;RFI
@@ -2718,7 +2723,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 10104;REG;Brescia;S01529;Bergamo;5;0;3.4;100.0;2026-11-06:2|2026-11-07:3|2026-11-09:3|2026-11-10:5|2026-11-11:4;Trenord-FN
 10105;REG;Bergamo;S01717;Brescia;5;0;4.4;80.0;2026-11-05:3|2026-11-06:4|2026-11-09:6|2026-11-10:5|2026-11-11:4;RFI
 10105;REG;Bergamo;S09999;Brescia;1;0;3.0;100.0;2026-11-11:3;Trenord-FN
-10106;REG;Brescia;S01529;Bergamo;6;0;3.0;100.0;2026-11-05:3|2026-11-06:3|2026-11-07:5|2026-11-09:3|2026-11-10:2|2026-11-11:2;RFI
+10106;REG;Brescia;S01529;Bergamo;7;0;3.6;85.7;2026-11-05:3|2026-11-06:3|2026-11-07:5|2026-11-09:3|2026-11-10:2|2026-11-11:2|2026-11-12:7;RFI
 10112;REG;Brescia;S01529;Bergamo;5;0;4.4;80.0;2026-11-06:4|2026-11-09:4|2026-11-10:5|2026-11-11:3|2026-11-12:6;RFI
 10114;REG;Brescia;S01529;Bergamo;5;0;6.2;60.0;2026-11-06:3|2026-11-08:-1|2026-11-10:14|2026-11-11:3|2026-11-12:12;RFI
 10115;REG;Bergamo;S09999;Brescia;1;0;15.0;0.0;2026-11-10:15;Trenord-FN
@@ -2765,7 +2770,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 10334;REG;Lecco;S01430;Sondrio;1;0;20.0;0.0;2026-11-11:20;Trenord-RFI
 10335;REG;Sondrio;S01520;Lecco;4;0;0.5;100.0;2026-11-06:1|2026-11-09:2|2026-11-10:-1|2026-11-12:0;RFI
 10336;REG;Lecco;S01420;Colico;1;0;13.0;0.0;2026-11-11:13;Trenord-RFI
-10337;REG;Colico;S01520;Lecco;5;0;2.4;80.0;2026-11-05:4|2026-11-06:1|2026-11-09:1|2026-11-10:0|2026-11-11:6;RFI
+10337;REG;Colico;S01520;Lecco;6;0;3.0;66.7;2026-11-05:4|2026-11-06:1|2026-11-09:1|2026-11-10:0|2026-11-11:6|2026-11-12:6;RFI
 10338;REG;Lecco;S01420;Colico;5;1;-0.2;100.0;2026-11-06:S|2026-11-07:-1|2026-11-09:3|2026-11-10:-1|2026-11-11:-2;Trenord-RFI
 10339;REG;Sondrio;S01520;Lecco;5;0;2.2;100.0;2026-11-05:2|2026-11-06:2|2026-11-09:3|2026-11-10:0|2026-11-11:4;RFI
 10341;REG;Colico;S01520;Lecco;7;0;-0.7;100.0;2026-11-05:-1|2026-11-06:-2|2026-11-07:-1|2026-11-08:0|2026-11-09:0|2026-11-10:0|2026-11-11:-1;Trenord-RFI
@@ -2901,7 +2906,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 10734;REG;Ponte S.Pietro;S01520;Lecco;3;0;2.3;66.7;2026-11-09:0|2026-11-11:-2|2026-11-12:9;RFI
 10736;REG;Ponte S.Pietro;S01520;Lecco;6;0;1.8;100.0;2026-11-05:2|2026-11-06:2|2026-11-09:1|2026-11-10:1|2026-11-11:2|2026-11-12:3;RFI
 10738;REG;Ponte S.Pietro;S01520;Lecco;2;0;-0.5;100.0;2026-11-09:-1|2026-11-12:0;RFI
-10740;REG;Ponte S.Pietro;S01520;Lecco;4;0;0.0;100.0;2026-11-05:-2|2026-11-06:-1|2026-11-09:1|2026-11-11:2;RFI
+10740;REG;Ponte S.Pietro;S01520;Lecco;5;0;0.2;100.0;2026-11-05:-2|2026-11-06:-1|2026-11-09:1|2026-11-11:2|2026-11-12:1;RFI
 10742;REG;Ponte S.Pietro;S01520;Lecco;5;0;-2.6;100.0;2026-11-05:-1|2026-11-06:-4|2026-11-09:-6|2026-11-10:-2|2026-11-11:0;RFI
 10743;REG;Lecco;S01528;Ponte S.Pietro;2;0;5.0;50.0;2026-11-06:9|2026-11-11:1;Trenord-RFI
 10744;REG;Ponte S.Pietro;S01520;Lecco;7;0;-0.6;100.0;2026-11-05:0|2026-11-06:3|2026-11-07:0|2026-11-08:-5|2026-11-09:0|2026-11-10:-1|2026-11-11:-1;Trenord-RFI
@@ -3078,8 +3083,8 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 12427;REG;Savona;S04700;Genova Piazza Principe;3;0;9.3;33.3;2026-11-06:13|2026-11-10:13|2026-11-11:2;RFI
 12430;REG;Sestri Levante;S04700;Genova Piazza Principe;4;0;3.8;75.0;2026-11-06:1|2026-11-09:6|2026-11-11:4|2026-11-12:4;RFI
 12437;REG;Savona;S04700;Genova Piazza Principe;4;0;3.5;75.0;2026-11-06:2|2026-11-10:0|2026-11-11:1|2026-11-12:11;RFI
-12440;REG;Sestri Levante;S04700;Genova Piazza Principe;2;0;4.0;50.0;2026-11-05:6|2026-11-09:2;RFI
-12447;REG;Savona;S04700;Genova Piazza Principe;4;0;1.0;100.0;2026-11-05:2|2026-11-06:3|2026-11-09:1|2026-11-10:-2;RFI
+12440;REG;Sestri Levante;S04700;Genova Piazza Principe;3;0;3.0;66.7;2026-11-05:6|2026-11-09:2|2026-11-12:1;RFI
+12447;REG;Savona;S04700;Genova Piazza Principe;5;0;2.0;80.0;2026-11-05:2|2026-11-06:3|2026-11-09:1|2026-11-10:-2|2026-11-12:6;RFI
 12448;REG;Sestri Levante;S04700;Genova Piazza Principe;1;0;1.0;100.0;2026-11-07:1;RFI
 12450;REG;Sestri Levante;S04700;Genova Piazza Principe;4;0;2.0;100.0;2026-11-05:1|2026-11-06:2|2026-11-09:3|2026-11-11:2;RFI
 12460;REG;Genova Brignole;S04700;Genova Piazza Principe;3;0;3.0;100.0;2026-11-05:2|2026-11-09:5|2026-11-10:2;RFI
@@ -3151,7 +3156,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 12714;REG;Frosinone;S08409;Roma Termini;5;0;1.0;100.0;2026-11-05:4|2026-11-09:0|2026-11-10:-1|2026-11-11:0|2026-11-12:2;RFI
 12716;REG;Frosinone;S08409;Roma Termini;3;0;2.0;100.0;2026-11-05:3|2026-11-06:0|2026-11-09:3;RFI
 12718;REG;Frosinone;S08409;Roma Termini;3;0;0.0;100.0;2026-11-06:-2|2026-11-09:1|2026-11-12:1;RFI
-12720;REG;Frosinone;S08409;Roma Termini;3;0;-3.0;100.0;2026-11-05:-6|2026-11-09:0|2026-11-11:-3;RFI
+12720;REG;Frosinone;S08409;Roma Termini;4;0;-3.5;100.0;2026-11-05:-6|2026-11-09:0|2026-11-11:-3|2026-11-12:-5;RFI
 12723;REG;Civitavecchia;S08409;Roma Termini;1;0;4.0;100.0;2026-11-07:4;RFI
 12724;REG;Frosinone;S08409;Roma Termini;5;0;-0.2;100.0;2026-11-05:0|2026-11-06:0|2026-11-09:-3|2026-11-10:-2|2026-11-11:4;RFI
 12732;REG;Minturno-Scauri;S08409;Roma Termini;3;0;2.0;66.7;2026-11-08:-5|2026-11-10:12|2026-11-12:-1;RFI
@@ -3250,7 +3255,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 16691;REG;Bolzano;S02430;Verona Porta Nuova;3;0;-0.7;100.0;2026-11-06:-5|2026-11-11:3|2026-11-12:0;RFI
 16693;REG;Bolzano;S02430;Verona Porta Nuova;2;0;7.0;50.0;2026-11-05:11|2026-11-09:3;RFI
 16697;REG;Bolzano;S02430;Verona Porta Nuova;2;0;-7.5;100.0;2026-11-09:-6|2026-11-11:-9;RFI
-16701;REG;Bolzano;S02430;Verona Porta Nuova;3;0;-11.0;100.0;2026-11-05:-16|2026-11-09:-9|2026-11-11:-8;RFI
+16701;REG;Bolzano;S02430;Verona Porta Nuova;4;0;-11.8;100.0;2026-11-05:-16|2026-11-09:-9|2026-11-11:-8|2026-11-12:-14;RFI
 16705;REG;Bolzano;S02430;Verona Porta Nuova;3;0;-2.7;100.0;2026-11-05:-5|2026-11-09:-2|2026-11-11:-1;RFI
 16711;REG;Bolzano;S02430;Verona Porta Nuova;3;0;0.0;100.0;2026-11-05:2|2026-11-09:3|2026-11-10:-5;RFI
 16715;REG;Bolzano;S02430;Verona Porta Nuova;1;0;5.0;100.0;2026-11-08:5;RFI
@@ -3271,7 +3276,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 16811;REG;Udine;S02593;Venezia S. Lucia;2;0;-1.5;100.0;2026-11-07:0|2026-11-08:-3;RFI
 16813;REG;Treviso Centrale;S02593;Venezia S. Lucia;1;0;1.0;100.0;2026-11-07:1;RFI
 16815;REG;Udine;S02593;Venezia S. Lucia;4;0;2.5;100.0;2026-11-06:-1|2026-11-09:3|2026-11-11:5|2026-11-12:3;RFI
-16821;REG;Udine;S02593;Venezia S. Lucia;3;0;2.7;100.0;2026-11-05:3|2026-11-09:3|2026-11-11:2;RFI
+16821;REG;Udine;S02593;Venezia S. Lucia;4;0;2.8;100.0;2026-11-05:3|2026-11-09:3|2026-11-11:2|2026-11-12:3;RFI
 16825;REG;Udine;S02593;Venezia S. Lucia;3;0;2.7;100.0;2026-11-05:4|2026-11-09:4|2026-11-11:0;RFI
 16831;REG;Udine;S02593;Venezia S. Lucia;2;0;-1.0;100.0;2026-11-05:-1|2026-11-09:-1;RFI
 16862;REG;Trieste Centrale;S02593;Venezia S. Lucia;1;0;2.0;100.0;2026-11-10:2;RFI
@@ -3351,7 +3356,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 17226;REG;Venezia S.Lucia;S02581;Padova;1;1;0.0;0.0;2026-11-09:S;RFI
 17227;REG;Verona Porta Nuova;S02581;Padova;1;0;-3.0;100.0;2026-11-05:-3;RFI
 17231;REG;Vicenza;S02581;Padova;3;0;6.0;33.3;2026-11-06:9|2026-11-10:3|2026-11-11:6;RFI
-17235;REG;Vicenza;S02581;Padova;2;1;7.0;0.0;2026-11-05:7|2026-11-09:S;RFI
+17235;REG;Vicenza;S02581;Padova;3;1;9.0;0.0;2026-11-05:7|2026-11-09:S|2026-11-12:11;RFI
 17235;REG;Vicenza;S02593;Venezia S. Lucia;1;1;0.0;0.0;2026-11-09:S;RFI
 17238;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;1;0;-1.0;100.0;2026-11-08:-1;RFI
 17240;REG;Venezia S.Lucia;S02581;Padova;3;0;-0.7;100.0;2026-11-06:0|2026-11-10:-3|2026-11-11:1;RFI
@@ -3407,7 +3412,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 17507;REG;S.Pietro In Casale;S05043;Bologna Centrale;2;0;0.5;100.0;2026-11-11:-2|2026-11-12:3;RFI
 17510;REG;Imola;S05043;Bologna Centrale;3;0;4.0;66.7;2026-11-06:3|2026-11-10:6|2026-11-11:3;RFI
 17516;REG;Imola;S05043;Bologna Centrale;1;1;0.0;0.0;2026-11-10:S;RFI
-17518;REG;Imola;S05043;Bologna Centrale;6;0;-0.8;100.0;2026-11-05:-1|2026-11-06:-2|2026-11-07:-1|2026-11-09:0|2026-11-10:1|2026-11-11:-2;RFI
+17518;REG;Imola;S05043;Bologna Centrale;7;0;0.4;85.7;2026-11-05:-1|2026-11-06:-2|2026-11-07:-1|2026-11-09:0|2026-11-10:1|2026-11-11:-2|2026-11-12:8;RFI
 17520;REG;Imola;S05043;Bologna Centrale;6;0;-0.2;100.0;2026-11-05:-4|2026-11-06:-1|2026-11-07:3|2026-11-09:4|2026-11-10:-1|2026-11-11:-2;RFI
 17522;REG;Imola;S05043;Bologna Centrale;1;0;0.0;100.0;2026-11-08:0;RFI
 17524;REG;Imola;S05043;Bologna Centrale;4;0;0.5;100.0;2026-11-05:1|2026-11-06:2|2026-11-09:1|2026-11-10:-2;RFI
@@ -3460,7 +3465,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 17774;REG;Pianoro;S05043;Bologna Centrale;3;0;0.7;100.0;2026-11-06:2|2026-11-10:-3|2026-11-11:3;RFI
 17778;REG;Pianoro;S05043;Bologna Centrale;3;0;2.7;100.0;2026-11-06:5|2026-11-10:1|2026-11-11:2;RFI
 17782;REG;Pianoro;S05043;Bologna Centrale;4;0;0.0;100.0;2026-11-06:-1|2026-11-10:-3|2026-11-11:2|2026-11-12:2;RFI
-17786;REG;Pianoro;S05043;Bologna Centrale;4;0;3.0;100.0;2026-11-05:3|2026-11-06:5|2026-11-09:2|2026-11-10:2;RFI
+17786;REG;Bologna S.Ruffillo;S05043;Bologna Centrale;5;0;3.6;80.0;2026-11-05:3|2026-11-06:5|2026-11-09:2|2026-11-10:2|2026-11-12:6;RFI
 17796;REG;Pianoro;S05043;Bologna Centrale;5;0;-0.2;80.0;2026-11-05:-2|2026-11-06:8|2026-11-08:-1|2026-11-09:-3|2026-11-10:-3;RFI
 17798;REG;Pianoro;S05043;Bologna Centrale;1;0;-4.0;100.0;2026-11-11:-4;RFI
 17802;REG;S.Benedetto Sambro-Castiglione Pepoli;S05043;Bologna Centrale;4;0;-2.8;100.0;2026-11-06:-5|2026-11-10:1|2026-11-11:-4|2026-11-12:-3;RFI
@@ -3512,7 +3517,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 17967;REG;Ferrara;S05043;Bologna Centrale;5;0;-2.8;100.0;2026-11-06:-4|2026-11-07:-2|2026-11-10:-5|2026-11-11:-4|2026-11-12:1;RFI
 17969;REG;Ferrara;S05043;Bologna Centrale;3;0;1.3;100.0;2026-11-06:-2|2026-11-10:3|2026-11-11:3;RFI
 17971;REG;Ferrara;S05043;Bologna Centrale;5;0;-0.2;80.0;2026-11-06:6|2026-11-09:-4|2026-11-10:-1|2026-11-11:2|2026-11-12:-4;RFI
-17973;REG;Ferrara;S05043;Bologna Centrale;7;0;1.1;85.7;2026-11-05:1|2026-11-06:14|2026-11-07:-6|2026-11-08:-6|2026-11-09:0|2026-11-10:1|2026-11-11:4;RFI
+17973;REG;Ferrara;S05043;Bologna Centrale;8;0;1.0;87.5;2026-11-05:1|2026-11-06:14|2026-11-07:-6|2026-11-08:-6|2026-11-09:0|2026-11-10:1|2026-11-11:4|2026-11-12:0;RFI
 17975;REG;Ferrara;S05043;Bologna Centrale;5;0;-4.6;100.0;2026-11-05:-4|2026-11-06:-3|2026-11-07:-6|2026-11-10:-4|2026-11-11:-6;RFI
 17977;REG;Ferrara;S05043;Bologna Centrale;2;0;-4.0;100.0;2026-11-05:-5|2026-11-11:-3;RFI
 18194;REG;Siena;S06421;Firenze S.M.N.;1;0;-4.0;100.0;2026-11-07:-4;RFI
@@ -3529,7 +3534,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 18228;REG;Siena;S06421;Firenze S.M.N.;3;0;-1.7;100.0;2026-11-05:-1|2026-11-09:-1|2026-11-12:-3;RFI
 18232;REG;Siena;S06421;Firenze S.M.N.;4;0;-0.8;100.0;2026-11-05:0|2026-11-09:-2|2026-11-11:0|2026-11-12:-1;RFI
 18234;REG;Siena;S06421;Firenze S.M.N.;3;0;-2.3;100.0;2026-11-09:-3|2026-11-11:-1|2026-11-12:-3;RFI
-18236;REG;Siena;S06421;Firenze S.M.N.;4;0;-2.0;100.0;2026-11-05:-3|2026-11-06:-3|2026-11-09:1|2026-11-11:-3;RFI
+18236;REG;Siena;S06421;Firenze S.M.N.;5;0;-2.0;100.0;2026-11-05:-3|2026-11-06:-3|2026-11-09:1|2026-11-11:-3|2026-11-12:-2;RFI
 18238;REG;Siena;S06421;Firenze S.M.N.;5;0;-2.8;100.0;2026-11-05:-3|2026-11-06:-3|2026-11-09:-1|2026-11-10:-4|2026-11-11:-3;RFI
 18242;REG;Siena;S06421;Firenze S.M.N.;1;0;-3.0;100.0;2026-11-09:-3;RFI
 18252;REG;Livorno Centrale;S06421;Firenze S.M.N.;5;0;0.0;100.0;2026-11-06:3|2026-11-07:0|2026-11-10:-1|2026-11-11:-1|2026-11-12:-1;RFI
@@ -3579,7 +3584,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 18515;REG;Viareggio;S06421;Firenze S.M.N.;5;0;1.0;80.0;2026-11-06:6|2026-11-09:-1|2026-11-10:-1|2026-11-11:-1|2026-11-12:2;RFI
 18519;REG;Viareggio;S06421;Firenze S.M.N.;3;0;16.7;66.7;2026-11-05:1|2026-11-09:-2|2026-11-12:51;RFI
 18521;REG;Viareggio;S06421;Firenze S.M.N.;3;0;-0.3;100.0;2026-11-05:-2|2026-11-09:-1|2026-11-12:2;RFI
-18525;REG;Viareggio;S06421;Firenze S.M.N.;2;0;1.0;100.0;2026-11-05:4|2026-11-09:-2;RFI
+18525;REG;Viareggio;S06421;Firenze S.M.N.;3;0;26.3;66.7;2026-11-05:4|2026-11-09:-2|2026-11-12:77;RFI
 18527;REG;Viareggio;S06421;Firenze S.M.N.;1;0;-1.0;100.0;2026-11-09:-1;RFI
 18529;REG;Viareggio;S06421;Firenze S.M.N.;2;0;0.0;100.0;2026-11-09:0|2026-11-11:0;RFI
 18531;REG;Viareggio;S06421;Firenze S.M.N.;2;0;-1.5;100.0;2026-11-10:-1|2026-11-11:-2;RFI
@@ -3604,7 +3609,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 18766;REG;Arezzo;S06421;Firenze S.M.N.;6;0;5.5;33.3;2026-11-05:7|2026-11-06:7|2026-11-09:8|2026-11-10:9|2026-11-11:4|2026-11-12:-2;RFI
 18770;REG;Arezzo;S06421;Firenze S.M.N.;6;0;-0.3;100.0;2026-11-05:2|2026-11-06:-2|2026-11-09:-1|2026-11-10:-2|2026-11-11:3|2026-11-12:-2;RFI
 18772;REG;Arezzo;S06421;Firenze S.M.N.;5;0;2.0;80.0;2026-11-06:1|2026-11-09:-1|2026-11-10:0|2026-11-11:6|2026-11-12:4;RFI
-18774;REG;Arezzo;S06421;Firenze S.M.N.;6;0;5.5;50.0;2026-11-05:12|2026-11-06:2|2026-11-07:-3|2026-11-09:10|2026-11-10:5|2026-11-11:7;RFI
+18774;REG;Arezzo;S06421;Firenze S.M.N.;7;0;5.1;57.1;2026-11-05:12|2026-11-06:2|2026-11-07:-3|2026-11-09:10|2026-11-10:5|2026-11-11:7|2026-11-12:3;RFI
 18776;REG;Arezzo;S06421;Firenze S.M.N.;6;0;2.0;83.3;2026-11-05:3|2026-11-06:4|2026-11-07:0|2026-11-09:-3|2026-11-10:2|2026-11-11:6;RFI
 18778;REG;Firenze Campo Marte;S06421;Firenze S.M.N.;1;0;4.0;100.0;2026-11-10:4;RFI
 18780;REG;Arezzo;S06421;Firenze S.M.N.;4;0;1.0;100.0;2026-11-05:2|2026-11-06:4|2026-11-09:-2|2026-11-10:0;RFI
@@ -3635,7 +3640,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 19603;REG;Modena;S05043;Bologna Centrale;6;0;1.7;83.3;2026-11-05:2|2026-11-06:6|2026-11-09:-3|2026-11-10:-2|2026-11-11:4|2026-11-12:3;RFI
 19605;REG;Modena;S05043;Bologna Centrale;4;0;-0.2;100.0;2026-11-06:4|2026-11-07:-4|2026-11-10:-2|2026-11-11:1;RFI
 19607;REG;Modena;S05043;Bologna Centrale;4;0;31.2;75.0;2026-11-06:-1|2026-11-09:-4|2026-11-10:-1|2026-11-11:131;RFI
-19609;REG;Modena;S05043;Bologna Centrale;6;0;-0.3;100.0;2026-11-05:-3|2026-11-06:0|2026-11-07:2|2026-11-09:-1|2026-11-10:4|2026-11-11:-4;RFI
+19609;REG;Modena;S05043;Bologna Centrale;7;0;0.0;100.0;2026-11-05:-3|2026-11-06:0|2026-11-07:2|2026-11-09:-1|2026-11-10:4|2026-11-11:-4|2026-11-12:2;RFI
 19611;REG;Modena;S05043;Bologna Centrale;6;0;1.7;83.3;2026-11-05:13|2026-11-06:1|2026-11-07:-3|2026-11-09:-3|2026-11-10:-1|2026-11-11:3;RFI
 19613;REG;Modena;S05043;Bologna Centrale;3;0;0.0;100.0;2026-11-05:-1|2026-11-09:1|2026-11-10:0;RFI
 19743;REG;Pescara;S08217;Roma Tiburtina;1;0;-2.0;100.0;2026-11-08:-2;RFI
@@ -3677,7 +3682,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 20020;REG;Albano Laziale;S08409;Roma Termini;8;0;2.2;100.0;2026-11-05:4|2026-11-06:2|2026-11-07:1|2026-11-08:-2|2026-11-09:3|2026-11-10:3|2026-11-11:4|2026-11-12:3;RFI
 20022;REG;Albano Laziale;S08409;Roma Termini;4;0;4.8;50.0;2026-11-06:7|2026-11-07:-1|2026-11-10:1|2026-11-11:12;RFI
 20026;REG;Albano Laziale;S08409;Roma Termini;4;0;3.5;100.0;2026-11-06:3|2026-11-09:2|2026-11-10:4|2026-11-12:5;RFI
-20030;REG;Albano Laziale;S08409;Roma Termini;6;0;3.2;83.3;2026-11-05:3|2026-11-06:1|2026-11-07:-2|2026-11-09:0|2026-11-10:4|2026-11-11:13;RFI
+20030;REG;Albano Laziale;S08409;Roma Termini;7;0;3.1;85.7;2026-11-05:3|2026-11-06:1|2026-11-07:-2|2026-11-09:0|2026-11-10:4|2026-11-11:13|2026-11-12:3;RFI
 20032;REG;Albano Laziale;S08409;Roma Termini;7;0;0.3;85.7;2026-11-05:-1|2026-11-06:-1|2026-11-07:-1|2026-11-08:-3|2026-11-09:0|2026-11-10:0|2026-11-11:8;RFI
 20034;REG;Albano Laziale;S08409;Roma Termini;4;0;0.0;100.0;2026-11-05:0|2026-11-06:0|2026-11-09:0|2026-11-10:0;RFI
 20036;REG;Albano Laziale;S08409;Roma Termini;5;0;2.6;80.0;2026-11-05:1|2026-11-06:1|2026-11-07:0|2026-11-09:3|2026-11-10:8;RFI
@@ -3826,7 +3831,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 20763;REG;Cesano Di Roma;S08217;Roma Tiburtina;3;0;0.7;100.0;2026-11-05:2|2026-11-09:-1|2026-11-12:1;RFI
 20765;REG;Cesano Di Roma;S08217;Roma Tiburtina;3;0;1.3;100.0;2026-11-09:1|2026-11-11:1|2026-11-12:2;RFI
 20767;REG;Cesano Di Roma;S08217;Roma Tiburtina;2;0;0.5;100.0;2026-11-09:-1|2026-11-11:2;RFI
-20769;REG;Cesano Di Roma;S08217;Roma Tiburtina;1;0;1.0;100.0;2026-11-05:1;RFI
+20769;REG;Cesano Di Roma;S08217;Roma Tiburtina;2;0;-0.5;100.0;2026-11-05:1|2026-11-12:-2;RFI
 20771;REG;Fiumicino Aeroporto;S08217;Roma Tiburtina;1;0;2.0;100.0;2026-11-07:2;RFI
 20777;REG;Avezzano;S08217;Roma Tiburtina;1;0;-7.0;100.0;2026-11-07:-7;RFI
 20789;REG;Avezzano;S08217;Roma Tiburtina;2;0;-0.5;100.0;2026-11-09:0|2026-11-12:-1;RFI
@@ -3878,7 +3883,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 21077;REG;Roma Termini;S09218;Napoli Centrale;4;0;-4.2;100.0;2026-11-07:-7|2026-11-09:1|2026-11-10:-8|2026-11-11:-3;RFI
 21078;REG;Napoli Centrale;S08409;Roma Termini;1;0;-3.0;100.0;2026-11-07:-3;RFI
 21081;REG;Roma Termini;S09218;Napoli Centrale;1;0;3.0;100.0;2026-11-08:3;RFI
-21083;REG;Roma Termini;S09218;Napoli Centrale;5;0;-1.4;100.0;2026-11-05:-3|2026-11-06:2|2026-11-09:2|2026-11-10:-4|2026-11-11:-4;RFI
+21083;REG;Roma Termini;S09218;Napoli Centrale;6;0;-1.2;100.0;2026-11-05:-3|2026-11-06:2|2026-11-09:2|2026-11-10:-4|2026-11-11:-4|2026-11-12:0;RFI
 21084;REG;Napoli Centrale;S08409;Roma Termini;1;0;-6.0;100.0;2026-11-08:-6;RFI
 21085;REG;Roma Termini;S09218;Napoli Centrale;1;0;-10.0;100.0;2026-11-08:-10;RFI
 21086;REG;Napoli Centrale;S08409;Roma Termini;1;0;5.0;100.0;2026-11-08:5;RFI
@@ -4013,7 +4018,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 23265;REG;Bracciano;S08217;Roma Tiburtina;6;0;3.0;83.3;2026-11-05:3|2026-11-06:1|2026-11-09:4|2026-11-10:-1|2026-11-11:8|2026-11-12:3;RFI
 23267;REG;Bracciano;S08217;Roma Tiburtina;5;0;1.6;80.0;2026-11-06:10|2026-11-07:-1|2026-11-08:-1|2026-11-10:-2|2026-11-11:2;RFI
 23269;REG;Bracciano;S08217;Roma Tiburtina;4;0;1.8;100.0;2026-11-09:-2|2026-11-10:3|2026-11-11:1|2026-11-12:5;RFI
-23271;REG;Bracciano;S08217;Roma Tiburtina;6;0;3.2;83.3;2026-11-05:-2|2026-11-06:10|2026-11-07:-1|2026-11-09:4|2026-11-10:4|2026-11-11:4;RFI
+23271;REG;Bracciano;S08217;Roma Tiburtina;7;0;4.0;71.4;2026-11-05:-2|2026-11-06:10|2026-11-07:-1|2026-11-09:4|2026-11-10:4|2026-11-11:4|2026-11-12:9;RFI
 23327;REG;Bracciano;S08217;Roma Tiburtina;2;0;0.0;100.0;2026-11-07:1|2026-11-08:-1;RFI
 23341;REG;Boiano;S08409;Roma Termini;2;0;-1.5;100.0;2026-11-07:-2|2026-11-08:-1;RFI
 23347;REG;Boiano;S08409;Roma Termini;3;0;-5.7;100.0;2026-11-07:-10|2026-11-10:-1|2026-11-12:-6;RFI
@@ -4044,7 +4049,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 23553;REG;Barletta;S11119;Bari Centrale;1;0;-2.0;100.0;2026-11-07:-2;RFI
 23555;REG;Barletta;S11119;Bari Centrale;3;0;4.0;66.7;2026-11-10:3|2026-11-11:3|2026-11-12:6;RFI
 23559;REG;Barletta;S11119;Bari Centrale;2;0;-1.5;100.0;2026-11-09:-1|2026-11-11:-2;RFI
-23561;REG;Barletta;S11119;Bari Centrale;3;0;0.0;100.0;2026-11-09:0|2026-11-10:-2|2026-11-11:2;RFI
+23561;REG;Barletta;S11119;Bari Centrale;4;0;0.8;100.0;2026-11-09:0|2026-11-10:-2|2026-11-11:2|2026-11-12:3;RFI
 23564;REG;Fasano;S11119;Bari Centrale;5;0;-0.6;100.0;2026-11-05:-2|2026-11-06:-1|2026-11-09:-2|2026-11-10:2|2026-11-11:0;RFI
 23565;REG;Barletta;S11119;Bari Centrale;4;0;1.8;75.0;2026-11-05:1|2026-11-09:2|2026-11-10:-2|2026-11-11:6;RFI
 23568;REG;Fasano;S11119;Bari Centrale;1;0;4.0;100.0;2026-11-05:4;RFI
@@ -4177,7 +4182,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 24264;S2;Milano Rogoredo;S01925;Seveso;1;1;0.0;0.0;2026-11-06:S;Trenord-FN
 24265;S2;Seveso;S01820;Milano Rogoredo;1;0;141.0;0.0;2026-11-06:141;Trenord-FN
 24266;S2;Milano Rogoredo;S01925;Seveso;1;1;0.0;0.0;2026-11-06:S;Trenord-FN
-24267;REG;Seveso;S01820;Milano Rogoredo;4;0;3.5;100.0;2026-11-05:2|2026-11-09:4|2026-11-10:3|2026-11-11:5;RFI
+24267;REG;Seveso;S01820;Milano Rogoredo;5;0;4.0;80.0;2026-11-05:2|2026-11-09:4|2026-11-10:3|2026-11-11:5|2026-11-12:6;RFI
 24270;S2;Milano Rogoredo;S01925;Seveso;3;1;4.5;100.0;2026-11-06:S|2026-11-10:4|2026-11-11:5;Trenord-FN
 24271;REG;Seveso;S01820;Milano Rogoredo;4;1;3.3;66.7;2026-11-06:S|2026-11-09:4|2026-11-10:-2|2026-11-11:8;RFI
 24272;S2;Milano Rogoredo;S01925;Seveso;3;1;2.0;100.0;2026-11-06:S|2026-11-10:-1|2026-11-11:5;Trenord-FN
@@ -4226,7 +4231,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 24361;REG;Garbagnate Milanese;S01860;Pavia;1;0;5.0;100.0;2026-11-09:5;RFI
 24363;REG;Garbagnate Milanese;S01820;Milano Rogoredo;2;0;2.0;100.0;2026-11-09:1|2026-11-11:3;RFI
 24364;REG;Pavia;S01820;Milano Rogoredo;4;0;9.8;0.0;2026-11-06:9|2026-11-10:11|2026-11-11:6|2026-11-12:13;RFI
-24367;REG;Garbagnate Milanese;S01820;Milano Rogoredo;2;0;0.0;100.0;2026-11-05:-1|2026-11-11:1;RFI
+24367;REG;Garbagnate Milanese;S01820;Milano Rogoredo;3;0;0.3;100.0;2026-11-05:-1|2026-11-11:1|2026-11-12:1;RFI
 24368;REG;Pavia;S01820;Milano Rogoredo;6;0;6.3;50.0;2026-11-05:5|2026-11-06:7|2026-11-08:4|2026-11-09:9|2026-11-10:3|2026-11-11:10;RFI
 24369;REG;Milano Bovisa Politecnico;S01860;Pavia;4;0;6.8;50.0;2026-11-06:12|2026-11-07:6|2026-11-08:5|2026-11-11:4;RFI
 24370;S13;Pavia;S01642;Milano Bovisa Politecnico;1;0;1.0;100.0;2026-11-11:1;Trenord-RFI
@@ -4430,11 +4435,11 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 24866;REG;Milano Porta Garibaldi;S01322;Monza;4;0;10.5;0.0;2026-11-06:8|2026-11-10:8|2026-11-11:17|2026-11-12:9;RFI
 24866;REG;Milano Porta Garibaldi;S01520;Lecco;1;0;-1.0;100.0;2026-11-07:-1;RFI
 24869;REG;Lecco;S01322;Monza;1;0;6.0;0.0;2026-11-09:6;RFI
-24870;REG;Milano Porta Garibaldi;S01322;Monza;4;0;5.8;75.0;2026-11-06:5|2026-11-07:4|2026-11-10:5|2026-11-11:9;RFI
+24870;REG;Milano Porta Garibaldi;S01322;Monza;5;0;6.4;60.0;2026-11-06:5|2026-11-07:4|2026-11-10:5|2026-11-11:9|2026-11-12:9;RFI
 24870;REG;Milano Porta Garibaldi;S01520;Lecco;1;0;2.0;100.0;2026-11-07:2;RFI
 24871;S8;Lecco;S01645;Milano Porta Garibaldi;1;1;0.0;0.0;2026-11-05:S;Trenord
 24872;REG;Milano Porta Garibaldi;S01520;Lecco;5;1;1.2;100.0;2026-11-05:S|2026-11-07:4|2026-11-08:-1|2026-11-09:-1|2026-11-11:3;RFI
-24873;REG;Lecco;S01322;Monza;1;0;1.0;100.0;2026-11-09:1;RFI
+24873;REG;Lecco;S01322;Monza;2;0;1.0;100.0;2026-11-09:1|2026-11-12:1;RFI
 24874;REG;Milano Porta Garibaldi;S01322;Monza;4;0;6.5;25.0;2026-11-05:7|2026-11-06:7|2026-11-09:4|2026-11-10:8;RFI
 24874;S8;Milano Porta Garibaldi;S01520;Lecco;4;0;-1.2;100.0;2026-11-05:-2|2026-11-07:-3|2026-11-10:-1|2026-11-11:1;Trenord-RFI
 24875;S8;Lecco;S01645;Milano Porta Garibaldi;1;0;-2.0;100.0;2026-11-11:-2;Trenord-RFI
@@ -4501,11 +4506,11 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 24966;REG;Albairate-Vermezzo;S01322;Monza;4;0;7.0;50.0;2026-11-06:5|2026-11-10:4|2026-11-11:12|2026-11-12:7;RFI
 24968;S9;Albairate;S01933;Saronno;1;0;122.0;0.0;2026-11-06:122;Trenord-RFI
 24969;REG;Saronno;S01322;Monza;4;0;2.8;75.0;2026-11-06:2|2026-11-09:-1|2026-11-11:8|2026-11-12:2;RFI
-24970;REG;Albairate-Vermezzo;S01322;Monza;4;0;6.2;25.0;2026-11-05:7|2026-11-09:9|2026-11-10:1|2026-11-11:8;RFI
+24970;REG;Albairate-Vermezzo;S01322;Monza;5;0;7.0;20.0;2026-11-05:7|2026-11-09:9|2026-11-10:1|2026-11-11:8|2026-11-12:10;RFI
 24972;REG;Albairate-Vermezzo;S01322;Monza;1;1;0.0;0.0;2026-11-06:S;RFI
 24972;S9;Albairate;S01933;Saronno;3;1;2.5;100.0;2026-11-06:S|2026-11-09:0|2026-11-11:5;Trenord-RFI
 24973;S9;Saronno;S01059;Albairate;1;0;-2.0;100.0;2026-11-11:-2;Trenord-RFI
-24973;REG;Saronno;S01322;Monza;5;0;3.4;80.0;2026-11-05:2|2026-11-06:3|2026-11-09:7|2026-11-10:2|2026-11-11:3;RFI
+24973;REG;Saronno;S01322;Monza;6;0;4.0;66.7;2026-11-05:2|2026-11-06:3|2026-11-09:7|2026-11-10:2|2026-11-11:3|2026-11-12:7;RFI
 24975;S9;Saronno;S01059;Albairate;2;0;1.5;100.0;2026-11-05:1|2026-11-11:2;Trenord-RFI
 24976;S9;Albairate;S01933;Saronno;2;0;1.5;100.0;2026-11-05:1|2026-11-11:2;Trenord-RFI
 24977;S9;Saronno;S01059;Albairate;2;0;1.5;100.0;2026-11-05:2|2026-11-11:1;Trenord-RFI
@@ -4572,7 +4577,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 25065;REG;Como S.Giovanni;S01322;Monza;2;0;6.0;50.0;2026-11-05:9|2026-11-09:3;RFI
 25066;REG;Milano Porta Garibaldi;S01322;Monza;2;0;-1.0;100.0;2026-11-07:-1|2026-11-08:-1;RFI
 25067;REG;Como S.Giovanni;S01322;Monza;1;0;3.0;100.0;2026-11-08:3;RFI
-25068;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;6;0;4.2;83.3;2026-11-05:5|2026-11-06:-2|2026-11-08:1|2026-11-09:4|2026-11-10:3|2026-11-11:14;RFI
+25068;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;7;0;5.4;71.4;2026-11-05:5|2026-11-06:-2|2026-11-08:1|2026-11-09:4|2026-11-10:3|2026-11-11:14|2026-11-12:13;RFI
 25070;REG;Milano Porta Garibaldi;S01322;Monza;2;0;1.0;100.0;2026-11-07:1|2026-11-08:1;RFI
 25071;REG;Como S.Giovanni;S01322;Monza;2;0;4.0;100.0;2026-11-07:4|2026-11-08:4;RFI
 25072;REG;Milano Porta Garibaldi;S01307;Como S. Giovanni;6;0;5.7;83.3;2026-11-05:26|2026-11-06:0|2026-11-08:3|2026-11-09:1|2026-11-10:5|2026-11-11:-1;RFI
@@ -4613,7 +4618,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 25130;REG;Pm Albate;S01307;Como S. Giovanni;4;0;2.8;100.0;2026-11-06:3|2026-11-10:3|2026-11-11:1|2026-11-12:4;RFI
 25132;REG;Pm Albate;S01307;Como S. Giovanni;3;0;4.3;66.7;2026-11-06:5|2026-11-10:1|2026-11-11:7;RFI
 25134;REG;Pm Albate;S01307;Como S. Giovanni;4;0;2.8;100.0;2026-11-06:3|2026-11-09:4|2026-11-11:2|2026-11-12:2;RFI
-25136;REG;Pm Albate;S01307;Como S. Giovanni;5;0;2.2;100.0;2026-11-05:5|2026-11-06:1|2026-11-09:3|2026-11-10:2|2026-11-11:0;RFI
+25136;REG;Pm Albate;S01307;Como S. Giovanni;6;0;2.7;100.0;2026-11-05:5|2026-11-06:1|2026-11-09:3|2026-11-10:2|2026-11-11:0|2026-11-12:5;RFI
 25138;REG;Pm Albate;S01307;Como S. Giovanni;4;0;2.5;75.0;2026-11-05:1|2026-11-06:2|2026-11-09:0|2026-11-10:7;RFI
 25140;REG;Pm Albate;S01307;Como S. Giovanni;2;0;2.0;100.0;2026-11-05:4|2026-11-09:0;RFI
 25142;S10;;S01301;Chiasso;1;0;-2.0;100.0;2026-11-05:-2;Trenord
@@ -4631,7 +4636,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 25177;REG;Chiasso;S01307;Como S. Giovanni;4;0;-0.5;100.0;2026-11-05:-1|2026-11-09:0|2026-11-11:-2|2026-11-12:1;RFI
 25179;REG;Chiasso;S01307;Como S. Giovanni;6;0;0.2;100.0;2026-11-05:1|2026-11-06:-2|2026-11-09:-1|2026-11-10:2|2026-11-11:-1|2026-11-12:2;RFI
 25181;REG;Chiasso;S01307;Como S. Giovanni;2;0;1.0;100.0;2026-11-09:1|2026-11-11:1;RFI
-25183;REG;Chiasso;S01307;Como S. Giovanni;5;0;-0.2;100.0;2026-11-05:-1|2026-11-06:-1|2026-11-09:1|2026-11-10:-2|2026-11-11:2;RFI
+25183;REG;Chiasso;S01307;Como S. Giovanni;6;0;-0.2;100.0;2026-11-05:-1|2026-11-06:-1|2026-11-09:1|2026-11-10:-2|2026-11-11:2|2026-11-12:0;RFI
 25185;REG;Chiasso;S01307;Como S. Giovanni;5;0;-0.6;100.0;2026-11-05:-1|2026-11-06:0|2026-11-09:-1|2026-11-10:-2|2026-11-11:1;RFI
 25186;S10;Como S.Giovanni;S05209;Biasca;3;0;-3.0;100.0;2026-11-07:-3|2026-11-08:-3|2026-11-11:-3;Trenord-RFI
 25187;REG;Chiasso;S01307;Como S. Giovanni;2;0;0.0;100.0;2026-11-05:0|2026-11-09:0;RFI
@@ -4808,8 +4813,8 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 25660;REG;Melegnano;S01820;Milano Rogoredo;3;0;3.3;66.7;2026-11-06:2|2026-11-10:8|2026-11-11:0;RFI
 25663;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;4;0;2.0;75.0;2026-11-06:-3|2026-11-09:7|2026-11-11:3|2026-11-12:1;RFI
 25664;REG;Melegnano;S01820;Milano Rogoredo;5;1;3.5;50.0;2026-11-06:S|2026-11-09:7|2026-11-10:-1|2026-11-11:7|2026-11-12:1;RFI
-25667;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;5;1;0.8;100.0;2026-11-05:1|2026-11-06:S|2026-11-09:2|2026-11-10:-1|2026-11-11:1;RFI
-25668;REG;Melegnano;S01820;Milano Rogoredo;5;0;5.0;60.0;2026-11-05:9|2026-11-06:9|2026-11-09:0|2026-11-10:5|2026-11-11:2;RFI
+25667;REG;Milano Bovisa Politecnico;S01820;Milano Rogoredo;6;1;0.8;100.0;2026-11-05:1|2026-11-06:S|2026-11-09:2|2026-11-10:-1|2026-11-11:1|2026-11-12:1;RFI
+25668;REG;Melegnano;S01820;Milano Rogoredo;6;0;5.0;66.7;2026-11-05:9|2026-11-06:9|2026-11-09:0|2026-11-10:5|2026-11-11:2|2026-11-12:5;RFI
 25670;S12;Melegnano;S01642;Milano Bovisa Politecnico;1;0;4.0;100.0;2026-11-11:4;Trenord-RFI
 25672;S12;Melegnano;S01642;Milano Bovisa Politecnico;1;0;5.0;100.0;2026-11-11:5;Trenord-RFI
 25672;REG;Melegnano;S01820;Milano Rogoredo;5;1;4.5;50.0;2026-11-05:6|2026-11-06:S|2026-11-09:1|2026-11-10:2|2026-11-11:9;RFI
@@ -4833,8 +4838,8 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 25859;REG;Milano Porta Garibaldi;S01322;Monza;4;0;5.5;50.0;2026-11-05:7|2026-11-09:3|2026-11-11:3|2026-11-12:9;RFI
 25863;REG;Milano Porta Garibaldi;S01322;Monza;4;0;6.2;75.0;2026-11-05:17|2026-11-06:2|2026-11-10:2|2026-11-12:4;RFI
 25867;REG;Milano Porta Garibaldi;S01322;Monza;1;0;4.0;100.0;2026-11-09:4;RFI
-25871;REG;Milano Porta Garibaldi;S01322;Monza;4;0;2.5;100.0;2026-11-06:3|2026-11-09:2|2026-11-10:1|2026-11-11:4;RFI
-25872;REG;Ponte S.Pietro;S01322;Monza;5;0;3.0;80.0;2026-11-05:1|2026-11-06:4|2026-11-09:3|2026-11-10:1|2026-11-11:6;RFI
+25871;REG;Milano Porta Garibaldi;S01322;Monza;5;0;3.4;80.0;2026-11-06:3|2026-11-09:2|2026-11-10:1|2026-11-11:4|2026-11-12:7;RFI
+25872;REG;Ponte S.Pietro;S01322;Monza;6;0;3.5;66.7;2026-11-05:1|2026-11-06:4|2026-11-09:3|2026-11-10:1|2026-11-11:6|2026-11-12:6;RFI
 25874;REG;Ponte S.Pietro;S01645;Milano Porta Garibaldi;1;0;14.0;0.0;2026-11-11:14;Trenord-RFI
 25875;REG;Milano Porta Garibaldi;S01322;Monza;5;0;2.2;100.0;2026-11-05:3|2026-11-06:3|2026-11-09:-1|2026-11-10:3|2026-11-11:3;RFI
 25875;REG;Milano Porta Garibaldi;S01528;Ponte S.Pietro;3;0;0.0;100.0;2026-11-07:-1|2026-11-08:-2|2026-11-11:3;Trenord-RFI
@@ -4888,7 +4893,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 26925;REG;Bardonecchia;S00219;Torino Porta Nuova;6;0;0.3;83.3;2026-11-05:2|2026-11-06:0|2026-11-09:6|2026-11-10:-2|2026-11-11:-2|2026-11-12:-2;RFI
 26927;REG;Bardonecchia;S00219;Torino Porta Nuova;6;0;2.0;100.0;2026-11-05:1|2026-11-06:4|2026-11-09:2|2026-11-10:5|2026-11-11:-3|2026-11-12:3;RFI
 26929;REG;Bardonecchia;S00219;Torino Porta Nuova;3;0;-0.3;100.0;2026-11-09:0|2026-11-11:0|2026-11-12:-1;RFI
-26931;REG;Bardonecchia;S00219;Torino Porta Nuova;5;0;0.8;80.0;2026-11-05:6|2026-11-06:2|2026-11-09:-2|2026-11-10:-1|2026-11-11:-1;RFI
+26931;REG;Bardonecchia;S00219;Torino Porta Nuova;6;0;0.3;83.3;2026-11-05:6|2026-11-06:2|2026-11-09:-2|2026-11-10:-1|2026-11-11:-1|2026-11-12:-2;RFI
 26933;REG;Bardonecchia;S00219;Torino Porta Nuova;5;0;-0.8;100.0;2026-11-05:4|2026-11-06:-1|2026-11-09:-2|2026-11-10:-3|2026-11-11:-2;RFI
 26935;REG;Bardonecchia;S00219;Torino Porta Nuova;4;0;-1.0;100.0;2026-11-05:2|2026-11-06:-1|2026-11-09:-1|2026-11-10:-4;RFI
 26937;REG;Bardonecchia;S00219;Torino Porta Nuova;4;0;-1.2;100.0;2026-11-05:-5|2026-11-06:-1|2026-11-09:-2|2026-11-10:3;RFI
