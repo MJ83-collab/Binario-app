@@ -1,5 +1,6 @@
 giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;visto;fonte
 2026-11-15;12490;REG;Genova Brignole;S04700;Genova Piazza Principe;00:41;0;0;0;23:15;RFI
+2026-11-15;16028;REG;Venezia S.Lucia;S02430;Verona Porta Nuova;02:14;6;0;0;02:05;RFI
 2026-11-15;2247;REG;Milano Centrale;S01529;Bergamo;00:55;0;0;0;23:15;RFI
 2026-11-15;22586;REG;Arechi;S09818;Salerno;00:26;0;0;0;23:15;RFI
 2026-11-15;22588;REG;Arechi;S09818;Salerno;00:56;0;0;0;23:15;RFI
@@ -28,7 +29,21 @@ giorno;numero;categoria;origine;stazione;nome;orario;ritardo;soppresso;arrivato;
 2026-11-15;757;ICN;Torino Porta Nuova;S05043;Bologna Centrale;00:22;28;0;0;23:15;RFI
 2026-11-15;770;ICN;Trieste Centrale;S05043;Bologna Centrale;00:55;-6;0;0;23:15;RFI
 2026-11-15;801;REG;Milano Cadorna;S01933;Saronno;00:37;0;0;0;23:15;RFI
+2026-11-15;8192;ITA;Reggio Di Calabria Centrale;ITRMT;Roma Termini;23:30;0;0;0;02:05;Italo
+2026-11-15;8922;ITA;Napoli Centrale;ITVEM;Venezia Mestre;21:42;20;0;0;02:05;Italo
+2026-11-15;8922;ITA;Napoli Centrale;ITVSL;Venezia S. Lucia;21:57;20;0;0;02:05;Italo
 2026-11-15;897;REG;Milano Cadorna;S01933;Saronno;00:07;0;0;0;23:15;RFI
 2026-11-15;9330;FR;Roma Termini;S01700;Milano Centrale;00:25;7;0;0;23:15;RFI
+2026-11-15;95225;ICN;Torino Porta Nuova;S09818;Salerno;03:35;1;0;0;02:05;RFI
 2026-11-15;9663;FR;Milano Centrale;S09218;Napoli Centrale;00:03;3;0;0;23:15;RFI
 2026-11-15;98971;NCL;Desio;S01322;Monza;00:55;0;1;0;23:15;RFI
+2026-11-15;98973;NCL;Camnago-Lentate;S01322;Monza;02:05;0;1;0;02:05;RFI
+2026-11-15;98975;NCL;Camnago-Lentate;S01322;Monza;03:15;0;1;0;02:05;RFI
+2026-11-15;9951;ITA;Torino Porta Nuova;ITSAL;Salerno;22:32;0;0;0;02:05;Italo
+2026-11-15;9959;ITA;Torino Porta Nuova;ITNAC;Napoli Centrale;23:43;0;0;0;02:05;Italo
+2026-11-15;9961;ITA;Torino Porta Nuova;ITRMT;Roma Termini;23:24;25;0;0;02:05;Italo
+2026-11-15;9962;ITA;Salerno;ITAAV;Reggio Emilia AV;23:28;0;0;0;02:05;Italo
+2026-11-15;9962;ITA;Salerno;ITMC_;Milano Centrale;00:20;0;0;1;02:05;Italo
+2026-11-15;9962;ITA;Salerno;ITRG_;Milano Rogoredo;00:09;0;0;1;02:05;Italo
+2026-11-15;9963;ITA;Torino Porta Nuova;ITRTB;Roma Tiburtina;00:09;0;0;1;02:05;Italo
+2026-11-15;9994;ITA;Napoli Centrale;ITTOP;Torino Porta Nuova;23:30;0;0;0;02:05;Italo
