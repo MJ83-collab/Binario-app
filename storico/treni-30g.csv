@@ -460,7 +460,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 793;S4;Milano Cadorna;S01316;Camnago-Lentate;7;0;0.6;100.0;2026-11-06:1|2026-11-07:-5|2026-11-08:-4|2026-11-09:5|2026-11-10:3|2026-11-11:1|2026-11-16:3;Trenord-FN
 794;ICN;Reggio Di Calabria Centrale;S00219;Torino Porta Nuova;1;0;3.0;100.0;2026-11-07:3;RFI
 794;ICN;Reggio Di Calabria Centrale;S04700;Genova Piazza Principe;1;0;2.0;100.0;2026-11-12:2;RFI
-794;ICN;Reggio Di Calabria Centrale;S09818;Salerno;1;0;11.0;0.0;2026-11-20:11;RFI
+794;ICN;Reggio Di Calabria Centrale;S09818;Salerno;2;0;10.5;0.0;2026-11-20:11|2026-11-21:10;RFI
 795;S4;Milano Cadorna;S01316;Camnago-Lentate;2;0;1.0;100.0;2026-11-11:-1|2026-11-16:3;Trenord-FN
 796;ICN;Salerno;S00219;Torino Porta Nuova;2;0;1.5;100.0;2026-11-09:2|2026-11-12:1;RFI
 796;ICN;Salerno;S04700;Genova Piazza Principe;1;0;-1.0;100.0;2026-11-09:-1;RFI
@@ -3735,6 +3735,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 17421;REG;Parma;S05043;Bologna Centrale;1;0;-3.0;100.0;2026-11-05:-3;RFI
 17423;REG;Modena;S05043;Bologna Centrale;4;0;1.8;100.0;2026-11-06:2|2026-11-09:4|2026-11-10:1|2026-11-11:0;RFI
 17425;REG;Piacenza;S05043;Bologna Centrale;2;0;1.5;100.0;2026-11-07:4|2026-11-08:-1;RFI
+17432;REG;Faenza;S05043;Bologna Centrale;1;1;0.0;0.0;2026-11-21:S;RFI
 17434;REG;Rimini;S05043;Bologna Centrale;5;0;2.2;80.0;2026-11-06:1|2026-11-09:7|2026-11-10:0|2026-11-11:0|2026-11-12:3;RFI
 17438;REG;Rimini;S05043;Bologna Centrale;1;0;1.0;100.0;2026-11-07:1;RFI
 17440;REG;Rimini;S05043;Bologna Centrale;1;0;0.0;100.0;2026-11-08:0;RFI
@@ -5362,6 +5363,7 @@ numero;categoria;origine;stazione;nome;n_osservazioni;n_soppressi;ritardo_medio_
 25978;S;Albairate;S01820;Milano Rogoredo;3;0;1.0;100.0;2026-11-06:5|2026-11-10:-1|2026-11-11:-1;Trenord-RFI
 25980;S;Albairate;S01820;Milano Rogoredo;2;0;0.0;100.0;2026-11-06:-1|2026-11-11:1;Trenord-RFI
 25982;S;Albairate;S01820;Milano Rogoredo;3;1;-2.0;100.0;2026-11-06:S|2026-11-10:-2|2026-11-11:-2;Trenord-RFI
+26351;REG;Bussoleno;S00219;Torino Porta Nuova;1;1;0.0;0.0;2026-11-21:S;RFI
 26353;REG;Susa;S00219;Torino Porta Nuova;1;0;-4.0;100.0;2026-11-08:-4;RFI
 26359;REG;Susa;S00219;Torino Porta Nuova;2;0;-0.5;100.0;2026-11-09:-2|2026-11-17:1;RFI
 26361;REG;Susa;S00219;Torino Porta Nuova;1;0;-5.0;100.0;2026-11-10:-5;RFI
